@@ -1,0 +1,135 @@
+body {
+  background: #ffffff;
+  min-height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+.auth-wrapper {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+/* Glass card style */
+.glass {
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(25px);
+  border-radius: 24px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 2.5rem;
+  box-shadow: 0 8px 45px rgba(0, 0, 0, 0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  z-index: 10;
+}
+
+.glass:hover {
+  transform: scale(1.02);
+  box-shadow: 0 12px 55px rgba(0, 0, 0, 0.35);
+}
+
+/* Header */
+.card-header h1,
+.card-header p {
+  text-align: center;
+}
+
+.gradient-text {
+  display: block;
+  width: 100%;
+  text-align: center;
+  background: linear-gradient(to right, #3B82F6, #E879F9, #C084FC);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Inputs */
+.input-field {
+  display: block;           /* Make it respect margin auto */
+  width: 80%;               /* Adjust width as needed */
+  margin: 0.75rem auto;     /* Vertical spacing + center horizontally */
+  background: rgba(255, 255, 255, 0.35);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  color: #000;
+  font-size: 1.1rem;
+  border-radius: 14px !important;
+  padding: 14px !important;
+  outline: none;
+  transition: 0.3s;
+}
+
+.input-field:focus {
+  background: rgba(255, 255, 255, 0.6);
+  border-color: #3b82f6;
+}
+
+/* Buttons */
+.btn {
+  display: block;      
+  width: 50%;          /* Adjust width as needed */
+  margin: 1rem auto;   /* Center horizontally and add vertical spacing */
+  padding: 14px 0;
+  font-size: 1.1rem;
+  border-radius: 14px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+
+.btn-login {
+  background: #3b82f6;
+  color: #fff;
+}
+
+.btn-login:hover {
+  background: #2563eb;
+}
+
+.btn-signup {
+  background: #ec4899;
+  color: #fff;
+}
+
+.btn-signup:hover {
+  background: #db2777;
+}
+
+
+/* Toggle link and quote spacing */
+.toggle-link {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.toggle-link:hover {
+  text-decoration: underline;
+}
+
+.quote {
+  margin-top: 2rem;
+  font-size: 1.25rem;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 500;
+}
+
+.back-btn {
+  border: none;
+  background: transparent;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.back-btn:hover {
+  text-decoration: underline;
+}
+

@@ -1,0 +1,936 @@
+{
+  "quizzes": [
+    {
+      "lesson_slug": "paragraph-writing",
+      "lesson_title": "Paragraph Writing",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is the primary purpose of a topic sentence?",
+              "options": ["To conclude the paragraph", "To state the main idea", "To provide examples", "To transition between paragraphs"],
+              "correct_answer": "To state the main idea",
+              "marks": 1,
+              "explanation": "Topic sentences establish the paragraph's focus and direction."
+            },
+            {
+              "question_id": 2,
+              "question": "Where is the topic sentence typically placed?",
+              "options": ["At the end", "In the middle", "At the beginning", "Anywhere in the paragraph"],
+              "correct_answer": "At the beginning",
+              "marks": 1,
+              "explanation": "Though it can appear elsewhere, the beginning is most common."
+            },
+            {
+              "question_id": 3,
+              "question": "What should supporting sentences do?",
+              "options": ["Repeat the topic", "Provide details that develop the topic", "Start new topics", "Conclude the essay"],
+              "correct_answer": "Provide details that develop the topic",
+              "marks": 1,
+              "explanation": "Supporting sentences elaborate with examples, facts, or explanations."
+            },
+            {
+              "question_id": 4,
+              "question": "Which is an example of coherence in a paragraph?",
+              "options": ["Long sentences", "Using transitional words", "Colorful adjectives", "Complex vocabulary"],
+              "correct_answer": "Using transitional words",
+              "marks": 1,
+              "explanation": "Transitions (however, furthermore, therefore) connect ideas smoothly."
+            },
+            {
+              "question_id": 5,
+              "question": "What is a concluding sentence?",
+              "options": ["Repeats the topic exactly", "Restates or reinforces the main idea", "Introduces a new topic", "Summarizes the whole essay"],
+              "correct_answer": "Restates or reinforces the main idea",
+              "marks": 1,
+              "explanation": "It should echo the topic without exact repetition."
+            },
+            {
+              "question_id": 6,
+              "question": "What type of paragraph tells a story?",
+              "options": ["Expository", "Descriptive", "Narrative", "Persuasive"],
+              "correct_answer": "Narrative",
+              "marks": 1,
+              "explanation": "Narrative paragraphs describe events in sequence."
+            },
+            {
+              "question_id": 7,
+              "question": "Which paragraph type tries to convince the reader?",
+              "options": ["Narrative", "Descriptive", "Persuasive", "Expository"],
+              "correct_answer": "Persuasive",
+              "marks": 1,
+              "explanation": "Persuasive paragraphs present arguments and evidence."
+            },
+            {
+              "question_id": 8,
+              "question": "What does unity in a paragraph mean?",
+              "options": ["Long paragraphs", "All sentences relate to the topic", "Starting with a quote", "Using dialogue"],
+              "correct_answer": "All sentences relate to the topic",
+              "marks": 1,
+              "explanation": "Unity ensures the paragraph stays focused on one main idea."
+            },
+            {
+              "question_id": 9,
+              "question": "What is a problem paragraph with 'topic drift'?",
+              "options": ["Too short", "Loses focus and strays from main idea", "Uses weak verbs", "Lacks punctuation"],
+              "correct_answer": "Loses focus and strays from main idea",
+              "marks": 1,
+              "explanation": "Off-topic sentences should be removed or moved."
+            },
+            {
+              "question_id": 10,
+              "question": "What is a key characteristic of a good topic sentence?",
+              "options": ["It's very long", "It's clear and specific", "It uses complex words", "It includes all details"],
+              "correct_answer": "It's clear and specific",
+              "marks": 1,
+              "explanation": "Clear topic sentences guide reader understanding."
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Every paragraph must have a topic sentence.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Some paragraphs (like dialogue) may not need explicit topic sentences."
+            },
+            {
+              "question_id": 2,
+              "question": "Supporting sentences provide evidence for the topic sentence.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "They develop and support the main idea."
+            },
+            {
+              "question_id": 3,
+              "question": "A concluding sentence must repeat the topic sentence word-for-word.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "It should rephrase or reinforce, not repeat exactly."
+            },
+            {
+              "question_id": 4,
+              "question": "Transitions help paragraphs flow logically.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Words like 'however' and 'therefore' improve coherence."
+            },
+            {
+              "question_id": 5,
+              "question": "Descriptive paragraphs focus on events in order.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Narrative focuses on events. Descriptive uses sensory details."
+            },
+            {
+              "question_id": 6,
+              "question": "Unity means all sentences connect to the main idea.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Unrelated sentences harm paragraph focus."
+            },
+            {
+              "question_id": 7,
+              "question": "Paragraph length is always 5-8 sentences.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Paragraph length depends on purpose and content."
+            },
+            {
+              "question_id": 8,
+              "question": "Persuasive paragraphs require credible evidence.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Evidence strengthens arguments."
+            },
+            {
+              "question_id": 9,
+              "question": "Topic drift means the paragraph loses focus.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Off-topic sentences should be removed."
+            },
+            {
+              "question_id": 10,
+              "question": "Narrative paragraphs use chronological order.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Narrative describes events in sequence."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A _______ is a group of related sentences developing one main idea.",
+              "correct_answer": "paragraph",
+              "marks": 1,
+              "explanation": "Basic definition of paragraph."
+            },
+            {
+              "question_id": 2,
+              "question": "The _______ sentence states the main idea of the paragraph.",
+              "correct_answer": "topic",
+              "marks": 1,
+              "explanation": "Topic sentences guide the paragraph's direction."
+            },
+            {
+              "question_id": 3,
+              "question": "_______ sentences develop and support the topic sentence.",
+              "correct_answer": "Supporting",
+              "marks": 1,
+              "explanation": "They provide details, examples, and evidence."
+            },
+            {
+              "question_id": 4,
+              "question": "The _______ sentence reinforces the main idea at the end.",
+              "correct_answer": "concluding",
+              "marks": 1,
+              "explanation": "It wraps up the paragraph effectively."
+            },
+            {
+              "question_id": 5,
+              "question": "_______ are words or phrases that connect ideas smoothly.",
+              "correct_answer": "Transitions",
+              "marks": 1,
+              "explanation": "Examples: however, furthermore, therefore, meanwhile."
+            },
+            {
+              "question_id": 6,
+              "question": "A _______ paragraph tells a story in chronological order.",
+              "correct_answer": "narrative",
+              "marks": 1,
+              "explanation": "Events described sequentially."
+            },
+            {
+              "question_id": 7,
+              "question": "A _______ paragraph uses sensory details to create vivid images.",
+              "correct_answer": "descriptive",
+              "marks": 1,
+              "explanation": "Focuses on how things look, sound, feel, taste, smell."
+            },
+            {
+              "question_id": 8,
+              "question": "_______ means all sentences relate to the main idea.",
+              "correct_answer": "Unity",
+              "marks": 1,
+              "explanation": "Essential for focused, coherent paragraphs."
+            },
+            {
+              "question_id": 9,
+              "question": "_______ occurs when a paragraph loses focus and strays from the topic.",
+              "correct_answer": "Topic drift",
+              "marks": 1,
+              "explanation": "Off-topic sentences should be removed."
+            },
+            {
+              "question_id": 10,
+              "question": "A _______ paragraph attempts to convince the reader of a position.",
+              "correct_answer": "persuasive",
+              "marks": 1,
+              "explanation": "Uses reasoning and evidence to argue a point."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match paragraph types to their purposes:",
+              "pairs": [
+                {"left": "Narrative", "right": "Tells a story; events in order"},
+                {"left": "Descriptive", "right": "Paints a picture; sensory details"},
+                {"left": "Expository", "right": "Explains or informs"},
+                {"left": "Persuasive", "right": "Convinces; uses reasoning and evidence"},
+                {"left": "Type", "right": "Depends on purpose and audience"}
+              ],
+              "marks": 5,
+              "explanation": "Four main paragraph types."
+            },
+            {
+              "question_id": 2,
+              "question": "Match paragraph parts to their functions:",
+              "pairs": [
+                {"left": "Topic sentence", "right": "States main idea"},
+                {"left": "Supporting sentences", "right": "Develops and proves the topic"},
+                {"left": "Concluding sentence", "right": "Restates or reinforces idea"},
+                {"left": "Transitions", "right": "Connects ideas smoothly"},
+                {"left": "Paragraph", "right": "All four parts working together"}
+              ],
+              "marks": 5,
+              "explanation": "Components of a well-structured paragraph."
+            },
+            {
+              "question_id": 3,
+              "question": "Match transition words to their functions:",
+              "pairs": [
+                {"left": "Furthermore, also, additionally", "right": "Adding ideas"},
+                {"left": "However, but, yet, on the other hand", "right": "Contrasting ideas"},
+                {"left": "Therefore, as a result, so", "right": "Showing cause/effect"},
+                {"left": "Meanwhile, then, finally, soon", "right": "Showing time/sequence"},
+                {"left": "For example, such as, specifically", "right": "Providing examples"}
+              ],
+              "marks": 5,
+              "explanation": "Transitions organize and connect thoughts."
+            },
+            {
+              "question_id": 4,
+              "question": "Match coherence techniques to examples:",
+              "pairs": [
+                {"left": "Repeated key words", "right": "'The book explores themes. These themes appear throughout.'"},
+                {"left": "Pronouns referring back", "right": "'The policy is controversial. It will improve efficiency.'"},
+                {"left": "Transitions", "right": "'She studied hard. However, she still struggled.'"},
+                {"left": "Parallel structure", "right": "'Running, jumping, and swimming build fitness.'"},
+                {"left": "Coherence", "right": "Ideas flow logically and smoothly"}
+              ],
+              "marks": 5,
+              "explanation": "Making paragraphs flow well."
+            },
+            {
+              "question_id": 5,
+              "question": "Match paragraph problems to their solutions:",
+              "pairs": [
+                {"left": "Topic drift", "right": "Remove off-topic sentences"},
+                {"left": "Lack of development", "right": "Add specific examples or details"},
+                {"left": "Poor organization", "right": "Rearrange sentences logically"},
+                {"left": "Weak topic sentence", "right": "Make it clearer and more specific"},
+                {"left": "Problem", "right": "Identify and fix to strengthen paragraph"}
+              ],
+              "marks": 5,
+              "explanation": "Diagnosing and fixing common issues."
+            },
+            {
+              "question_id": 6,
+              "question": "Match narrative paragraph elements to characteristics:",
+              "pairs": [
+                {"left": "Opening", "right": "Sets the scene and introduces situation"},
+                {"left": "Events", "right": "Connected with time transitions"},
+                {"left": "Sequence", "right": "Chronological order (first, then, finally)"},
+                {"left": "Conclusion", "right": "Resolves the narrative arc"},
+                {"left": "Details", "right": "Sensory and specific to create vivid imagery"}
+              ],
+              "marks": 5,
+              "explanation": "Structure of narrative paragraphs."
+            },
+            {
+              "question_id": 7,
+              "question": "Match persuasive paragraph elements to their roles:",
+              "pairs": [
+                {"left": "Topic sentence", "right": "States the opinion or position"},
+                {"left": "Evidence", "right": "Facts, statistics, expert opinions"},
+                {"left": "Reasoning", "right": "Logical explanations connecting evidence"},
+                {"left": "Counterargument", "right": "Acknowledges opposing view, then refutes"},
+                {"left": "Conclusion", "right": "Reinforces position persuasively"}
+              ],
+              "marks": 5,
+              "explanation": "Building a convincing argument."
+            },
+            {
+              "question_id": 8,
+              "question": "Match descriptive techniques to examples:",
+              "pairs": [
+                {"left": "Visual details", "right": "'The garden bloomed with vibrant red roses.'"},
+                {"left": "Sensory words", "right": "'The rain felt cold and refreshing.'"},
+                {"left": "Metaphors", "right": "'Her smile was a sunrise.'"},
+                {"left": "Vivid adjectives", "right": "'The magnificent cathedral stood tall.'"},
+                {"left": "Technique", "right": "Creates picture in reader's mind"}
+              ],
+              "marks": 5,
+              "explanation": "Making descriptions come alive."
+            },
+            {
+              "question_id": 9,
+              "question": "Match qualities to well-written paragraphs:",
+              "pairs": [
+                {"left": "Unity", "right": "All sentences relate to main idea"},
+                {"left": "Coherence", "right": "Ideas flow logically and smoothly"},
+                {"left": "Completeness", "right": "Fully develops the topic"},
+                {"left": "Clarity", "right": "Ideas are easily understood"},
+                {"left": "Quality", "right": "Focus, organization, and development"}
+              ],
+              "marks": 5,
+              "explanation": "Characteristics of effective paragraphs."
+            },
+            {
+              "question_id": 10,
+              "question": "Match paragraph length considerations:",
+              "pairs": [
+                {"left": "Typical range", "right": "100-300 words or 3-8 sentences"},
+                {"left": "Depends on", "right": "Purpose, complexity, and content"},
+                {"left": "Too short", "right": "May not develop topic sufficiently"},
+                {"left": "Too long", "right": "May lose focus or overwhelm reader"},
+                {"left": "Guideline", "right": "Write until the idea is fully developed"}
+              ],
+              "marks": 5,
+              "explanation": "Determining appropriate paragraph length."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What makes an effective topic sentence? Provide an example.",
+              "correct_answer": "An effective topic sentence: (1) States the main idea clearly, (2) Is specific, not too broad, (3) Gives direction to the paragraph. Example: 'Regular exercise provides both physical and mental health benefits.' (Good - specific and clear) vs 'Exercise is good.' (weak - too general)"
+              ,
+              "marks": 2,
+              "explanation": "Strong topic sentences guide reader and writer."
+            },
+            {
+              "question_id": 2,
+              "question": "Explain how transitions improve paragraph coherence with one example.",
+              "correct_answer": "Transitions connect ideas smoothly by showing relationships. Example: 'She studied hard. However, she still struggled.' The word 'however' shows contrast and connects the sentences. Without it: 'She studied hard. She still struggled.' feels disconnected."
+              ,
+              "marks": 2,
+              "explanation": "Transitions show logical relationships between ideas."
+            },
+            {
+              "question_id": 3,
+              "question": "Distinguish between a narrative and descriptive paragraph with an example of each.",
+              "correct_answer": "Narrative: Tells a story in chronological order. Example: 'I woke early, ate breakfast, and went to the park.' Descriptive: Uses sensory details to paint a picture. Example: 'The park was beautiful with colorful flowers, fresh air, and birds singing.'"
+              ,
+              "marks": 2,
+              "explanation": "Different purposes require different approaches."
+            },
+            {
+              "question_id": 4,
+              "question": "What is topic drift and how can you prevent it?",
+              "correct_answer": "Topic drift: When a paragraph loses focus and includes off-topic sentences. Prevention: (1) Keep topic sentence in mind while writing, (2) Check that each sentence relates to main idea, (3) Remove or move sentences that stray from topic, (4) Revise for unity."
+              ,
+              "marks": 2,
+              "explanation": "Maintaining focus strengthens paragraphs."
+            },
+            {
+              "question_id": 5,
+              "question": "Write an effective topic sentence for a persuasive paragraph about the importance of reading.",
+              "correct_answer": "Example: 'Reading regularly improves vocabulary, critical thinking, and imagination.' (Good - specific, arguable, states clear position) Elements: (1) Takes a clear position, (2) Is specific and debatable, (3) Suggests direction for supporting evidence."
+              ,
+              "marks": 2,
+              "explanation": "Good topic sentences guide persuasive arguments."
+            },
+            {
+              "question_id": 6,
+              "question": "How should supporting sentences develop a topic sentence? Provide an approach.",
+              "correct_answer": "Supporting sentences should: (1) Provide specific examples, (2) Include facts or statistics, (3) Explain the topic further, (4) Offer evidence. Approach: Each supporting sentence adds new information, not repetition. Example: Topic: 'Reading improves intelligence.' Support: 'Studies show readers have better vocabulary' (evidence), 'Books expose us to different perspectives' (explanation)."
+              ,
+              "marks": 2,
+              "explanation": "Strong support makes arguments convincing."
+            },
+            {
+              "question_id": 7,
+              "question": "Write an effective concluding sentence for a paragraph about time management.",
+              "correct_answer": "Example: 'By prioritizing tasks and following a schedule, you can accomplish more and reduce stress.' (Good - reinforces idea without exact repetition) Elements: (1) Echoes main idea, (2) Broader implication, (3) Provides closure, (4) Avoids repetition."
+              ,
+              "marks": 2,
+              "explanation": "Concluding sentences wrap up ideas effectively."
+            },
+            {
+              "question_id": 8,
+              "question": "What does paragraph unity mean and why is it important?",
+              "correct_answer": "Unity means all sentences relate to and support the main idea. Importance: (1) Keeps reader focused, (2) Prevents confusion, (3) Strengthens arguments, (4) Makes writing professional. Example of lack of unity: Paragraph about reading benefits suddenly includes unrelated sentence about cooking."
+              ,
+              "marks": 2,
+              "explanation": "Unity is essential for effective communication."
+            },
+            {
+              "question_id": 9,
+              "question": "How should a descriptive paragraph be structured to create vivid imagery?",
+              "correct_answer": "Structure: (1) Topic sentence introducing what's described, (2) Supporting sentences with sensory details (sight, sound, smell, taste, touch), (3) Vivid adjectives and metaphors, (4) Conclusion reinforcing the image. Example: Instead of 'The garden was nice,' write 'The garden bloomed with vibrant red roses, fragrant lilies, and the soft hum of bees.'"
+              ,
+              "marks": 2,
+              "explanation": "Sensory details make descriptions come alive."
+            },
+            {
+              "question_id": 10,
+              "question": "Analyze this paragraph for unity and coherence issues: 'Dogs are loyal pets. They provide companionship. Cats are independent. Dogs can be trained easily. Getting a dog requires responsibility.'",
+              "correct_answer": "Issues: (1) Topic drift: 'Cats are independent' is off-topic (should focus on dogs), (2) Weak coherence: Lacks transitions between sentences. Fix: Remove cat sentence, add transitions ('Additionally,' 'However,' 'Furthermore'). Revised: 'Dogs are loyal pets. They provide companionship. Additionally, dogs can be trained easily. However, getting a dog requires responsibility.' Better unity and flow."
+              ,
+              "marks": 2,
+              "explanation": "Identifying and fixing problems strengthens writing."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "practical-english-for-daily-use",
+      "lesson_title": "Practical English for Daily Use",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "How do you politely ask for information in English?",
+              "options": ["Get me the info", "I need information", "Could you tell me...?", "Where's the information"],
+              "correct_answer": "Could you tell me...?",
+              "marks": 1,
+              "explanation": "Modals like 'could' and 'would' make requests polite."
+            },
+            {
+              "question_id": 2,
+              "question": "What's an appropriate response to 'How are you?'",
+              "options": ["I'm fine, thanks. How about you?", "Good", "I'm tired", "I have no time"],
+              "correct_answer": "I'm fine, thanks. How about you?",
+              "marks": 1,
+              "explanation": "This shows courtesy and reciprocal interest."
+            },
+            {
+              "question_id": 3,
+              "question": "At a restaurant, how do you politely order food?",
+              "options": ["Give me food", "I'd like to order..., please", "Food now", "Can I eat"],
+              "correct_answer": "I'd like to order..., please",
+              "marks": 1,
+              "explanation": "Using 'I'd like' and 'please' is polite and professional."
+            },
+            {
+              "question_id": 4,
+              "question": "How would you ask for directions politely?",
+              "options": ["Where is it?", "Excuse me, could you tell me the way to...?", "How do I go?", "Show me the path"],
+              "correct_answer": "Excuse me, could you tell me the way to...?",
+              "marks": 1,
+              "explanation": "'Excuse me' gets attention; 'could' makes it polite."
+            },
+            {
+              "question_id": 5,
+              "question": "What should you say when someone thanks you?",
+              "options": ["OK", "You're welcome", "Don't mention it", "Thanks"],
+              "correct_answer": "You're welcome",
+              "marks": 1,
+              "explanation": "Standard polite response to thanks."
+            },
+            {
+              "question_id": 6,
+              "question": "How do you politely refuse something?",
+              "options": ["No", "I can't", "No, thanks", "Thank you, but I can't"],
+              "correct_answer": "Thank you, but I can't",
+              "marks": 1,
+              "explanation": "This shows appreciation for the offer while declining."
+            },
+            {
+              "question_id": 7,
+              "question": "What's appropriate when making phone call introductions?",
+              "options": ["Hi", "This is [name] calling from [place]", "I want to talk", "Can you listen"],
+              "correct_answer": "This is [name] calling from [place]",
+              "marks": 1,
+              "explanation": "Provides necessary context on phone calls."
+            },
+            {
+              "question_id": 8,
+              "question": "How do you ask for a favor politely?",
+              "options": ["Do something", "Would you mind helping me...?", "Help me", "I need help"],
+              "correct_answer": "Would you mind helping me...?",
+              "marks": 1,
+              "explanation": "'Would you mind' is a very polite way to ask."
+            },
+            {
+              "question_id": 9,
+              "question": "What's the proper greeting in formal situations?",
+              "options": ["Hey", "What's up", "Good morning. How do you do?", "Hello there"],
+              "correct_answer": "Good morning. How do you do?",
+              "marks": 1,
+              "explanation": "Formal and appropriate for professional contexts."
+            },
+            {
+              "question_id": 10,
+              "question": "How do you express agreement in conversation?",
+              "options": ["OK", "Yes, I agree with you", "I think so", "Yeah"],
+              "correct_answer": "Yes, I agree with you",
+              "marks": 1,
+              "explanation": "Clear and polite way to show agreement."
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Using 'please' and 'thank you' is important in daily English.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Politeness words are essential for respectful communication."
+            },
+            {
+              "question_id": 2,
+              "question": "In casual situations, formal language is always required.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Casual situations allow informal language with friends."
+            },
+            {
+              "question_id": 3,
+              "question": "Modal verbs (could, would, can) help make requests polite.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Modals soften direct commands and make them more courteous."
+            },
+            {
+              "question_id": 4,
+              "question": "It's polite to ask 'How are you?' and not expect a real answer.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "It's often a greeting ritual, not a genuine question."
+            },
+            {
+              "question_id": 5,
+              "question": "You should use formal language when texting friends.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Texting friends allows casual, informal language."
+            },
+            {
+              "question_id": 6,
+              "question": "Apologizing with 'I'm sorry' is appropriate in many situations.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Apologies are important for maintaining relationships."
+            },
+            {
+              "question_id": 7,
+              "question": "Using 'Excuse me' is important to get someone's attention politely.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "It signals respect and politeness."
+            },
+            {
+              "question_id": 8,
+              "question": "In emergencies, formal language is necessary.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Clarity is more important than formality in emergencies."
+            },
+            {
+              "question_id": 9,
+              "question": "Understanding conversational context helps you choose appropriate language.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Context determines formality level and expression choice."
+            },
+            {
+              "question_id": 10,
+              "question": "Asking for clarification ('Could you repeat that?') is polite.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Shows honesty and respect for understanding."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A common greeting is: '_______, how are you?'",
+              "correct_answer": "Hello/Hi",
+              "marks": 1,
+              "explanation": "Basic greeting formula."
+            },
+            {
+              "question_id": 2,
+              "question": "To be polite when asking, use modals like _______ or would.",
+              "correct_answer": "could",
+              "marks": 1,
+              "explanation": "Modals soften requests."
+            },
+            {
+              "question_id": 3,
+              "question": "When someone thanks you, respond with 'You're _______.'",
+              "correct_answer": "welcome",
+              "marks": 1,
+              "explanation": "Standard polite response."
+            },
+            {
+              "question_id": 4,
+              "question": "To get attention politely, start with '_______, may I help you?'",
+              "correct_answer": "Excuse me",
+              "marks": 1,
+              "explanation": "Polite way to interrupt or get attention."
+            },
+            {
+              "question_id": 5,
+              "question": "To refuse politely: 'Thank you, but I _______.'",
+              "correct_answer": "can't",
+              "marks": 1,
+              "explanation": "Appreciative refusal."
+            },
+            {
+              "question_id": 6,
+              "question": "At a restaurant, you say: 'I'd like to _______, please.'",
+              "correct_answer": "order",
+              "marks": 1,
+              "explanation": "Polite way to order food."
+            },
+            {
+              "question_id": 7,
+              "question": "To ask for direction: 'Could you tell me the _______ to...?'",
+              "correct_answer": "way",
+              "marks": 1,
+              "explanation": "Common phrase for asking directions."
+            },
+            {
+              "question_id": 8,
+              "question": "When apologizing, say: 'I'm _______, I made a mistake.'",
+              "correct_answer": "sorry",
+              "marks": 1,
+              "explanation": "Standard apology expression."
+            },
+            {
+              "question_id": 9,
+              "question": "For payment, ask: 'What payment methods do you _______?'",
+              "correct_answer": "accept",
+              "marks": 1,
+              "explanation": "Asking about payment options."
+            },
+            {
+              "question_id": 10,
+              "question": "When confused, ask: 'Could you _______ that more slowly?'",
+              "correct_answer": "repeat",
+              "marks": 1,
+              "explanation": "Politely asking for repetition."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match situations to appropriate responses:",
+              "pairs": [
+                {"left": "Someone says 'Thank you'", "right": "'You're welcome'"},
+                {"left": "Someone greets you", "right": "'Hi, how are you?'"},
+                {"left": "You made a mistake", "right": "'I'm sorry'"},
+                {"left": "You don't understand", "right": "'Could you repeat that?'"},
+                {"left": "You want something", "right": "'Could I have...?'"}
+              ],
+              "marks": 5,
+              "explanation": "Appropriate responses to common situations."
+            },
+            {
+              "question_id": 2,
+              "question": "Match greetings to their formality level:",
+              "pairs": [
+                {"left": "Formal", "right": "'Good morning. How do you do?'"},
+                {"left": "Informal", "right": "'Hey, what's up?'"},
+                {"left": "Professional", "right": "'Hello, pleased to meet you'"},
+                {"left": "Casual", "right": "'Hi, how are you doing?'"},
+                {"left": "Context determines", "right": "Choice of greeting and language"}
+              ],
+              "marks": 5,
+              "explanation": "Different situations require different greetings."
+            },
+            {
+              "question_id": 3,
+              "question": "Match phrases to their purposes:",
+              "pairs": [
+                {"left": "'Excuse me'", "right": "Getting attention politely"},
+                {"left": "'Thank you'", "right": "Expressing gratitude"},
+                {"left": "'I'm sorry'", "right": "Apologizing"},
+                {"left": "'Could you...?'", "right": "Making a polite request"},
+                {"left": "'I agree'", "right": "Expressing agreement"}
+              ],
+              "marks": 5,
+              "explanation": "Practical expressions and their functions."
+            },
+            {
+              "question_id": 4,
+              "question": "Match conversational contexts to appropriate language:",
+              "pairs": [
+                {"left": "Shopping", "right": "'How much does this cost?', 'Do you have another size?'"},
+                {"left": "At a restaurant", "right": "'I'd like to order...', 'Can I get the bill?'"},
+                {"left": "Asking directions", "right": "'Where is...?', 'Which bus goes to...?'"},
+                {"left": "Pharmacy", "right": "'I have a headache', 'What do you recommend?'"},
+                {"left": "Emergency", "right": "'Call an ambulance!', 'Where is the hospital?'"}
+              ],
+              "marks": 5,
+              "explanation": "Situation-specific language."
+            },
+            {
+              "question_id": 5,
+              "question": "Match politeness markers to their uses:",
+              "pairs": [
+                {"left": "'Please'", "right": "Softens requests"},
+                {"left": "'Could/Would'", "right": "Makes questions politer"},
+                {"left": "'Thank you'", "right": "Shows appreciation"},
+                {"left": "'Excuse me'", "right": "Politely gets attention"},
+                {"left": "'If you don't mind'", "right": "Very polite request"}
+              ],
+              "marks": 5,
+              "explanation": "Politeness expressions and techniques."
+            },
+            {
+              "question_id": 6,
+              "question": "Match phone conversation phrases to stages:",
+              "pairs": [
+                {"left": "Opening", "right": "'Hello, this is [name]'"},
+                {"left": "Getting through", "right": "'May I speak to [person]?'"},
+                {"left": "Purpose", "right": "'I'm calling about...'"},
+                {"left": "Closing", "right": "'Thank you for calling. Goodbye'"},
+                {"left": "Uncertainty", "right": "'I'm sorry, wrong number'"}
+              ],
+              "marks": 5,
+              "explanation": "Phone conversation structure."
+            },
+            {
+              "question_id": 7,
+              "question": "Match expressions to emotional contexts:",
+              "pairs": [
+                {"left": "Happy news", "right": "'That's wonderful!', 'I'm so pleased!'"},
+                {"left": "Sympathy", "right": "'I'm sorry to hear that'"},
+                {"left": "Concern", "right": "'Are you alright?', 'What's wrong?'"},
+                {"left": "Agreement", "right": "'I agree', 'That's a good point'"},
+                {"left": "Disagreement", "right": "'I disagree', 'That's not quite right'"}
+              ],
+              "marks": 5,
+              "explanation": "Emotional responses in conversation."
+            },
+            {
+              "question_id": 8,
+              "question": "Match special situations to appropriate expressions:",
+              "pairs": [
+                {"left": "Making plans", "right": "'Would you like to...?', 'Are you free on...?'"},
+                {"left": "Job interview", "right": "'Thank you for the opportunity', 'I'm interested in this position'"},
+                {"left": "Disagreement respectfully", "right": "'I see your point, but...', 'However...'"},
+                {"left": "Not understanding", "right": "'I'm sorry, I didn't quite understand'"},
+                {"left": "Asking for help", "right": "'Could you help me?', 'I need some assistance'"}
+              ],
+              "marks": 5,
+              "explanation": "Appropriate language for specific situations."
+            },
+            {
+              "question_id": 9,
+              "question": "Match responses to common statements:",
+              "pairs": [
+                {"left": "\"I'm sorry I'm late\"", "right": "\"Don't worry, it's fine\""},
+                {"left": "\"Can I help you?\"", "right": "\"Yes, please. I'm looking for...\""},
+                {"left": "\"Have a nice day\"", "right": "\"Thank you, you too\""},
+                {"left": "\"Would you like coffee?\"", "right": "\"Yes, please\" or \"No, thank you\""},
+                {"left": "\"I don't understand\"", "right": "\"Let me explain...\", \"Could I clarify?\""}
+              ],
+              "marks": 5,
+              "explanation": "Natural conversational exchanges."
+            },
+            {
+              "question_id": 10,
+              "question": "Match cultural norms to expressions:",
+              "pairs": [
+                {"left": "Professional greeting", "right": "'It's a pleasure to meet you'"},
+                {"left": "Casual greeting", "right": "'Hey, nice to see you'"},
+                {"left": "First meeting", "right": "'What's your name?', 'Pleased to meet you'"},
+                {"left": "Extended conversation", "right": "'Same time next week?', 'Let's stay in touch'"},
+                {"left": "Parting", "right": "'Goodbye', 'Take care', 'See you later'"}
+              ],
+              "marks": 5,
+              "explanation": "Social conventions in English."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Write a polite restaurant ordering conversation (3-4 exchanges).",
+              "correct_answer": "Server: 'Good evening, what would you like to order?' You: 'I'd like to have a grilled chicken, please. Is it spicy?' Server: 'It's mild. Would you like any sides?' You: 'Yes, can I have a salad and water?'"
+              ,
+              "marks": 2,
+              "explanation": "Demonstrates appropriate restaurant language."
+            },
+            {
+              "question_id": 2,
+              "question": "How would you politely ask for directions to a nearby cafe?",
+              "correct_answer": "Example: 'Excuse me, could you tell me the way to the nearest cafe? Is it far from here?' OR 'Pardon me, do you know where I can find a cafe nearby?' Uses: 'Excuse me' to get attention, 'could you' for politeness, 'please' or question form."
+              ,
+              "marks": 2,
+              "explanation": "Practical direction-asking skill."
+            },
+            {
+              "question_id": 3,
+              "question": "How do you respond when someone compliments you? Give an example.",
+              "correct_answer": "Response: 'Thank you, that's very kind of you.' OR 'Thanks, I appreciate that.' OR 'Thank you so much, that means a lot.' Avoid: 'I know' or just 'thanks.' Shows humility and appreciation."
+              ,
+              "marks": 2,
+              "explanation": "Appropriate response to compliments."
+            },
+            {
+              "question_id": 4,
+              "question": "How would you politely decline an invitation?",
+              "correct_answer": "Example: 'Thank you so much for inviting me, but I can't make it that day. I appreciate the invitation though.' Key elements: Thank them, give reason (optional), express appreciation. Avoid being rude or dismissive."
+              ,
+              "marks": 2,
+              "explanation": "Polite refusal maintains relationships."
+            },
+            {
+              "question_id": 5,
+              "question": "Write a phone call opening when calling a friend.",
+              "correct_answer": "Example: 'Hi, it's [Your name]. Is this a good time to talk?' OR 'Hey, it's [Your name]. How are you?' Shows: identification, asks about timing, opens conversation naturally."
+              ,
+              "marks": 2,
+              "explanation": "Phone conversation etiquette."
+            },
+            {
+              "question_id": 6,
+              "question": "How do you apologize sincerely and appropriately?",
+              "correct_answer": "Components: (1) Say 'I'm sorry/I apologize' (2) Acknowledge what you did wrong (3) Express understanding of impact (4) Offer to make amends. Example: 'I'm sorry I was late. I know that was frustrating for you. Can I make it up to you?'"
+              ,
+              "marks": 2,
+              "explanation": "Sincere apologies strengthen relationships."
+            },
+            {
+              "question_id": 7,
+              "question": "What should you do if you don't understand someone's English?",
+              "correct_answer": "Options: (1) 'Could you speak more slowly, please?' (2) 'I'm sorry, could you repeat that?' (3) 'Could you say that in a different way?' (4) 'I didn't quite catch that.' Key: Be polite, honest, specific about the problem."
+              ,
+              "marks": 2,
+              "explanation": "Showing honesty aids communication."
+            },
+            {
+              "question_id": 8,
+              "question": "How would you introduce yourself formally and informally?",
+              "correct_answer": "Formal: 'Good morning, I'm [Name]. It's a pleasure to meet you.' Informal: 'Hi, I'm [Name]. Nice to meet you.' or 'Hey, I'm [Name]. What's your name?' Formal uses 'It's a pleasure,' full name, proper greeting. Informal is casual, friendly."
+              ,
+              "marks": 2,
+              "explanation": "Register and context determine style."
+            },
+            {
+              "question_id": 9,
+              "question": "Write a brief pharmacy interaction (buying medicine) in 2-3 exchanges.",
+              "correct_answer": "You: 'I have a headache. What do you recommend?' Pharmacist: 'This works well for headaches. Take one tablet every 4-6 hours.' You: 'Is it over-the-counter? How much?' Shows: describing symptoms, asking for recommendations, asking about availability and price."
+              ,
+              "marks": 2,
+              "explanation": "Practical healthcare communication."
+            },
+            {
+              "question_id": 10,
+              "question": "How should you end a conversation with someone you've just met?",
+              "correct_answer": "Examples: 'It was nice meeting you. I hope we can talk again soon.' OR 'Thank you for chatting with me. Have a wonderful day!' Elements: (1) Express pleasure (2) Suggest future contact (3) Warm closing (4) Wish them well. Tone: Friendly, genuine, leaves door open for future interaction."
+              ,
+              "marks": 2,
+              "explanation": "Good farewells create positive impressions."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+.lesson-content-box {
+  background: linear-gradient(to bottom right, #eef4ff, #dbeafe);
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  border: 1px solid #bfdbfe;
+}
+
+.lesson-content-box h1 {
+  font-size: 2rem;
+  color: #1e3a8a;
+  margin-bottom: 1rem;
+}
+
+.lesson-content-box p {
+  font-size: 1.1rem;
+  color: #374151;
+  line-height: 1.6;
+}
+
+.lesson-example {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.lesson-practice-box {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #fff7d6;
+  border-left: 5px solid #fbbf24;
+  border-radius: 10px;
+  font-weight: 600;
+  color: #92400e;
+}

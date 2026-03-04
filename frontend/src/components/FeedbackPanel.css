@@ -1,0 +1,49 @@
+.glass {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.feedback-score-circle {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #ec4899, #8b5cf6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+
+.feedback-score-number {
+  font-size: 4rem;
+  font-weight: 900;
+}
+
+.feedback-corrected-box {
+  background: rgba(255, 255, 255, 0.12);
+  padding: 2rem;
+  border-radius: 20px;
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.feedback-insights {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.feedback-insights h4 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.feedback-insights p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  margin-bottom: 0.8rem;
+}

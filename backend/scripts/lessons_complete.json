@@ -1,0 +1,254 @@
+{
+  "lessons": [
+    {
+      "title": "Basics of English Grammar",
+      "slug": "basics-of-english-grammar",
+      "difficulty": "Beginner",
+      "estimated_time": "45 minutes",
+      "description": "Learn the fundamental concepts of English grammar, including the basic building blocks of language and how they work together to form meaningful sentences.",
+      "notes": "English grammar forms the foundation of effective communication. Grammar is the system and structure of a language, consisting of the rules that govern how words combine to form sentences. The main components of grammar include:\n\n1. PARTS OF SPEECH: Every word in English belongs to one of nine main categories.\n\n2. SENTENCE STRUCTURE: Sentences are built from subjects (who or what), predicates (what they do), and objects (what receives the action).\n\n3. PUNCTUATION: Symbols that clarify meaning and structure.\n\n4. AGREEMENT: Words must match in number and person.\n\n5. WORD ORDER: English follows a specific Subject-Verb-Object pattern.\n\nWhy Grammar Matters:\n- Clarity: Grammar ensures your message is understood correctly\n- Professionalism: Proper grammar is expected in formal writing and speech\n- Credibility: Good grammar builds trust and authority\n- Consistency: Grammar rules create predictable patterns\n\nKey Principles:\n- Every sentence needs a subject and a verb\n- Words must agree in number and tense\n- Punctuation clarifies meaning\n- Word order affects meaning\n- Modifiers should be placed clearly",
+      "examples": [
+        {
+          "question": "The cat sat on the mat.",
+          "answer": "Subject: 'The cat' | Verb: 'sat' | Object location: 'on the mat'",
+          "explanation": "This sentence has a clear subject (cat), verb (sat), and prepositional phrase (on the mat). It demonstrates basic sentence structure."
+        },
+        {
+          "question": "She runs quickly every morning.",
+          "answer": "Subject: 'She' | Verb: 'runs' | Adverb: 'quickly' | Time phrase: 'every morning'",
+          "explanation": "This shows a subject (She), verb (runs), adverb (quickly) modifying the verb, and adverbial phrase (every morning) indicating time."
+        },
+        {
+          "question": "They have been studying for three hours.",
+          "answer": "Subject: 'They' | Auxiliary verbs: 'have been' | Main verb: 'studying' | Time expression: 'for three hours'",
+          "explanation": "This demonstrates a compound verb using auxiliary verbs (have been) with the main verb (studying). It shows perfect progressive tense."
+        }
+      ]
+    },
+    {
+      "title": "Parts of Speech",
+      "slug": "parts-of-speech",
+      "difficulty": "Beginner",
+      "estimated_time": "50 minutes",
+      "description": "Master the nine parts of speech: nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, interjections, and articles. Understand how each part functions in sentences.",
+      "notes": "The nine parts of speech are the building blocks of English sentences. Each word belongs to one category based on its function:\n\n1. NOUNS: Words that name people, places, things, or ideas (person, London, book, freedom). Types include proper nouns (capitalized specific names) and common nouns (general names).\n\n2. PRONOUNS: Words that replace nouns to avoid repetition (he, she, it, they, who, myself). Types include personal, possessive, reflexive, demonstrative, relative, and interrogative pronouns.\n\n3. VERBS: Action words that show what someone or something does or is (run, sit, be, create). They can be action verbs (physical or mental) or linking verbs (connect subject to description).\n\n4. ADJECTIVES: Words that describe or modify nouns or pronouns (beautiful, tall, red, interesting). They answer questions like: What kind? How many? Which one?\n\n5. ADVERBS: Words that modify verbs, adjectives, or other adverbs (quickly, very, yesterday, soon). They often end in -ly and answer questions like: How? When? Where? To what extent?\n\n6. PREPOSITIONS: Words that show relationships between nouns and other words (in, on, under, between, during, before). They typically show position, time, or relationship.\n\n7. CONJUNCTIONS: Words that connect words, phrases, or clauses (and, but, or, because, although). Coordinating conjunctions join equal elements; subordinating conjunctions join dependent clauses to independent clauses.\n\n8. INTERJECTIONS: Exclamations that express emotion (wow, oh, hey, great!). They often stand alone and are followed by exclamation marks.\n\n9. ARTICLES: Words that modify nouns (a, an, the). 'The' is definite (specific); 'a' and 'an' are indefinite (not specific).",
+      "examples": [
+        {
+          "question": "The quick brown fox jumps over the lazy dog.",
+          "answer": "Article: the | Adjectives: quick, brown, lazy | Nouns: fox, dog | Verb: jumps | Preposition: over",
+          "explanation": "Breaking down by parts of speech: 'The' (article), 'quick' and 'brown' (adjectives), 'fox' (noun), 'jumps' (verb), 'over' (preposition), 'the' (article), 'lazy' (adjective), 'dog' (noun)."
+        },
+        {
+          "question": "She speaks softly and kindly to everyone she meets.",
+          "answer": "Pronoun: she | Verb: speaks | Adverbs: softly, kindly | Conjunction: and | Preposition: to",
+          "explanation": "Contains personal pronoun 'she', verb 'speaks', adverbs 'softly' and 'kindly' modifying the verb, conjunction 'and', preposition 'to', and pronoun 'she'."
+        },
+        {
+          "question": "Oh! What an amazing discovery!",
+          "answer": "Interjection: Oh | Interrogative pronoun: What | Article: an | Adjective: amazing | Noun: discovery",
+          "explanation": "Interjection 'Oh' expresses excitement, interrogative pronoun 'What', indefinite article 'an', adjective 'amazing', and noun 'discovery'."
+        }
+      ]
+    },
+    {
+      "title": "Tenses",
+      "slug": "tenses",
+      "difficulty": "Intermediate",
+      "estimated_time": "60 minutes",
+      "description": "Learn the 12 English tenses: present, past, and future tenses in simple, continuous, perfect, and perfect continuous forms. Master when and how to use each tense.",
+      "notes": "English uses tenses to show when an action happens. There are three main time periods (present, past, future) and four aspects (simple, continuous, perfect, perfect continuous), creating 12 tenses:\n\nPRESENT TENSES:\n1. Simple Present: Habits, facts, general truths (I eat, He eats)\n2. Present Continuous: Actions happening now (I am eating)\n3. Present Perfect: Actions from past with present relevance (I have eaten)\n4. Present Perfect Continuous: Actions ongoing from past to now (I have been eating)\n\nPAST TENSES:\n5. Simple Past: Completed actions in the past (I ate)\n6. Past Continuous: Actions happening at a specific past time (I was eating)\n7. Past Perfect: Actions completed before another past action (I had eaten)\n8. Past Perfect Continuous: Ongoing actions in past before another action (I had been eating)\n\nFUTURE TENSES:\n9. Simple Future: Actions that will happen (I will eat / I am going to eat)\n10. Future Continuous: Ongoing actions in the future (I will be eating)\n11. Future Perfect: Actions completed by a future time (I will have eaten)\n12. Future Perfect Continuous: Ongoing actions continuing into future (I will have been eating)\n\nCHOOSING THE RIGHT TENSE depends on:\n- When the action occurs (present, past, future)\n- The nature of the action (complete, ongoing, habitual)\n- Its relationship to other events\n- The speaker's perspective\n\nCOMMON TENSE MARKERS:\n- Present Simple: always, usually, often, sometimes, never\n- Present Continuous: now, right now, at this moment\n- Past Simple: yesterday, last week, ago, in 1995\n- Present Perfect: just, already, yet, recently, since, for\n- Future Simple: tomorrow, next week, in 2030, will\n- Future Continuous: at this time tomorrow, tonight at 8pm",
+      "examples": [
+        {
+          "question": "I have been studying for three hours, and I still have more to do.",
+          "answer": "Tense: Present Perfect Continuous | Structure: have + been + studying | Meaning: Action started in past and continues to present with duration emphasis",
+          "explanation": "This sentence uses Present Perfect Continuous (have been studying) to show an action that started in the past and continues to the present, showing duration."
+        },
+        {
+          "question": "By the time you arrive, I will have finished cooking dinner.",
+          "answer": "Tense: Future Perfect | Structure: will + have + finished | Meaning: One future action completed before another future action",
+          "explanation": "This uses Future Perfect tense to show that an action will be completed before another future action happens."
+        },
+        {
+          "question": "She had already left when her friend called.",
+          "answer": "Tense: Past Perfect | Structure: had + left | Meaning: Action completed in past before another past action",
+          "explanation": "This sentence uses Past Perfect (had left) for an action completed before another past action (called). The word 'already' indicates completion."
+        }
+      ]
+    },
+    {
+      "title": "Subject–Verb Agreement",
+      "slug": "subject-verb-agreement",
+      "difficulty": "Intermediate",
+      "estimated_time": "45 minutes",
+      "description": "Master the rules of subject-verb agreement to ensure grammatical correctness. Learn to identify singular and plural subjects and match them with appropriate verbs.",
+      "notes": "Subject-verb agreement is a fundamental rule: the verb must match the subject in number (singular or plural) and person (first, second, or third).\n\nBASIC RULES:\n1. Singular subjects take singular verbs; plural subjects take plural verbs.\n   - The cat is sleeping. (Singular subject 'cat' + singular verb 'is')\n   - The cats are sleeping. (Plural subject 'cats' + plural verb 'are')\n\n2. Third person singular present tense verbs usually end in -s or -es.\n   - He walks to school. (Not 'he walk')\n   - She catches fish. (Not 'she catch')\n\n3. Plural verbs in present tense don't add -s or -es.\n   - They walk to school. (Not 'they walks')\n   - We catch fish. (Not 'we catches')\n\nTRICKY SITUATIONS:\n4. Compound subjects joined by 'and' usually take plural verbs.\n   - John and Mary are friends. (Both are friends)\n\n5. Compound subjects joined by 'or' or 'nor' take a verb matching the nearest subject.\n   - Neither the teacher nor the students were present.\n   - Either the cats or the dog is responsible.\n\n6. Collective nouns (group, team, family) can be singular or plural depending on context.\n   - The team is winning. (Treated as one unit)\n   - The team are preparing their equipment. (Members acting individually)\n\n7. Indefinite pronouns (everyone, somebody, nobody) are typically singular.\n   - Everyone has arrived. (Not 'have')\n\n8. Indefinite pronouns (both, few, many, several) are plural.\n   - Many have volunteered.\n\n9. Words between subject and verb don't affect agreement.\n   - The manager, along with the staff, is attending. (Subject is 'manager')\n   - The students in the class are learning. (Subject is 'students')\n\n10. Quantifiers like 'half of', 'most of', 'none of' depend on the noun that follows.\n    - Half of the pie is gone. (Pie is singular)\n    - Half of the apples are gone. (Apples are plural)",
+      "examples": [
+        {
+          "question": "The team are preparing for the final match.",
+          "answer": "Subject: team (collective noun, plural sense) | Verb: are (plural) | Reason: Members acting individually",
+          "explanation": "Here 'team' is treated as plural because the emphasis is on individual team members preparing separately. In British English, collective nouns often take plural verbs."
+        },
+        {
+          "question": "Either the students or the teacher has to organize the event.",
+          "answer": "Subjects: students OR teacher | Nearest subject: teacher (singular) | Verb: has (singular)",
+          "explanation": "With 'or', the verb agrees with the nearest subject. Here 'teacher' is nearest, so we use 'has' (singular)."
+        },
+        {
+          "question": "The manager, along with his assistants, is reviewing the proposal.",
+          "answer": "Main subject: manager (singular) | Intervening phrase: along with his assistants | Verb: is (singular)",
+          "explanation": "The phrase 'along with his assistants' is a parenthetical expression. The actual subject is 'manager' (singular), so the verb is 'is'."
+        }
+      ]
+    },
+    {
+      "title": "Active & Passive Voice",
+      "slug": "active-passive-voice",
+      "difficulty": "Intermediate",
+      "estimated_time": "50 minutes",
+      "description": "Understand the difference between active and passive voice. Learn when to use each and how to convert between them effectively.",
+      "notes": "Voice indicates whether the subject performs the action (active) or receives the action (passive).\n\nACTIVE VOICE:\nStructure: Subject + Verb + Object\nThe subject performs the action.\nExample: The chef prepared the meal.\n- Who does the action? The chef (subject)\n- What action? Prepared\n- To what/whom? The meal (object)\n\nCharacteristics of Active Voice:\n- More direct and forceful\n- Clearer who is responsible\n- More concise\n- Preferred in most writing\n- Subject is emphasized\n\nPASSIVE VOICE:\nStructure: Subject + Auxiliary verb (be) + Past participle + (by + agent)\nThe subject receives the action.\nExample: The meal was prepared by the chef.\n- Who receives the action? The meal (subject)\n- What happened? Was prepared\n- By whom? By the chef (agent)\n\nCharacteristics of Passive Voice:\n- More formal tone\n- Emphasizes the action or object\n- Agent (who did the action) can be omitted\n- Longer and wordier\n- Useful when agent is unknown or irrelevant\n- Common in scientific and academic writing",
+      "examples": [
+        {
+          "question": "Active: The teacher explained the concept clearly. | Passive: The concept was explained clearly by the teacher.",
+          "answer": "Active: Subject (teacher) performs action (explained) on object (concept) | Passive: Object becomes subject, verb becomes 'was explained', original subject follows 'by'",
+          "explanation": "Active version emphasizes the teacher's action. Passive version emphasizes the concept. Passive is slightly wordier but acceptable when focus should be on what was explained."
+        },
+        {
+          "question": "Active: Someone stole my bicycle yesterday. | Passive: My bicycle was stolen yesterday.",
+          "answer": "Active with unknown agent changed to Passive without agent | 'My bicycle' becomes subject | 'was stolen' is the passive form",
+          "explanation": "Since the agent (someone) is unknown, passive voice is appropriate and natural. We eliminate 'by someone' because it adds no information."
+        },
+        {
+          "question": "Active: The council has approved the new budget. | Passive: The new budget has been approved by the council.",
+          "answer": "Active: Active voice with clear agent | Passive: Perfect tense passive 'has been approved' emphasizes the budget",
+          "explanation": "Active version emphasizes who approved it. Passive emphasizes what was approved. In formal announcements, both are acceptable; choose based on what you want to emphasize."
+        }
+      ]
+    },
+    {
+      "title": "Direct & Indirect Speech",
+      "slug": "direct-indirect-speech",
+      "difficulty": "Intermediate",
+      "estimated_time": "55 minutes",
+      "description": "Learn the difference between direct and indirect (reported) speech. Master the rules for converting direct speech to indirect speech with correct pronoun and tense changes.",
+      "notes": "Direct and Indirect Speech are ways of reporting what someone said.\n\nDIRECT SPEECH:\nQuotes exactly what someone said.\nStructure: Subject + Reporting Verb + Direct Quote (in quotation marks)\nExample: She said, \"I am very tired.\"\nThe exact words are enclosed in quotation marks.\nRules:\n- Use quotation marks\n- Preserve original words exactly\n- Preserve original tenses\n- Preserve original pronouns\n- Include punctuation inside quotes\n\nINDIRECT SPEECH (Reported Speech):\nReports the meaning of what someone said without quoting exactly.\nStructure: Subject + Reporting Verb + Indirect Quote (no quotation marks)\nExample: She said that she was very tired.\nThe exact words change, but the meaning remains.\n\nRULES FOR CONVERTING DIRECT TO INDIRECT:\n1. REMOVE QUOTATION MARKS\n2. ADD 'THAT' AFTER REPORTING VERB (usually optional but recommended)\n3. CHANGE PRONOUNS to match the new perspective\n4. SHIFT TENSES BACKWARDS (backshift)\n5. CHANGE TIME REFERENCES\n6. CHANGE PLACE REFERENCES if necessary",
+      "examples": [
+        {
+          "question": "Direct: \"I am studying for my exams,\" said Maria. | Indirect: Maria said that she was studying for her exams.",
+          "answer": "I → she | am studying → was studying | Quotation marks removed | 'that' added | Direct quote structure converted to statement structure",
+          "explanation": "Pronoun 'I' changes to 'she' (Maria's perspective). Tense shifts from Present Continuous 'am studying' to Past Continuous 'was studying'. The meaning is preserved without exact quotation."
+        },
+        {
+          "question": "Direct: \"Will you come to my party tomorrow?\" she asked. | Indirect: She asked if I would come to her party the next day.",
+          "answer": "Yes/No question → if clause | will → would | you → I | tomorrow → the next day | Question mark → period",
+          "explanation": "Yes/No question becomes statement with 'if'. 'You' becomes 'I' (since it refers to the person being asked). 'Will' becomes 'would' (backshift). 'Tomorrow' becomes 'the next day'."
+        },
+        {
+          "question": "Direct: \"I have finished my work,\" he said. | Indirect: He said that he had finished his work.",
+          "answer": "I → he | have finished → had finished | Present Perfect → Past Perfect | Quotation marks removed",
+          "explanation": "Present Perfect tense shifts to Past Perfect (the tense one level back). Pronoun 'I' becomes 'he'. The action's completion is still expressed but in a different tense."
+        }
+      ]
+    },
+    {
+      "title": "Sentence Structure",
+      "slug": "sentence-structure",
+      "difficulty": "Intermediate",
+      "estimated_time": "50 minutes",
+      "description": "Master the four types of sentences and sentence structures. Learn about simple, compound, complex, and compound-complex sentences with proper punctuation.",
+      "notes": "Sentence structure refers to how clauses and phrases combine to form sentences. Understanding structure improves clarity and writing variety.\n\nCLAUSES:\nIndependent Clause (Main Clause): Contains subject + verb and expresses a complete thought. Can stand alone as a sentence.\n- Example: \"The sun is shining.\"\n\nDependent Clause (Subordinate Clause): Contains subject + verb but does not express a complete thought. Cannot stand alone; must be attached to an independent clause.\n- Example: \"Although it is cold outside...\" (leaves you wondering what happens)\n\nFOUR TYPES OF SENTENCES:\n1. SIMPLE SENTENCE: One independent clause, one subject and one verb\n2. COMPOUND SENTENCE: Two or more independent clauses joined by coordinators (and, but, or, so, yet, nor, for)\n3. COMPLEX SENTENCE: One independent clause + one or more dependent clauses\n4. COMPOUND-COMPLEX SENTENCE: Two or more independent clauses + one or more dependent clauses",
+      "examples": [
+        {
+          "question": "Because the weather was terrible, Sarah decided to stay home and read a book.",
+          "answer": "Dependent clause: Because the weather was terrible | Independent clause: Sarah decided to stay home and read a book | Type: Complex | Punctuation: Comma after dependent clause",
+          "explanation": "This is a complex sentence. 'Because the weather was terrible' is a dependent adverbial clause. 'Sarah decided to stay home and read a book' is the independent clause. The comma separates them correctly."
+        },
+        {
+          "question": "The alarm went off at 6 AM, so I got out of bed reluctantly.",
+          "answer": "Independent clause 1: The alarm went off at 6 AM | Coordinator: so | Independent clause 2: I got out of bed reluctantly | Type: Compound | Punctuation: Comma before 'so'",
+          "explanation": "Compound sentence: Two independent clauses ('The alarm went off at 6 AM' and 'I got out of bed reluctantly') joined by the coordinator 'so' with a comma."
+        },
+        {
+          "question": "Although she practiced every day, she was still nervous before the competition, yet she performed brilliantly.",
+          "answer": "Dependent clause: Although she practiced every day | Independent 1: she was still nervous before the competition | Coordinator: yet | Independent 2: she performed brilliantly | Type: Compound-complex",
+          "explanation": "Compound-complex sentence: Dependent clause + independent clause joined by semicolon and conjunctive adverb to another independent clause."
+        }
+      ]
+    },
+    {
+      "title": "Common Grammar Mistakes",
+      "slug": "common-grammar-mistakes",
+      "difficulty": "Intermediate",
+      "estimated_time": "50 minutes",
+      "description": "Learn about the most frequent grammar errors made by English learners and native speakers, and how to correct them effectively.",
+      "notes": "Understanding common mistakes helps you avoid them. Here are the most frequent grammar errors:\n\n1. SUBJECT-VERB AGREEMENT ERRORS: The verb must match the subject in number and person.\n2. PRONOUN-ANTECEDENT DISAGREEMENT: Pronouns must agree with their antecedents in number.\n3. TENSE INCONSISTENCY: Maintain consistent tense throughout a passage.\n4. COMMA SPLICE: Never join two independent clauses with only a comma.\n5. RUN-ON SENTENCES: Two independent clauses must be properly connected.\n6. MISPLACED MODIFIERS: Place modifiers next to the words they modify.\n7. DANGLING MODIFIERS: Ensure the subject modified is clear.\n8. DOUBLE NEGATIVES: Use only one negative form.\n9. CONFUSING THEIR/THERE/THEY'RE: Know which form to use.\n10. AFFECT VS. EFFECT: Understand the difference.\n11. USING 'TO' INSTEAD OF 'TOO': Be precise.\n12. INCORRECT APOSTROPHE USE: Apostrophes show possession or contractions, not plurals.\n13. SENTENCE FRAGMENTS: All sentences must be complete.\n14. WRONG ARTICLE USE: Use articles correctly.\n15. BETWEEN VS. AMONG: Know when to use each.",
+      "examples": [
+        {
+          "question": "Mistake: 'She don't like vegetables.' | Correct: 'She doesn't like vegetables.'",
+          "answer": "Error: Incorrect verb form with third person singular subject | Rule: Third person singular present tense uses 'doesn't', 'does', or verb + -s | Correction: 'doesn't like'",
+          "explanation": "Subject-verb agreement error. 'She' is third person singular, requiring 'doesn't' (does not), not 'don't' which pairs with 'I', 'you', 'we', 'they'."
+        },
+        {
+          "question": "Mistake: 'Driving down the highway, the road was very bumpy.' | Correct: 'Driving down the highway, I noticed the road was very bumpy.'",
+          "answer": "Error: Dangling modifier (modifying phrase doesn't relate to subject) | Fix: Change subject to logical agent ('I' rather than 'road')",
+          "explanation": "Dangling modifier. 'Driving down the highway' suggests the road was driving, which is illogical. The modifier must refer to the subject of the sentence."
+        },
+        {
+          "question": "Mistake: 'The students' books are here, their ready to study their lessons.' | Correct: 'The students' books are here; they're ready to study their lessons.'",
+          "answer": "Errors: (1) their → they're (they are) (2) Comma splice (need semicolon or period) (3) their is correct (possessive) | Correction: Use they're for contraction",
+          "explanation": "Three errors: (1) Using 'their' instead of 'they're' (they are), (2) Comma splice between independent clauses, (3) Another 'their' used correctly. Students' is correct (possessive plural)."
+        }
+      ]
+    },
+    {
+      "title": "Paragraph Writing",
+      "slug": "paragraph-writing",
+      "difficulty": "Intermediate",
+      "estimated_time": "55 minutes",
+      "description": "Master the art of writing well-structured paragraphs with clear topic sentences, supporting sentences, and conclusions. Learn various paragraph structures and techniques.",
+      "notes": "A paragraph is a group of related sentences that develop one main idea. Strong paragraphs are the building blocks of effective writing.\n\nPARAGRAPH STRUCTURE:\n1. TOPIC SENTENCE: The main idea, usually placed first\n2. SUPPORTING SENTENCES (BODY): Develop and support the topic with details, examples, evidence\n3. CONCLUDING SENTENCE: Summarizes the main point or provides final thoughts\n\nPARAGRAPH TYPES BY PURPOSE:\n- NARRATIVE: Tells a story in chronological order\n- DESCRIPTIVE: Paints a picture using sensory details\n- EXPOSITORY: Explains or informs about a topic\n- PERSUASIVE: Attempts to convince the reader\n\nPARAGRAPH COHERENCE TECHNIQUES:\n1. Repeated key words\n2. Pronouns\n3. Transitions\n4. Parallel structure",
+      "examples": [
+        {
+          "question": "Topic Sentence: 'Regular exercise provides numerous benefits for physical and mental health.' Supporting: Daily physical activity strengthens the heart and improves circulation. Exercise releases endorphins, which improve mood and reduce stress. People who exercise regularly sleep better and have more energy throughout the day. Conclusion: 'Clearly, making exercise a regular part of one's routine is an investment in long-term health.'",
+          "answer": "Topic sentence: Establishes main idea (regular exercise benefits) | Supporting sentences: Four specific benefits with details | Transitions: 'Additionally' connects ideas | Conclusion: Reinforces importance with broader implication | Structure: Clear, coherent, unified",
+          "explanation": "This well-structured paragraph has a clear topic sentence establishing the main idea. Supporting sentences provide specific benefits (circulation, mental health, sleep, disease prevention). The concluding sentence reinforces the importance without repetition."
+        },
+        {
+          "question": "Topic Sentence: 'The rise of remote work has transformed traditional office culture.' Supporting: Companies have reduced overhead costs by downsizing physical spaces. Employees enjoy greater flexibility and work-life balance. However, some workers feel isolated without daily face-to-face interaction. Managers report challenges in building team cohesion remotely. Conclusion: 'Remote work represents both opportunities and challenges that require thoughtful management.'",
+          "answer": "Type: Expository | Topic sentence: States main idea (impact of remote work) | Support: Four relevant details including both pros and cons | Transition: 'However' shows contrast | Conclusion: Synthesizes complexity",
+          "explanation": "This expository paragraph explains a topic thoroughly. It presents both advantages and disadvantages. The transition 'However' introduces a contrasting point. Supporting details are specific and relevant."
+        },
+        {
+          "question": "Narrative paragraph: 'My first day at the new school was overwhelming. I arrived early and walked nervously through the unfamiliar hallways. Then I found my homeroom, where a friendly teacher helped me find my seat. During first period, a girl next to me introduced herself and offered to show me around at lunch. By the end of the day, I had made three new friends and discovered the library. When I returned home, I felt excited about going back the next day.'",
+          "answer": "Type: Narrative | Structure: Chronological events | Opening: Sets scene (first day, overwhelming) | Events: Connected with time transitions | Conclusion: Resolves situation (excited) | Technique: Sensory details and chronological flow",
+          "explanation": "This narrative paragraph tells a story in chronological order. Events flow naturally from arrival to departure. Transitions like 'Then', 'During', and 'By the end' show time progression. Sensory details and clear resolution make it effective."
+        }
+      ]
+    },
+    {
+      "title": "Practical English for Daily Use",
+      "slug": "practical-english-for-daily-use",
+      "difficulty": "Beginner",
+      "estimated_time": "50 minutes",
+      "description": "Learn everyday English expressions, common phrases, and practical communication patterns for daily situations like shopping, dining, asking for directions, and social interactions.",
+      "notes": "Practical English focuses on real-life communication. This lesson covers expressions and patterns you'll encounter and use daily.\n\nGREETINGS AND INTRODUCTIONS:\nFormal: 'Good morning. How do you do?', 'It's a pleasure to meet you.'\nInformal: 'Hi, how are you?', 'Hey, what's up?', 'Nice to meet you!'\n\nASKING FOR INFORMATION:\n- 'Where is the nearest train station?'\n- 'Could you tell me the way to the hospital?'\n- 'How much does this cost?'\n- 'What time does the store close?'\n\nAT A RESTAURANT:\nOrdering: 'I'd like to order...', 'Could I have the menu?'\nPayment: 'Can I have the bill?', 'Do you accept credit cards?'\n\nSHOPPING:\n- 'How much does this cost?'\n- 'Do you have a smaller size?'\n- 'Is this on sale?'\n- 'Can I try this on?'\n\nTRANSPORTATION:\n- 'How do I get to...?'\n- 'Which bus goes to...?'\n- 'Where's the bus stop?'\n- 'A ticket to..., please.'",
+      "examples": [
+        {
+          "question": "Situation: You're in a cafe and need to order. Response: 'Excuse me, could I have a menu, please? I'd like a coffee and a croissant. Can I get this to go?'",
+          "answer": "Expressions: 'Excuse me', 'Could I have', 'I'd like', 'Can I get' | Politeness markers: Please, modals (could, can) | Practical elements: Menu request, specific order",
+          "explanation": "This demonstrates polite ordering using modals (could, can), appropriate expressions (Excuse me), and clear requests. Shows real-world cafe interaction."
+        },
+        {
+          "question": "Situation: You're lost and need directions. Response: 'Excuse me, could you tell me the way to the train station? I think I'm going the wrong direction.'",
+          "answer": "Asking directions: 'Could you tell me the way to...', 'I think I'm lost' | Politeness: Modals, 'excuse me', 'please'",
+          "explanation": "Shows appropriate language for asking directions, admitting confusion politely. Uses courteous forms with 'excuse me' and 'could you'."
+        },
+        {
+          "question": "Situation: Making plans with a friend. Response: 'Hi! Are you free this weekend? I'd like to see a movie. What time works for you? Let's meet at 3 PM.'",
+          "answer": "Making plans: 'Are you free...', 'I'd like to...', 'What time...' | Coordinating: 'Let's meet', specific time | Register: Informal and friendly",
+          "explanation": "Natural conversation pattern using questions to include the other person, specific suggestions, and confirmation. Appropriate for friends."
+        }
+      ]
+    }
+  ]
+}

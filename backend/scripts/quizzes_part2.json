@@ -1,0 +1,916 @@
+{
+  "quizzes": [
+    {
+      "lesson_slug": "tenses",
+      "lesson_title": "Tenses",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "How many tenses are there in English?",
+              "options": ["4", "8", "12", "16"],
+              "correct_answer": "12",
+              "marks": 1,
+              "explanation": "There are 12 tenses: 4 present, 4 past, and 4 future tenses."
+            },
+            {
+              "question_id": 2,
+              "question": "Which tense is used to describe habits or general truths?",
+              "options": ["Present Continuous", "Simple Present", "Present Perfect", "Future Simple"],
+              "correct_answer": "Simple Present",
+              "marks": 1,
+              "explanation": "Simple Present describes habits, routines, and universal truths."
+            },
+            {
+              "question_id": 3,
+              "question": "What does the Present Perfect describe?",
+              "options": ["Ongoing action right now", "Action completed before now", "Habitual action", "Action happening at specific time"],
+              "correct_answer": "Action completed before now",
+              "marks": 1,
+              "explanation": "Present Perfect shows actions from past with relevance to present: 'I have finished my work.'"
+            },
+            {
+              "question_id": 4,
+              "question": "Choose the sentence in Past Perfect tense:",
+              "options": ["She is leaving", "She will leave", "She had left", "She leaves"],
+              "correct_answer": "She had left",
+              "marks": 1,
+              "explanation": "Past Perfect uses 'had' + past participle, showing one past action completed before another."
+            },
+            {
+              "question_id": 5,
+              "question": "Which tense is correctly used in: 'By next week, I will have completed the project'?",
+              "options": ["Simple Future", "Future Perfect", "Future Continuous", "Present Perfect"],
+              "correct_answer": "Future Perfect",
+              "marks": 1,
+              "explanation": "Future Perfect uses 'will have' + past participle for actions completed by a specific future time."
+            },
+            {
+              "question_id": 6,
+              "question": "Identify the tense: 'I have been studying for three hours.'",
+              "options": ["Present Perfect", "Present Continuous", "Present Perfect Continuous", "Simple Present"],
+              "correct_answer": "Present Perfect Continuous",
+              "marks": 1,
+              "explanation": "Present Perfect Continuous uses 'have been' + present participle, showing duration from past to now."
+            },
+            {
+              "question_id": 7,
+              "question": "What does the Past Continuous describe?",
+              "options": ["Completed past action", "Habitual past action", "Ongoing action at specific past time", "Recent past action"],
+              "correct_answer": "Ongoing action at specific past time",
+              "marks": 1,
+              "explanation": "Past Continuous uses 'was/were' + present participle: 'I was studying when she called.'"
+            },
+            {
+              "question_id": 8,
+              "question": "Which sentence shows Future Continuous?",
+              "options": ["I will finish tomorrow", "I will be finishing tomorrow", "I will have finished tomorrow", "I finish tomorrow"],
+              "correct_answer": "I will be finishing tomorrow",
+              "marks": 1,
+              "explanation": "Future Continuous uses 'will be' + present participle for ongoing actions in the future."
+            },
+            {
+              "question_id": 9,
+              "question": "What tense marker indicates Simple Past?",
+              "options": ["Now", "Just", "Every day", "Yesterday"],
+              "correct_answer": "Yesterday",
+              "marks": 1,
+              "explanation": "Time markers like yesterday, last week, ago indicate Simple Past tense."
+            },
+            {
+              "question_id": 10,
+              "question": "Choose the correct tense for: 'She _____ to London every summer.'",
+              "options": ["goes", "is going", "has gone", "went"],
+              "correct_answer": "goes",
+              "marks": 1,
+              "explanation": "'Every summer' indicates habitual action, requiring Simple Present: 'goes.'"
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Present Perfect and Simple Past have the same meaning.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Present Perfect has relevance to now; Simple Past is finished: 'I have eaten' vs 'I ate lunch at noon.'"
+            },
+            {
+              "question_id": 2,
+              "question": "The Future Simple tense requires 'will' or 'am going to.'",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Both forms express future: 'I will go' and 'I am going to go.'"
+            },
+            {
+              "question_id": 3,
+              "question": "Past Continuous must have another past action happening simultaneously.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Past Continuous can stand alone: 'I was reading.' It doesn't always need another action."
+            },
+            {
+              "question_id": 4,
+              "question": "Present Perfect Continuous emphasizes duration of an action.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'I have been working for two hours' emphasizes how long it's been happening."
+            },
+            {
+              "question_id": 5,
+              "question": "All tenses can be formed using auxiliary verbs.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Auxiliary verbs (be, have, will, can) help form various tenses."
+            },
+            {
+              "question_id": 6,
+              "question": "Simple Past and Past Perfect describe the same thing.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Past Perfect shows completion before another past event: 'I had eaten before she arrived.'"
+            },
+            {
+              "question_id": 7,
+              "question": "Present Simple is used only for permanent states, never for actions.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Simple Present describes both actions and states: 'He runs daily' and 'He is tall.'"
+            },
+            {
+              "question_id": 8,
+              "question": "Tense markers help identify which tense to use.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Words like 'now,' 'yesterday,' 'just,' 'already' indicate specific tenses."
+            },
+            {
+              "question_id": 9,
+              "question": "Future Perfect is used when an action will be completed by a specific future time.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'By 2030, I will have graduated' shows completion by that future time."
+            },
+            {
+              "question_id": 10,
+              "question": "All past participles end in '-ed'.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Regular verbs end in '-ed' but irregular verbs have different forms: gone, eaten, seen, been."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "The _______ Present tense describes habits and general truths.",
+              "correct_answer": "Simple",
+              "marks": 1,
+              "explanation": "Simple Present is used for regular actions: 'I work here.'"
+            },
+            {
+              "question_id": 2,
+              "question": "Present Continuous uses 'am/is/are' + _______.",
+              "correct_answer": "present participle",
+              "marks": 1,
+              "explanation": "Present Continuous structure: 'am/is/are' + verb-ing. Example: 'I am reading.'"
+            },
+            {
+              "question_id": 3,
+              "question": "_______ Perfect shows an action completed before another past action.",
+              "correct_answer": "Past",
+              "marks": 1,
+              "explanation": "Past Perfect: 'had' + past participle, for sequencing past events."
+            },
+            {
+              "question_id": 4,
+              "question": "Future _______ uses 'will be' + present participle.",
+              "correct_answer": "Continuous",
+              "marks": 1,
+              "explanation": "Future Continuous: 'will be' + verb-ing, for ongoing future actions."
+            },
+            {
+              "question_id": 5,
+              "question": "The _______ of tense depends on when an action happens and its relationship to other events.",
+              "correct_answer": "choice",
+              "marks": 1,
+              "explanation": "Choosing the right tense requires understanding time context and relationships."
+            },
+            {
+              "question_id": 6,
+              "question": "_______ markers like 'for' or 'since' are used with Present Perfect Continuous.",
+              "correct_answer": "Time",
+              "marks": 1,
+              "explanation": "Time markers help identify duration: 'I have been working for three hours.'"
+            },
+            {
+              "question_id": 7,
+              "question": "Past Perfect Continuous emphasizes _______ of an action in the past.",
+              "correct_answer": "duration",
+              "marks": 1,
+              "explanation": "It shows how long something had been happening: 'I had been studying when they arrived.'"
+            },
+            {
+              "question_id": 8,
+              "question": "Simple _______ tense is used for actions completed at a specific time in the past.",
+              "correct_answer": "Past",
+              "marks": 1,
+              "explanation": "Simple Past is for finished actions: 'I went to the store yesterday.'"
+            },
+            {
+              "question_id": 9,
+              "question": "There are _______ future tenses in English.",
+              "correct_answer": "four",
+              "marks": 1,
+              "explanation": "Simple Future, Future Continuous, Future Perfect, and Future Perfect Continuous."
+            },
+            {
+              "question_id": 10,
+              "question": "_______ is essential for maintaining consistency in narrative writing.",
+              "correct_answer": "Tense consistency",
+              "marks": 1,
+              "explanation": "Mixing tenses inappropriately confuses readers."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match each tense to its use:",
+              "pairs": [
+                {"left": "Simple Present", "right": "Habits and general truths"},
+                {"left": "Present Continuous", "right": "Action happening right now"},
+                {"left": "Present Perfect", "right": "Action from past with present relevance"},
+                {"left": "Present Perfect Continuous", "right": "Duration from past to now"},
+                {"left": "Simple Past", "right": "Completed action at specific past time"}
+              ],
+              "marks": 5,
+              "explanation": "These five tenses relate to the present or recent past."
+            },
+            {
+              "question_id": 2,
+              "question": "Match past tenses to their characteristics:",
+              "pairs": [
+                {"left": "Simple Past", "right": "'I worked' - single completed action"},
+                {"left": "Past Continuous", "right": "'I was working' - action in progress"},
+                {"left": "Past Perfect", "right": "'I had worked' - before another past action"},
+                {"left": "Past Perfect Continuous", "right": "'I had been working' - duration until another action"},
+                {"left": "Time marker", "right": "Yesterday, last week, ago"}
+              ],
+              "marks": 5,
+              "explanation": "Four past tenses and their uses."
+            },
+            {
+              "question_id": 3,
+              "question": "Match future tenses to their forms:",
+              "pairs": [
+                {"left": "Simple Future", "right": "will + verb"},
+                {"left": "Future Continuous", "right": "will be + verb-ing"},
+                {"left": "Future Perfect", "right": "will have + past participle"},
+                {"left": "Future Perfect Continuous", "right": "will have been + verb-ing"},
+                {"left": "Example: By 2025", "right": "Future Perfect or Future Perfect Continuous"}
+              ],
+              "marks": 5,
+              "explanation": "Forms and uses of future tenses."
+            },
+            {
+              "question_id": 4,
+              "question": "Match the time marker to the likely tense:",
+              "pairs": [
+                {"left": "Yesterday", "right": "Simple Past"},
+                {"left": "Right now", "right": "Present Continuous"},
+                {"left": "Every day", "right": "Simple Present"},
+                {"left": "For two hours", "right": "Present Perfect Continuous"},
+                {"left": "By next month", "right": "Future Perfect"}
+              ],
+              "marks": 5,
+              "explanation": "Time markers help identify correct tenses."
+            },
+            {
+              "question_id": 5,
+              "question": "Match each sentence to its tense:",
+              "pairs": [
+                {"left": "I am reading a book", "right": "Present Continuous"},
+                {"left": "She has lived here for five years", "right": "Present Perfect"},
+                {"left": "They were playing when I arrived", "right": "Past Continuous"},
+                {"left": "He will have graduated by June", "right": "Future Perfect"},
+                {"left": "We study English daily", "right": "Simple Present"}
+              ],
+              "marks": 5,
+              "explanation": "Identify tenses in context."
+            },
+            {
+              "question_id": 6,
+              "question": "Match auxiliary verbs to the tenses they form:",
+              "pairs": [
+                {"left": "am/is/are", "right": "Present Continuous and Present Perfect Continuous"},
+                {"left": "was/were", "right": "Past Continuous and Past Perfect Continuous"},
+                {"left": "have/has", "right": "Present Perfect"},
+                {"left": "had", "right": "Past Perfect"},
+                {"left": "will", "right": "All future tenses"}
+              ],
+              "marks": 5,
+              "explanation": "Auxiliary verbs are essential for forming tenses."
+            },
+            {
+              "question_id": 7,
+              "question": "Match the verb form to its function:",
+              "pairs": [
+                {"left": "Base form", "right": "go, read, write"},
+                {"left": "Present participle", "right": "going, reading, writing"},
+                {"left": "Past participle", "right": "gone, read, written"},
+                {"left": "Third person -s", "right": "goes, reads, writes"},
+                {"left": "Used in continuous tenses", "right": "Present participle (verb-ing)"}
+              ],
+              "marks": 5,
+              "explanation": "Different verb forms create different tenses."
+            },
+            {
+              "question_id": 8,
+              "question": "Match the number of tenses in each time period:",
+              "pairs": [
+                {"left": "Present tenses", "right": "4 tenses"},
+                {"left": "Past tenses", "right": "4 tenses"},
+                {"left": "Future tenses", "right": "4 tenses"},
+                {"left": "Total English tenses", "right": "12 tenses"},
+                {"left": "Time periods in English", "right": "Present, Past, Future"}
+              ],
+              "marks": 5,
+              "explanation": "The 12 tenses are distributed across three time periods."
+            },
+            {
+              "question_id": 9,
+              "question": "Match perfective vs non-perfective tenses:",
+              "pairs": [
+                {"left": "Simple Present", "right": "Non-perfective (ongoing or habitual)"},
+                {"left": "Present Perfect", "right": "Perfective (completed with present relevance)"},
+                {"left": "Simple Past", "right": "Non-perfective (completed fact)"},
+                {"left": "Past Perfect", "right": "Perfective (before another past event)"},
+                {"left": "Continuous tenses", "right": "Emphasize ongoing nature"}
+              ],
+              "marks": 5,
+              "explanation": "Some tenses emphasize completion; others emphasize duration."
+            },
+            {
+              "question_id": 10,
+              "question": "Match the use case to the appropriate tense:",
+              "pairs": [
+                {"left": "Narrative story", "right": "Simple Past"},
+                {"left": "Current state", "right": "Present Perfect"},
+                {"left": "Action happening now", "right": "Present Continuous"},
+                {"left": "Completed before another time", "right": "Perfect tenses"},
+                {"left": "Duration emphasis", "right": "Continuous or Perfect Continuous tenses"}
+              ],
+              "marks": 5,
+              "explanation": "Choose tenses based on communicative purposes."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Explain the difference between Simple Past and Present Perfect with examples.",
+              "correct_answer": "Simple Past: completed at specific time. Example: 'I ate lunch at noon.' Present Perfect: action from past with present relevance. Example: 'I have eaten.' Present Perfect doesn't specify when.",
+              "marks": 2,
+              "explanation": "One has a definite time; the other emphasizes relevance to now."
+            },
+            {
+              "question_id": 2,
+              "question": "What is Present Continuous used for? Provide one example.",
+              "correct_answer": "Present Continuous describes actions happening right now. Example: 'I am studying English right now.'",
+              "marks": 2,
+              "explanation": "It shows ongoing action in the present moment."
+            },
+            {
+              "question_id": 3,
+              "question": "Explain how Future Perfect differs from Simple Future with examples.",
+              "correct_answer": "Simple Future: 'I will finish tomorrow.' Future Perfect: 'I will have finished by tomorrow.' Future Perfect shows completion by a specific future time.",
+              "marks": 2,
+              "explanation": "Future Perfect emphasizes completion before a future point."
+            },
+            {
+              "question_id": 4,
+              "question": "What is the structure of Past Continuous? Give one example.",
+              "correct_answer": "Structure: was/were + present participle (verb-ing). Example: 'I was reading when you called.'",
+              "marks": 2,
+              "explanation": "Past Continuous describes ongoing action at a specific past moment."
+            },
+            {
+              "question_id": 5,
+              "question": "What does Present Perfect Continuous emphasize, and how is it formed?",
+              "correct_answer": "Emphasizes duration from past to present. Formation: have/has + been + present participle (verb-ing). Example: 'I have been studying for three hours.'",
+              "marks": 2,
+              "explanation": "It highlights how long an action has been happening."
+            },
+            {
+              "question_id": 6,
+              "question": "Explain the use of Past Perfect Continuous with an example.",
+              "correct_answer": "Shows an action ongoing in the past until another past event. Example: 'I had been working for two hours when she arrived.'",
+              "marks": 2,
+              "explanation": "Past Perfect Continuous emphasizes duration leading up to another past action."
+            },
+            {
+              "question_id": 7,
+              "question": "Why is Simple Present used for habitual actions? Provide an example.",
+              "correct_answer": "Simple Present describes routine actions that happen regularly. Example: 'I go to school every day.' It's used for repeated habits and general truths.",
+              "marks": 2,
+              "explanation": "The tense indicates actions that are customary or typical."
+            },
+            {
+              "question_id": 8,
+              "question": "Describe when you would use Past Perfect instead of Simple Past.",
+              "correct_answer": "Use Past Perfect when you need to show that one past action happened before another. Simple Past: 'I ate, then I studied.' Past Perfect: 'I had eaten before I studied.'",
+              "marks": 2,
+              "explanation": "Past Perfect clarifies sequence when multiple past events occur."
+            },
+            {
+              "question_id": 9,
+              "question": "What is the main difference between Future Continuous and Simple Future?",
+              "correct_answer": "Simple Future: 'I will eat at 6 PM.' Future Continuous: 'I will be eating at 6 PM.' Continuous emphasizes the action is ongoing at that time.",
+              "marks": 2,
+              "explanation": "Future Continuous stresses that something will be happening, not just starting."
+            },
+            {
+              "question_id": 10,
+              "question": "How does tense consistency affect narrative writing? Provide a brief example.",
+              "correct_answer": "Inconsistent tenses confuse readers. Wrong: 'She walked to the store and buys milk.' Correct: 'She walked to the store and bought milk.' Keep the same tense throughout.",
+              "marks": 2,
+              "explanation": "Consistent tense maintains clarity and reader understanding in stories."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "subject-verb-agreement",
+      "lesson_title": "Subject–Verb Agreement",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is subject-verb agreement?",
+              "options": ["Agreeing with the subject", "The verb must match the subject in number and person", "The subject comes after the verb", "Both have the same spelling"],
+              "correct_answer": "The verb must match the subject in number and person",
+              "marks": 1,
+              "explanation": "Agreement means singular subjects take singular verbs; plural subjects take plural verbs."
+            },
+            {
+              "question_id": 2,
+              "question": "Which sentence demonstrates correct subject-verb agreement?",
+              "options": ["The team are playing", "The team is playing", "The teams is playing", "Teams are plays"],
+              "correct_answer": "The team is playing",
+              "marks": 1,
+              "explanation": "In American English, collective nouns like 'team' take singular verbs: 'is.'"
+            },
+            {
+              "question_id": 3,
+              "question": "Choose the sentence with correct agreement:",
+              "options": ["Everyone have arrived", "Everyone has arrived", "Everyone are ready", "Everyone go there"],
+              "correct_answer": "Everyone has arrived",
+              "marks": 1,
+              "explanation": "'Everyone' is a singular indefinite pronoun requiring singular verb 'has.'"
+            },
+            {
+              "question_id": 4,
+              "question": "Identify the error: 'The students in the classroom is studying.'",
+              "options": ["No error", "Verb should be 'are'", "Subject should be 'student'", "Tense is wrong"],
+              "correct_answer": "Verb should be 'are'",
+              "marks": 1,
+              "explanation": "The subject 'students' is plural, requiring plural verb 'are,' not 'is.'"
+            },
+            {
+              "question_id": 5,
+              "question": "With 'either...or,' the verb agrees with:",
+              "options": ["The first subject", "The nearest subject", "Both subjects equally", "Neither subject"],
+              "correct_answer": "The nearest subject",
+              "marks": 1,
+              "explanation": "'Either the teacher or the students were absent.' Verb agrees with 'students.'"
+            },
+            {
+              "question_id": 6,
+              "question": "Which indefinite pronoun is plural?",
+              "options": ["Everyone", "Someone", "Nobody", "Several"],
+              "correct_answer": "Several",
+              "marks": 1,
+              "explanation": "Several, many, few, and both are plural indefinite pronouns."
+            },
+            {
+              "question_id": 7,
+              "question": "Choose the correct sentence:",
+              "options": ["Half of the apples is rotten", "Half of the apples are rotten", "Half of the pizza are eaten", "Halves of the apples is rotten"],
+              "correct_answer": "Half of the apples are rotten",
+              "marks": 1,
+              "explanation": "'Apples' is plural, so 'are' is correct. With 'half of' + plural noun, use plural verb."
+            },
+            {
+              "question_id": 8,
+              "question": "What does agreement mean when a subject and verb are separated by other words?",
+              "options": ["The verb agrees with the nearest word", "The verb agrees with the main subject", "The verb agrees with the object", "Word order determines agreement"],
+              "correct_answer": "The verb agrees with the main subject",
+              "marks": 1,
+              "explanation": "Intervening words don't affect agreement. 'The manager, with his staff, is present.'"
+            },
+            {
+              "question_id": 9,
+              "question": "Which sentence has correct agreement?",
+              "options": ["Mathematics are difficult", "Physics are complex", "Economics is important", "Statistics are misleading"],
+              "correct_answer": "Economics is important",
+              "marks": 1,
+              "explanation": "Subjects ending in '-ics' (physics, economics, mathematics) are singular in meaning: 'is.'"
+            },
+            {
+              "question_id": 10,
+              "question": "In the sentence 'Neither John nor Mary are going,' is this correct?",
+              "options": ["Yes", "No, should be 'is'", "No, should be 'have been'", "No, needs 'will'"],
+              "correct_answer": "No, should be 'is'",
+              "marks": 1,
+              "explanation": "With 'neither...nor,' the verb agrees with the nearest subject 'Mary' (singular) → 'is.'"
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Singular subjects always take singular verbs ending in '-s.'",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'He walks.' The subject 'he' (singular) takes 'walks' with the -s ending."
+            },
+            {
+              "question_id": 2,
+              "question": "The number of words between the subject and verb affects agreement.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "The main subject determines agreement, regardless of intervening words."
+            },
+            {
+              "question_id": 3,
+              "question": "Compound subjects joined by 'and' are always plural.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'John and Mary are friends.' Multiple items joined by 'and' = plural."
+            },
+            {
+              "question_id": 4,
+              "question": "Indefinite pronouns like 'everyone' are always singular.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'Everyone has arrived.' Indefinite pronouns (everyone, someone, nobody) are singular."
+            },
+            {
+              "question_id": 5,
+              "question": "Collective nouns always take plural verbs in American English.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "In American English, collective nouns take singular verbs: 'The team is playing.'"
+            },
+            {
+              "question_id": 6,
+              "question": "With 'or' and 'nor,' the verb agrees with the nearest subject.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'Either cats or the dog is responsible.' Verb agrees with 'dog.'"
+            },
+            {
+              "question_id": 7,
+              "question": "'The news is important' is grammatically correct.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'News' is singular despite its '-s' ending: 'The news is.'"
+            },
+            {
+              "question_id": 8,
+              "question": "Agreement errors are easily caught by most readers.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Subject-verb disagreement immediately sounds wrong to native speakers."
+            },
+            {
+              "question_id": 9,
+              "question": "Titles of works take singular verbs.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'The Beatles are' uses plural (it's a band), but 'Gone with the Wind is' uses singular (it's one title)."
+            },
+            {
+              "question_id": 10,
+              "question": "British English has different agreement rules for collective nouns.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "British English treats collective nouns as plural when individuals are acting separately."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Subject-verb agreement means the verb must match the subject in _______ and person.",
+              "correct_answer": "number",
+              "marks": 1,
+              "explanation": "Number refers to singular or plural form."
+            },
+            {
+              "question_id": 2,
+              "question": "Singular subjects take _______ verbs; plural subjects take plural verbs.",
+              "correct_answer": "singular",
+              "marks": 1,
+              "explanation": "Verb form depends on subject number."
+            },
+            {
+              "question_id": 3,
+              "question": "In third person singular present tense, the verb usually ends in _______.",
+              "correct_answer": "-s",
+              "marks": 1,
+              "explanation": "'He walks,' 'She eats,' 'It runs' all end in -s or -es."
+            },
+            {
+              "question_id": 4,
+              "question": "Compound subjects joined by 'and' are _______ and take plural verbs.",
+              "correct_answer": "plural",
+              "marks": 1,
+              "explanation": "'John and Mary are friends' (plural verb 'are')."
+            },
+            {
+              "question_id": 5,
+              "question": "The _______ of a subject determines the verb form, regardless of intervening words.",
+              "correct_answer": "main",
+              "marks": 1,
+              "explanation": "Focus on the actual subject, not words between it and the verb."
+            },
+            {
+              "question_id": 6,
+              "question": "With 'or' or 'nor,' the verb agrees with the _______ subject.",
+              "correct_answer": "nearest",
+              "marks": 1,
+              "explanation": "'Either cats or the dog...' verb agrees with 'dog.'"
+            },
+            {
+              "question_id": 7,
+              "question": "_______ pronouns (everyone, someone, nobody) are singular.",
+              "correct_answer": "Indefinite",
+              "marks": 1,
+              "explanation": "These pronouns always take singular verbs."
+            },
+            {
+              "question_id": 8,
+              "question": "In American English, collective nouns like 'team' take _______ verbs.",
+              "correct_answer": "singular",
+              "marks": 1,
+              "explanation": "'The team is playing' uses singular 'is.'"
+            },
+            {
+              "question_id": 9,
+              "question": "Words like 'none,' 'all,' and 'some' require agreement based on the _______ that follows.",
+              "correct_answer": "noun",
+              "marks": 1,
+              "explanation": "'Some of the water is' (water is singular) vs 'Some of the apples are' (apples is plural)."
+            },
+            {
+              "question_id": 10,
+              "question": "_______ in agreement make writing sound incorrect to native speakers.",
+              "correct_answer": "Errors",
+              "marks": 1,
+              "explanation": "Subject-verb disagreement is one of the most noticeable errors."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match subject types to their correct verb forms:",
+              "pairs": [
+                {"left": "Singular subject", "right": "Singular verb, often with -s or -es"},
+                {"left": "Plural subject", "right": "Plural verb without -s or -es"},
+                {"left": "Third person singular", "right": "'He/she/it' + verb-s"},
+                {"left": "First/second person", "right": "I/you/we/they + base verb"},
+                {"left": "Collective noun (American)", "right": "Singular verb"}
+              ],
+              "marks": 5,
+              "explanation": "Basic agreement rules for different subjects."
+            },
+            {
+              "question_id": 2,
+              "question": "Match connectors to agreement rules:",
+              "pairs": [
+                {"left": "Joined by 'and'", "right": "Use plural verb"},
+                {"left": "Joined by 'or'/'nor'", "right": "Agree with nearest subject"},
+                {"left": "'Either...or'", "right": "Verb agrees with second subject"},
+                {"left": "'Neither...nor'", "right": "Verb agrees with nearest subject"},
+                {"left": "Separated by intervening words", "right": "Verb agrees with main subject"}
+              ],
+              "marks": 5,
+              "explanation": "How connectors affect agreement rules."
+            },
+            {
+              "question_id": 3,
+              "question": "Match pronoun types to their agreement requirements:",
+              "pairs": [
+                {"left": "Indefinite (everyone, somebody)", "right": "Singular verb"},
+                {"left": "Indefinite (many, few, both)", "right": "Plural verb"},
+                {"left": "Personal (he, she, it)", "right": "Singular verb with -s"},
+                {"left": "Personal (I, you, we, they)", "right": "Plural or base verb"},
+                {"left": "Relative (who, which)", "right": "Agrees with antecedent"}
+              ],
+              "marks": 5,
+              "explanation": "Different pronouns have specific agreement patterns."
+            },
+            {
+              "question_id": 4,
+              "question": "Match example sentences to their correctness:",
+              "pairs": [
+                {"left": "The team is winning.", "right": "Correct (American English)"},
+                {"left": "Everyone are happy.", "right": "Incorrect"},
+                {"left": "Students in the class is ready.", "right": "Incorrect"},
+                {"left": "Either the cat or the dogs are here.", "right": "Correct"},
+                {"left": "Half of the pizza is gone.", "right": "Correct"}
+              ],
+              "marks": 5,
+              "explanation": "Identify correct and incorrect agreement."
+            },
+            {
+              "question_id": 5,
+              "question": "Match special nouns to their agreement patterns:",
+              "pairs": [
+                {"left": "Mathematics, physics, economics", "right": "Singular verb (despite -ics ending)"},
+                {"left": "News, scissors, pants", "right": "Plural verb form, often singular meaning"},
+                {"left": "Team, family, group", "right": "Singular in American English"},
+                {"left": "Politics, statistics", "right": "Can be singular or plural depending on context"},
+                {"left": "The United States", "right": "Singular verb"}
+              ],
+              "marks": 5,
+              "explanation": "Tricky nouns that often cause agreement errors."
+            },
+            {
+              "question_id": 6,
+              "question": "Match errors to their corrections:",
+              "pairs": [
+                {"left": "He don't like apples.", "right": "He doesn't like apples."},
+                {"left": "The students is studying.", "right": "The students are studying."},
+                {"left": "Everyone have left.", "right": "Everyone has left."},
+                {"left": "Neither parent are ready.", "right": "Neither parent is ready."},
+                {"left": "The news are depressing.", "right": "The news is depressing."}
+              ],
+              "marks": 5,
+              "explanation": "Common agreement errors and corrections."
+            },
+            {
+              "question_id": 7,
+              "question": "Match intervening phrase descriptions to examples:",
+              "pairs": [
+                {"left": "Phrase with 'along with'", "right": "Agreement with main subject, not phrase"},
+                {"left": "Parenthetical phrase", "right": "Doesn't affect main agreement"},
+                {"left": "'Plus,' 'including,' 'besides'", "right": "Agreement with main subject"},
+                {"left": "Prepositional phrase starting with 'of'", "right": "Doesn't change subject number"},
+                {"left": "Main subject determination", "right": "Look for who or what performs the action"}
+              ],
+              "marks": 5,
+              "explanation": "How intervening phrases work with agreement."
+            },
+            {
+              "question_id": 8,
+              "question": "Match verbs to the number they require:",
+              "pairs": [
+                {"left": "is, has, seems", "right": "Singular"},
+                {"left": "are, have, seem", "right": "Plural"},
+                {"left": "doesn't, hasn't, isn't", "right": "Singular (negative)"},
+                {"left": "don't, haven't, aren't", "right": "Plural (negative)"},
+                {"left": "Third person -s ending", "right": "Singular verb form"}
+              ],
+              "marks": 5,
+              "explanation": "Verb forms for singular and plural subjects."
+            },
+            {
+              "question_id": 9,
+              "question": "Match regional differences to agreement patterns:",
+              "pairs": [
+                {"left": "American English (collective nouns)", "right": "Singular: 'The team is'"},
+                {"left": "British English (collective nouns)", "right": "Often plural: 'The team are'"},
+                {"left": "American: 'The data is'", "right": "Singular"},
+                {"left": "British: 'The data are'", "right": "Often plural"},
+                {"left": "Universal rule", "right": "Subject and verb must agree in number and person"}
+              ],
+              "marks": 5,
+              "explanation": "Variations between American and British English."
+            },
+            {
+              "question_id": 10,
+              "question": "Match the importance of agreement to its effects:",
+              "pairs": [
+                {"left": "Correct agreement", "right": "Sounds natural to native speakers"},
+                {"left": "Incorrect agreement", "right": "Immediately sounds wrong"},
+                {"left": "Agreement in writing", "right": "Essential for professionalism"},
+                {"left": "Consistency", "right": "Maintain same rules throughout"},
+                {"left": "Learning agreement", "right": "Critical for grammatical accuracy"}
+              ],
+              "marks": 5,
+              "explanation": "Why agreement matters in communication."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Define subject-verb agreement and why it is important.",
+              "correct_answer": "Subject-verb agreement means the verb must match the subject in number (singular/plural) and person. It's important for grammatical correctness and clarity. Mistakes sound wrong to native speakers.",
+              "marks": 2,
+              "explanation": "Agreement is fundamental to proper English grammar."
+            },
+            {
+              "question_id": 2,
+              "question": "Provide two examples showing correct subject-verb agreement.",
+              "correct_answer": "Example 1: 'The cat is sleeping.' (singular subject 'cat' with singular verb 'is'). Example 2: 'The cats are sleeping.' (plural subject 'cats' with plural verb 'are').",
+              "marks": 2,
+              "explanation": "Demonstrate understanding of singular and plural agreement."
+            },
+            {
+              "question_id": 3,
+              "question": "Correct this sentence: 'Everyone in the office are ready for the meeting.' Explain the error.",
+              "correct_answer": "Corrected: 'Everyone in the office is ready for the meeting.' Error: 'Everyone' is an indefinite singular pronoun requiring singular verb 'is,' not plural 'are.'",
+              "marks": 2,
+              "explanation": "Indefinite pronouns often cause agreement errors."
+            },
+            {
+              "question_id": 4,
+              "question": "How do intervening words affect subject-verb agreement?",
+              "correct_answer": "Intervening words do not affect agreement. The verb agrees with the main subject, not words in between. Example: 'The manager, along with his assistants, is present.' (Subject 'manager' is singular, so 'is').",
+              "marks": 2,
+              "explanation": "Focus on the actual subject, not prepositional phrases."
+            },
+            {
+              "question_id": 5,
+              "question": "Explain the rule for compound subjects joined by 'and' with an example.",
+              "correct_answer": "Compound subjects joined by 'and' are always plural and take plural verbs. Example: 'John and Mary are friends.' Both individuals make a plural subject requiring 'are.'",
+              "marks": 2,
+              "explanation": "Multiple items joined by 'and' create plural subjects."
+            },
+            {
+              "question_id": 6,
+              "question": "Explain the rule for subjects joined by 'or' or 'nor.' Provide an example.",
+              "correct_answer": "The verb agrees with the nearest subject. Example: 'Either the students or the teacher is responsible.' ('Teacher' is nearest, so 'is' used). Another: 'Either the teacher or the students are responsible.' ('Students' is nearest, so 'are' used).",
+              "marks": 2,
+              "explanation": "With 'or/nor,' proximity determines agreement."
+            },
+            {
+              "question_id": 7,
+              "question": "What are indefinite pronouns? Give examples and their agreement pattern.",
+              "correct_answer": "Indefinite pronouns include: everyone, somebody, nothing, several, many, few, both. Singular: everyone, somebody, nobody. Plural: several, many, few, both. Example: 'Everyone has arrived' (singular).",
+              "marks": 2,
+              "explanation": "Understanding indefinite pronouns prevents common errors."
+            },
+            {
+              "question_id": 8,
+              "question": "Explain the difference between American and British English for collective nouns. Provide one example.",
+              "correct_answer": "American English: Collective nouns are singular. Example: 'The team is playing.' British English: Can be plural when individuals act separately. Example: 'The team are preparing their equipment.'",
+              "marks": 2,
+              "explanation": "Cultural and regional variations in agreement rules exist."
+            },
+            {
+              "question_id": 9,
+              "question": "Correct these sentences and explain each error: 'The news are depressing' and 'Physics are difficult.'",
+              "correct_answer": "Corrected: 'The news is depressing' (news is singular despite -s ending). 'Physics is difficult' (subjects ending in -ics are singular). Both take singular verbs despite their plural-sounding endings.",
+              "marks": 2,
+              "explanation": "Some nouns mislead by their form but require singular verbs."
+            },
+            {
+              "question_id": 10,
+              "question": "Create three sentences demonstrating different types of agreement challenges and correct them if needed.",
+              "correct_answer": "Example 1: 'Half of the students are ready.' (Correct - plural noun 'students'). Example 2: 'Half of the cake is eaten.' (Correct - singular noun 'cake'). Example 3: 'The committee has decided.' (Correct - American English, collective noun as singular).",
+              "marks": 2,
+              "explanation": "Show mastery of various agreement situations."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

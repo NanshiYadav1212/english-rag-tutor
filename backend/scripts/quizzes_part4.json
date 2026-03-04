@@ -1,0 +1,926 @@
+{
+  "quizzes": [
+    {
+      "lesson_slug": "sentence-structure",
+      "lesson_title": "Sentence Structure",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "How many types of sentences are there based on structure?",
+              "options": ["2", "3", "4", "5"],
+              "correct_answer": "4",
+              "marks": 1,
+              "explanation": "Simple, Compound, Complex, and Compound-Complex sentences."
+            },
+            {
+              "question_id": 2,
+              "question": "What is a simple sentence?",
+              "options": ["A short sentence", "One independent clause", "Two independent clauses", "One dependent clause"],
+              "correct_answer": "One independent clause",
+              "marks": 1,
+              "explanation": "Simple sentence has one subject and one verb: 'The dog barks.'"
+            },
+            {
+              "question_id": 3,
+              "question": "Which is a compound sentence?",
+              "options": ["I went to the store", "I went to the store, and I bought milk", "Because I went to the store", "Going to the store"],
+              "correct_answer": "I went to the store, and I bought milk",
+              "marks": 1,
+              "explanation": "Compound: two independent clauses joined by a coordinator."
+            },
+            {
+              "question_id": 4,
+              "question": "What joins independent clauses in a compound sentence?",
+              "options": ["Subordinating conjunction", "Coordinating conjunction", "Preposition", "Adjective"],
+              "correct_answer": "Coordinating conjunction",
+              "marks": 1,
+              "explanation": "Coordinators: and, but, or, so, yet, nor, for."
+            },
+            {
+              "question_id": 5,
+              "question": "Identify the sentence type: 'Although it was raining, we went outside.'",
+              "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+              "correct_answer": "Complex",
+              "marks": 1,
+              "explanation": "Complex: dependent clause + independent clause."
+            },
+            {
+              "question_id": 6,
+              "question": "What punctuation joins two independent clauses without a coordinator?",
+              "options": ["Comma", "Semicolon", "Colon", "Apostrophe"],
+              "correct_answer": "Semicolon",
+              "marks": 1,
+              "explanation": "'I went to the store; I bought milk.' (semicolon alone)"
+            },
+            {
+              "question_id": 7,
+              "question": "What is a run-on sentence?",
+              "options": ["A very long sentence", "Two independent clauses joined incorrectly", "A sentence without punctuation", "A sentence with many adjectives"],
+              "correct_answer": "Two independent clauses joined incorrectly",
+              "marks": 1,
+              "explanation": "Example: 'I went to the store I bought milk.' (missing comma and coordinator)"
+            },
+            {
+              "question_id": 8,
+              "question": "Identify the error: 'Because it was raining.'",
+              "options": ["Run-on sentence", "Fragment", "No error", "Wrong tense"],
+              "correct_answer": "Fragment",
+              "marks": 1,
+              "explanation": "This dependent clause is incomplete; it needs an independent clause."
+            },
+            {
+              "question_id": 9,
+              "question": "Which sentence is compound-complex?",
+              "options": ["The dog barked", "The dog barked and ran", "Although he was tired, he ran, and he won", "He was tired because he ran"],
+              "correct_answer": "Although he was tired, he ran, and he won",
+              "marks": 1,
+              "explanation": "Compound-complex has dependent clause(s) + multiple independent clauses."
+            },
+            {
+              "question_id": 10,
+              "question": "How should a dependent clause at the beginning be punctuated?",
+              "options": ["No punctuation needed", "Comma after it", "Semicolon after it", "Dash after it"],
+              "correct_answer": "Comma after it",
+              "marks": 1,
+              "explanation": "'Although it rained, we went out.' (comma after dependent clause)"
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "An independent clause can stand alone as a sentence.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Independent clauses express complete thoughts."
+            },
+            {
+              "question_id": 2,
+              "question": "A dependent clause can stand alone as a sentence.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Dependent clauses need independent clauses to be complete."
+            },
+            {
+              "question_id": 3,
+              "question": "All long sentences are compound-complex.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Length doesn't determine structure; a simple sentence can be long."
+            },
+            {
+              "question_id": 4,
+              "question": "A compound sentence has at least two independent clauses.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Two or more equal clauses joined by coordinators."
+            },
+            {
+              "question_id": 5,
+              "question": "Subordinating conjunctions connect equal clauses.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Subordinating conjunctions create dependent clauses (unequal)."
+            },
+            {
+              "question_id": 6,
+              "question": "A sentence fragment is always an error.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Fragments are incomplete and should be corrected."
+            },
+            {
+              "question_id": 7,
+              "question": "A run-on sentence can be corrected with a semicolon.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Semicolons correctly join independent clauses."
+            },
+            {
+              "question_id": 8,
+              "question": "Complex sentences contain only one subject.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Complex sentences can have multiple subjects (in different clauses)."
+            },
+            {
+              "question_id": 9,
+              "question": "A dependent clause begins with a subordinating conjunction.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Words like 'because,' 'although,' 'when' introduce dependent clauses."
+            },
+            {
+              "question_id": 10,
+              "question": "Comma splices are the same as run-on sentences.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Both connect independent clauses incorrectly (comma alone)."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "An _______ clause contains a subject and verb and expresses a complete thought.",
+              "correct_answer": "independent",
+              "marks": 1,
+              "explanation": "Independent clauses can stand alone."
+            },
+            {
+              "question_id": 2,
+              "question": "A _______ clause contains a subject and verb but does not express a complete thought.",
+              "correct_answer": "dependent",
+              "marks": 1,
+              "explanation": "Dependent clauses must attach to independent clauses."
+            },
+            {
+              "question_id": 3,
+              "question": "A _______ sentence contains one independent clause.",
+              "correct_answer": "simple",
+              "marks": 1,
+              "explanation": "Simple sentences have basic structure: S+V."
+            },
+            {
+              "question_id": 4,
+              "question": "A _______ sentence contains two independent clauses.",
+              "correct_answer": "compound",
+              "marks": 1,
+              "explanation": "Compound sentences join equal clauses."
+            },
+            {
+              "question_id": 5,
+              "question": "A _______ sentence contains one or more dependent clauses and at least one independent clause.",
+              "correct_answer": "complex",
+              "marks": 1,
+              "explanation": "Complex sentences show relationships between unequal clauses."
+            },
+            {
+              "question_id": 6,
+              "question": "Two independent clauses without proper connection form a _______.",
+              "correct_answer": "run-on sentence",
+              "marks": 1,
+              "explanation": "Run-on sentences need correcting with punctuation or coordinators."
+            },
+            {
+              "question_id": 7,
+              "question": "A _______ is an incomplete sentence lacking a subject, verb, or complete thought.",
+              "correct_answer": "fragment",
+              "marks": 1,
+              "explanation": "Fragments must be corrected to be complete sentences."
+            },
+            {
+              "question_id": 8,
+              "question": "A _______ joins two independent clauses correctly without a coordinator.",
+              "correct_answer": "semicolon",
+              "marks": 1,
+              "explanation": "Semicolons separate closely related independent clauses."
+            },
+            {
+              "question_id": 9,
+              "question": "_______ conjunctions (and, but, or) join equal clauses.",
+              "correct_answer": "Coordinating",
+              "marks": 1,
+              "explanation": "Coordinators link clauses of equal importance."
+            },
+            {
+              "question_id": 10,
+              "question": "After a dependent clause at the beginning of a sentence, use a _______.",
+              "correct_answer": "comma",
+              "marks": 1,
+              "explanation": "'Although tired, he ran.' (comma separates dependent from independent)"
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match sentence types to their definitions:",
+              "pairs": [
+                {"left": "Simple", "right": "One independent clause"},
+                {"left": "Compound", "right": "Two independent clauses"},
+                {"left": "Complex", "right": "One or more dependent + independent clauses"},
+                {"left": "Compound-Complex", "right": "Two or more independent + dependent clauses"},
+                {"left": "Clause", "right": "Subject + verb unit"}
+              ],
+              "marks": 5,
+              "explanation": "Four main sentence structures based on clauses."
+            },
+            {
+              "question_id": 2,
+              "question": "Match examples to sentence types:",
+              "pairs": [
+                {"left": "The dog barks", "right": "Simple"},
+                {"left": "The dog barks and runs", "right": "Compound"},
+                {"left": "When the dog barks, the cat hides", "right": "Complex"},
+                {"left": "Although tired, he ran, and he won", "right": "Compound-Complex"},
+                {"left": "She loves to read books", "right": "Simple"}
+              ],
+              "marks": 5,
+              "explanation": "Identify structure from examples."
+            },
+            {
+              "question_id": 3,
+              "question": "Match clause types to their characteristics:",
+              "pairs": [
+                {"left": "Independent", "right": "Expresses complete thought; can stand alone"},
+                {"left": "Dependent", "right": "Incomplete; must attach to independent"},
+                {"left": "Independent", "right": "Contains subject + verb"},
+                {"left": "Dependent", "right": "Often begins with subordinating conjunction"},
+                {"left": "Adverbial clause", "right": "Modifies the main clause"}
+              ],
+              "marks": 5,
+              "explanation": "Understanding clause characteristics helps with structure."
+            },
+            {
+              "question_id": 4,
+              "question": "Match conjunctions to their types:",
+              "pairs": [
+                {"left": "and, but, or, so", "right": "Coordinating"},
+                {"left": "because, although, when, if", "right": "Subordinating"},
+                {"left": "Coordinating", "right": "Joins equal clauses"},
+                {"left": "Subordinating", "right": "Creates dependent clause"},
+                {"left": "therefore, however, moreover", "right": "Conjunctive adverbs"}
+              ],
+              "marks": 5,
+              "explanation": "Different conjunctions serve different purposes."
+            },
+            {
+              "question_id": 5,
+              "question": "Match punctuation to its use in sentences:",
+              "pairs": [
+                {"left": "Comma + coordinator", "right": "Joins two independent clauses"},
+                {"left": "Semicolon", "right": "Joins independent clauses (no coordinator)"},
+                {"left": "Comma after dependent clause", "right": "If dependent comes first"},
+                {"left": "No comma needed", "right": "If dependent clause comes last"},
+                {"left": "Period", "right": "Ends a complete sentence"}
+              ],
+              "marks": 5,
+              "explanation": "Punctuation rules for different sentence structures."
+            },
+            {
+              "question_id": 6,
+              "question": "Match errors to their corrections:",
+              "pairs": [
+                {"left": "I went to the store I bought milk (run-on)", "right": "Add comma + 'and' OR use semicolon"},
+                {"left": "Because it rained (fragment)", "right": "Add independent clause: 'Because it rained, we stayed home.'"},
+                {"left": "She studied, and she passed (comma splice)", "right": "Use comma + 'and' (already correct) OR semicolon"},
+                {"left": "When I arrive (fragment)", "right": "Complete with independent clause"},
+                {"left": "Two independent clauses no connector (run-on)", "right": "Add coordinator or semicolon"}
+              ],
+              "marks": 5,
+              "explanation": "Common errors and their corrections."
+            },
+            {
+              "question_id": 7,
+              "question": "Match subordinating conjunctions to clause types they create:",
+              "pairs": [
+                {"left": "because, since, as", "right": "Causal clause (reason)"},
+                {"left": "although, though, while", "right": "Concessive clause (contrast)"},
+                {"left": "when, before, after, while", "right": "Temporal clause (time)"},
+                {"left": "if, unless, provided that", "right": "Conditional clause"},
+                {"left": "where, wherever", "right": "Locative clause (place)"}
+              ],
+              "marks": 5,
+              "explanation": "Subordinating conjunctions introduce various dependent clauses."
+            },
+            {
+              "question_id": 8,
+              "question": "Match sentence problems to their categories:",
+              "pairs": [
+                {"left": "Incomplete clause standing alone", "right": "Fragment"},
+                {"left": "Two clauses joined with comma only", "right": "Comma splice/Run-on"},
+                {"left": "Two clauses with no connection", "right": "Fused sentence/Run-on"},
+                {"left": "Clause missing subject or verb", "right": "Fragment"},
+                {"left": "Lacks punctuation between clauses", "right": "Run-on sentence"}
+              ],
+              "marks": 5,
+              "explanation": "Identifying sentence-level errors."
+            },
+            {
+              "question_id": 9,
+              "question": "Match comma rules to their applications:",
+              "pairs": [
+                {"left": "Comma + coordinator", "right": "Between independent clauses"},
+                {"left": "Comma after introductory element", "right": "'After studying, she rested.'"},
+                {"left": "Comma between items", "right": "In lists and series"},
+                {"left": "Comma in compound sentence", "right": "Before coordinator (and, but, or)"},
+                {"left": "No comma usually needed", "right": "Between dependent and independent (dependent last)"}
+              ],
+              "marks": 5,
+              "explanation": "Comma usage in different contexts."
+            },
+            {
+              "question_id": 10,
+              "question": "Match clause positions to punctuation needs:",
+              "pairs": [
+                {"left": "Dependent clause first", "right": "Comma after it"},
+                {"left": "Dependent clause last", "right": "Usually no comma"},
+                {"left": "Independent + dependent (end)", "right": "No comma usually"},
+                {"left": "Dependent + independent", "right": "Comma between them"},
+                {"left": "Two independent clauses", "right": "Comma + coordinator OR semicolon"}
+              ],
+              "marks": 5,
+              "explanation": "Positioning affects punctuation requirements."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Define and give one example of each: simple, compound, complex, and compound-complex sentences.",
+              "correct_answer": "Simple: 1 independent clause. 'The dog runs.' Compound: 2+ independent clauses. 'The dog runs and the cat sleeps.' Complex: Dependent + independent. 'When the dog runs, the cat sleeps.' Compound-complex: Dependent + multiple independent. 'When the dog runs, the cat sleeps, and the bird sings.'",
+              "marks": 2,
+              "explanation": "Demonstrate understanding of all four structures."
+            },
+            {
+              "question_id": 2,
+              "question": "What is the difference between an independent and dependent clause? Provide one example of each.",
+              "correct_answer": "Independent: Complete thought; stands alone. 'She studies.' Dependent: Incomplete; needs independent clause. 'Because she studies' (needs completion like '...she passes').",
+              "marks": 2,
+              "explanation": "Understand clause functions."
+            },
+            {
+              "question_id": 3,
+              "question": "Correct this run-on sentence: 'I went to the park I played football.'",
+              "correct_answer": "Correction 1: 'I went to the park, and I played football.' (add comma + coordinator) OR Correction 2: 'I went to the park; I played football.' (use semicolon)",
+              "marks": 2,
+              "explanation": "Show multiple ways to fix run-on sentences."
+            },
+            {
+              "question_id": 4,
+              "question": "Fix this sentence fragment: 'Because the weather was beautiful.'",
+              "correct_answer": "Fix: 'Because the weather was beautiful, we went for a walk.' OR 'We went for a walk because the weather was beautiful.' The dependent clause needs an independent clause to be complete.",
+              "marks": 2,
+              "explanation": "Fragments must be attached to independent clauses."
+            },
+            {
+              "question_id": 5,
+              "question": "Explain the difference between coordinating and subordinating conjunctions.",
+              "correct_answer": "Coordinating conjunctions (and, but, or, so) join equal independent clauses. Subordinating conjunctions (because, although, when) create dependent clauses and show relationships between unequal clauses.",
+              "marks": 2,
+              "explanation": "Understanding conjunction types helps with structure."
+            },
+            {
+              "question_id": 6,
+              "question": "When should you use a semicolon between clauses? Provide one example.",
+              "correct_answer": "Use a semicolon to join two closely related independent clauses without a coordinator. Example: 'She studied hard; she earned good grades.' The semicolon shows these ideas are connected.",
+              "marks": 2,
+              "explanation": "Semicolons connect equal independent clauses."
+            },
+            {
+              "question_id": 7,
+              "question": "How does punctuation change when a dependent clause comes first versus last?",
+              "correct_answer": "Dependent first: Use comma after it. 'Although tired, he ran.' Dependent last: Usually no comma. 'He ran although tired.' The comma clarifies the sentence boundary when the dependent clause opens the sentence.",
+              "marks": 2,
+              "explanation": "Position affects punctuation needs."
+            },
+            {
+              "question_id": 8,
+              "question": "Identify the type of sentence and explain its structure: 'While she studied, the phone rang, and her friend called.'",
+              "correct_answer": "Type: Compound-complex. Structure: Dependent clause ('While she studied') + two independent clauses joined by 'and' ('the phone rang' and 'her friend called'). It has both dependent and multiple independent clauses.",
+              "marks": 2,
+              "explanation": "Analyze complex sentence structures."
+            },
+            {
+              "question_id": 9,
+              "question": "Explain what a comma splice is and provide one example with a correction.",
+              "correct_answer": "Comma splice: Two independent clauses joined by comma only (no coordinator). Example: 'She was tired, she fell asleep.' Correction: 'She was tired, so she fell asleep.' OR 'She was tired; she fell asleep.'",
+              "marks": 2,
+              "explanation": "Recognize and fix comma splices."
+            },
+            {
+              "question_id": 10,
+              "question": "Why do sentence fragments and run-on sentences need to be corrected?",
+              "correct_answer": "Fragments are incomplete and confuse readers. Run-on sentences lack clear boundaries and are hard to understand. Both violate grammatical rules and make writing unprofessional. Corrections restore clarity and grammatical accuracy.",
+              "marks": 2,
+              "explanation": "Understand importance of correct sentence structure."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "common-grammar-mistakes",
+      "lesson_title": "Common Grammar Mistakes",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which sentence has a subject-verb agreement error?",
+              "options": ["The team is winning", "The team are preparing", "He goes to school", "They study hard"],
+              "correct_answer": "The team are preparing",
+              "marks": 1,
+              "explanation": "In American English, 'team' (singular) should use 'is': 'The team is preparing.'"
+            },
+            {
+              "question_id": 2,
+              "question": "Identify the error: 'Every student should submit their homework.'",
+              "options": ["No error", "Pronoun mismatch", "Spelling error", "Tense error"],
+              "correct_answer": "Pronoun mismatch",
+              "marks": 1,
+              "explanation": "But modern usage accepts 'their' as singular pronoun; traditionally 'his or her.'"
+            },
+            {
+              "question_id": 3,
+              "question": "What error is in: 'I went to the store and buy milk'?",
+              "options": ["Subject-verb", "Tense inconsistency", "Fragment", "Comma splice"],
+              "correct_answer": "Tense inconsistency",
+              "marks": 1,
+              "explanation": "Shifts from 'went' (past) to 'buy' (present). Should be 'bought.'"
+            },
+            {
+              "question_id": 4,
+              "question": "Which is correct?",
+              "options": ["Its raining outside", "It's raining outside", "It is raining outside", "Both B and C"],
+              "correct_answer": "Both B and C",
+              "marks": 1,
+              "explanation": "'It's' (contraction) and 'It is' are both correct. 'Its' is possessive (wrong here)."
+            },
+            {
+              "question_id": 5,
+              "question": "Identify the error: 'Running down the hill, the tree was tall.'",
+              "options": ["Subject-verb error", "Misplaced modifier", "Comma splice", "No error"],
+              "correct_answer": "Misplaced modifier",
+              "marks": 1,
+              "explanation": "The modifier 'Running' illogically modifies 'tree.' Should be 'Running...I saw the tree.'"
+            },
+            {
+              "question_id": 6,
+              "question": "Which sentence demonstrates correct use of affect/effect?",
+              "options": ["The weather affects my mood", "The weather effects my mood", "The medicine will effect a cure", "Both B and C"],
+              "correct_answer": "The weather affects my mood",
+              "marks": 1,
+              "explanation": "Affect (verb) = influence. Effect (noun) = result. 'Affects' is correct."
+            },
+            {
+              "question_id": 7,
+              "question": "What error appears here: 'I don't want no trouble'?",
+              "options": ["Double negative", "Fragment", "Run-on", "Misplaced modifier"],
+              "correct_answer": "Double negative",
+              "marks": 1,
+              "explanation": "Double negatives: 'don't want no' is incorrect. Say 'don't want any.'"
+            },
+            {
+              "question_id": 8,
+              "question": "Which apostrophe use is correct?",
+              "options": ["The book's are here", "The books' title", "Its a nice day", "He lost his key's"],
+              "correct_answer": "The books' title",
+              "marks": 1,
+              "explanation": "Apostrophes show possession. 'Books'' = plural possessive."
+            },
+            {
+              "question_id": 9,
+              "question": "Correct: 'I really love to play volleyball'",
+              "options": ["to really love", "love really to play", "really to play love", "No change needed"],
+              "correct_answer": "No change needed",
+              "marks": 1,
+              "explanation": "Adverb placement here is acceptable: 'I really love' is correct."
+            },
+            {
+              "question_id": 10,
+              "question": "What's the error? 'She don't like apples.'",
+              "options": ["Spelling error", "Subject-verb agreement", "Pronoun error", "Tense error"],
+              "correct_answer": "Subject-verb agreement",
+              "marks": 1,
+              "explanation": "'She' (3rd person singular) needs 'doesn't,' not 'don't.'"
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "'Their,' 'there,' and 'they're' have different meanings.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Their (possessive), there (location), they're (they are)."
+            },
+            {
+              "question_id": 2,
+              "question": "A comma splice occurs when two independent clauses are separated by a comma alone.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Needs coordinator or semicolon to be correct."
+            },
+            {
+              "question_id": 3,
+              "question": "Double negatives are acceptable in standard English.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Double negatives are grammatically incorrect."
+            },
+            {
+              "question_id": 4,
+              "question": "Misplaced modifiers can change the meaning of a sentence.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'Nearly I ate all the cookies' vs 'I nearly ate all the cookies' have different meanings."
+            },
+            {
+              "question_id": 5,
+              "question": "'Affect' and 'effect' are interchangeable.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Affect (verb) influences; effect (noun/verb) results."
+            },
+            {
+              "question_id": 6,
+              "question": "Tense consistency is important in narrative writing.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Mixing tenses confuses readers."
+            },
+            {
+              "question_id": 7,
+              "question": "Apostrophes in plurals make them possessive.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Apostrophes show possession, not plurality. 'Books' is plural; 'books'' is possessive."
+            },
+            {
+              "question_id": 8,
+              "question": "Run-on sentences should always be divided into separate sentences.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Can be fixed with punctuation/coordinators, not just separated."
+            },
+            {
+              "question_id": 9,
+              "question": "Pronoun-antecedent agreement means pronouns must match their nouns in number.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'The student finished his work' (singular match)."
+            },
+            {
+              "question_id": 10,
+              "question": "Dangling modifiers lack a clear subject to modify.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Example: 'Reading the book, the time passed quickly.' (Who is reading?)"
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Subject-verb _______ occurs when verb doesn't match subject number.",
+              "correct_answer": "disagreement",
+              "marks": 1,
+              "explanation": "Common grammar error affecting sentence correctness."
+            },
+            {
+              "question_id": 2,
+              "question": "A _______ modifies the wrong word or is placed unclearly.",
+              "correct_answer": "misplaced modifier",
+              "marks": 1,
+              "explanation": "Changes meaning or creates confusion."
+            },
+            {
+              "question_id": 3,
+              "question": "A _______ modifier lacks a clear subject to modify.",
+              "correct_answer": "dangling",
+              "marks": 1,
+              "explanation": "Leaves readers uncertain what the modifier refers to."
+            },
+            {
+              "question_id": 4,
+              "question": "Using two negatives together is called a _______.",
+              "correct_answer": "double negative",
+              "marks": 1,
+              "explanation": "Example: 'don't want no trouble' is incorrect."
+            },
+            {
+              "question_id": 5,
+              "question": "_______ means the action influences or changes something.",
+              "correct_answer": "Affect",
+              "marks": 1,
+              "explanation": "Verb meaning to influence."
+            },
+            {
+              "question_id": 6,
+              "question": "_______ means the result of something.",
+              "correct_answer": "Effect",
+              "marks": 1,
+              "explanation": "Usually a noun meaning result or consequence."
+            },
+            {
+              "question_id": 7,
+              "question": "A _______ comma splice joins independent clauses with only a comma.",
+              "correct_answer": "comma splice (or run-on)",
+              "marks": 1,
+              "explanation": "Needs a coordinator or semicolon."
+            },
+            {
+              "question_id": 8,
+              "question": "_______ show possession (cat's toy) or contractions (it's = it is).",
+              "correct_answer": "Apostrophes",
+              "marks": 1,
+              "explanation": "Don't use apostrophes in regular plurals."
+            },
+            {
+              "question_id": 9,
+              "question": "Pronoun-_______ agreement means pronouns must match their nouns.",
+              "correct_answer": "antecedent",
+              "marks": 1,
+              "explanation": "The antecedent is the noun a pronoun replaces."
+            },
+            {
+              "question_id": 10,
+              "question": "_______ inconsistency occurs when verb tenses shift incorrectly.",
+              "correct_answer": "Tense",
+              "marks": 1,
+              "explanation": "Keep consistent tense throughout narratives."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match errors to their corrections:",
+              "pairs": [
+                {"left": "She don't like pizza", "right": "She doesn't like pizza"},
+                {"left": "I went and buy milk", "right": "I went and bought milk"},
+                {"left": "The team are winning", "right": "The team is winning (American)"},
+                {"left": "Its a nice day", "right": "It's a nice day"},
+                {"left": "I really don't want no trouble", "right": "I really don't want any trouble"}
+              ],
+              "marks": 5,
+              "explanation": "Common mistakes and corrections."
+            },
+            {
+              "question_id": 2,
+              "question": "Match words that are frequently confused:",
+              "pairs": [
+                {"left": "Their", "right": "Possessive (their book)"},
+                {"left": "There", "right": "Location (over there)"},
+                {"left": "They're", "right": "Contraction (they are)"},
+                {"left": "Affect", "right": "Verb (to influence)"},
+                {"left": "Effect", "right": "Noun (result)"}
+              ],
+              "marks": 5,
+              "explanation": "Homophones and confusing pairs."
+            },
+            {
+              "question_id": 3,
+              "question": "Match error types to examples:",
+              "pairs": [
+                {"left": "Misplaced modifier", "right": "I saw a man on a bike wearing a hat"},
+                {"left": "Dangling modifier", "right": "Running down the hill, the tree appeared tall"},
+                {"left": "Subject-verb error", "right": "Everyone have arrived"},
+                {"left": "Tense inconsistency", "right": "I walked to the store and buy milk"},
+                {"left": "Double negative", "right": "I don't want no help"}
+              ],
+              "marks": 5,
+              "explanation": "Common grammatical errors."
+            },
+            {
+              "question_id": 4,
+              "question": "Match comma rules to proper usage:",
+              "pairs": [
+                {"left": "Two independent clauses", "right": "Need comma + coordinator (or semicolon)"},
+                {"left": "Series of items", "right": "Separated by commas"},
+                {"left": "Introductory phrase", "right": "Comma after it"},
+                {"left": "Dependent clause first", "right": "Comma after it"},
+                {"left": "Adjectives before noun", "right": "Commas between coordinate adjectives"}
+              ],
+              "marks": 5,
+              "explanation": "Proper comma placement."
+            },
+            {
+              "question_id": 5,
+              "question": "Match apostrophe uses to their purposes:",
+              "pairs": [
+                {"left": "Possession: cat's toy", "right": "Shows ownership"},
+                {"left": "Contraction: it's (it is)", "right": "Combines two words"},
+                {"left": "Plural: boys (NOT boys')", "right": "No apostrophe for regular plural"},
+                {"left": "Plural possessive: boys'", "right": "Shows multiple owners"},
+                {"left": "Contractions: don't, can't", "right": "Replaces missing letters"}
+              ],
+              "marks": 5,
+              "explanation": "Correct apostrophe usage."
+            },
+            {
+              "question_id": 6,
+              "question": "Match modifier problems to corrections:",
+              "pairs": [
+                {"left": "Misplaced: Nearly I ate all cookies", "right": "I nearly ate all the cookies"},
+                {"left": "Dangling: Arriving late, the show had started", "right": "Arriving late, I saw the show had started"},
+                {"left": "Unclear: Students in class understand easily", "right": "Specify what they understand easily"},
+                {"left": "Misplaced: Wearing a hat, she looked stylish", "right": "Correct as written"},
+                {"left": "Problem: Modifying wrong noun", "right": "Place modifier next to correct noun"}
+              ],
+              "marks": 5,
+              "explanation": "Fixing modifier errors."
+            },
+            {
+              "question_id": 7,
+              "question": "Match tense problems to their corrections:",
+              "pairs": [
+                {"left": "Tense shift: 'He went and buys'", "right": "He went and bought (consistent past)"},
+                {"left": "Inconsistent: 'She walks and ran'", "right": "She walks and runs (consistent present)"},
+                {"left": "Wrong: 'I am seeing her yesterday'", "right": "I saw her yesterday (past tense)"},
+                {"left": "Error: 'They was arriving'", "right": "They were arriving (correct be form)"},
+                {"left": "Problem", "right": "Keep tense consistent throughout"}
+              ],
+              "marks": 5,
+              "explanation": "Tense consistency issues."
+            },
+            {
+              "question_id": 8,
+              "question": "Match pronouns to their correct uses:",
+              "pairs": [
+                {"left": "Subject pronoun: I, he, she", "right": "'I went to school'"},
+                {"left": "Object pronoun: me, him, her", "right": "'She gave me a book'"},
+                {"left": "Possessive: my, his, her", "right": "'That is my book'"},
+                {"left": "Relative pronoun: who", "right": "For people performing action"},
+                {"left": "Relative pronoun: whom", "right": "For people receiving action"}
+              ],
+              "marks": 5,
+              "explanation": "Correct pronoun usage in context."
+            },
+            {
+              "question_id": 9,
+              "question": "Match run-on corrections to methods:",
+              "pairs": [
+                {"left": "Run-on: 'I went home I was tired'", "right": "Add semicolon: 'I went home; I was tired'"},
+                {"left": "Run-on: 'I went home I was tired'", "right": "Add comma + and: 'I went home, and I was tired'"},
+                {"left": "Comma splice: 'I'm tired, I'll rest'", "right": "Add coordinator: 'I'm tired, so I'll rest'"},
+                {"left": "Run-on: 'She ran fast he caught her'", "right": "Add period or semicolon"},
+                {"left": "Method", "right": "Punctuation or coordinator fixes"}
+              ],
+              "marks": 5,
+              "explanation": "Fixing run-on sentence errors."
+            },
+            {
+              "question_id": 10,
+              "question": "Match common confusions to their meanings:",
+              "pairs": [
+                {"left": "To/Too/Two", "right": "Preposition, also, number 2"},
+                {"left": "Wear/Where", "right": "Clothing, location"},
+                {"left": "Accept/Except", "right": "Receive, exclude"},
+                {"left": "Principle/Principal", "right": "Rule, school leader"},
+                {"left": "Your/You're", "right": "Possessive, you are"}
+              ],
+              "marks": 5,
+              "explanation": "Frequently confused homonyms and homophones."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Identify and correct the error: 'Everyone should submit their homework on time.'",
+              "correct_answer": "Error: Pronoun mismatch (Everyone is singular, their is plural). Traditional correction: 'Everyone should submit his or her homework on time.' Modern acceptable: The sentence is increasingly accepted with 'their' as gender-neutral singular."
+              ,
+              "marks": 2,
+              "explanation": "Pronoun-antecedent agreement issues."
+            },
+            {
+              "question_id": 2,
+              "question": "Explain the difference between affect and effect with one sentence using each correctly.",
+              "correct_answer": "Affect (verb): 'The weather affects my mood.' Effect (noun): 'The weather has a positive effect on my mood.' Affect = to influence (verb). Effect = result (noun)."
+              ,
+              "marks": 2,
+              "explanation": "These homophones are frequently confused."
+            },
+            {
+              "question_id": 3,
+              "question": "Identify the error and correct: 'Running down the hill, the tree was tall.'",
+              "correct_answer": "Error: Dangling modifier. The phrase 'Running down the hill' has no clear subject. Correction: 'Running down the hill, I saw a tall tree.' OR 'As I ran down the hill, the tree was tall.'"
+              ,
+              "marks": 2,
+              "explanation": "Dangling modifiers lack clear subjects."
+            },
+            {
+              "question_id": 4,
+              "question": "Correct this sentence: 'I don't want no trouble.'",
+              "correct_answer": "Correction: 'I don't want any trouble.' Error: Double negative ('don't' + 'no'). In standard English, use one negative with a positive indefinite pronoun ('any'). 'Do not want no trouble' is nonstandard."
+              ,
+              "marks": 2,
+              "explanation": "Double negatives are grammatically incorrect."
+            },
+            {
+              "question_id": 5,
+              "question": "Fix the tense inconsistency: 'She walks to the store and buys milk.'",
+              "correct_answer": "Fix: 'She walks to the store and buys milk.' (Correct - both present tense) OR 'She walked to the store and bought milk.' (past tense) The original is actually correct if intended as habitual action. Error would be: 'She walks and bought milk' (mixed tenses)."
+              ,
+              "marks": 2,
+              "explanation": "Maintain consistent tenses."
+            },
+            {
+              "question_id": 6,
+              "question": "Distinguish between: their, there, and they're. Use each in a sentence.",
+              "correct_answer": "Their (possessive): 'That is their house.' There (location): 'Put the book over there.' They're (contraction): 'They're studying for the exam.'"
+              ,
+              "marks": 2,
+              "explanation": "Homophones requiring careful distinction."
+            },
+            {
+              "question_id": 7,
+              "question": "Identify the error in this sentence and explain why it's wrong: 'The team are playing well.'",
+              "correct_answer": "Error: Subject-verb disagreement in American English. 'Team' is a collective noun treated as singular in American English. Correction: 'The team is playing well.' (In British English, 'are' is acceptable when emphasizing individual members.)"
+              ,
+              "marks": 2,
+              "explanation": "Collective nouns take singular verbs in American English."
+            },
+            {
+              "question_id": 8,
+              "question": "Correct the comma splice: 'I went to the store, I bought milk.'",
+              "correct_answer": "Correction 1: 'I went to the store, and I bought milk.' (add coordinator) OR Correction 2: 'I went to the store; I bought milk.' (use semicolon) OR Correction 3: 'I went to the store. I bought milk.' (separate sentences)"
+              ,
+              "marks": 2,
+              "explanation": "Multiple ways to correct comma splices."
+            },
+            {
+              "question_id": 9,
+              "question": "Explain the correct use of apostrophes and provide examples.",
+              "correct_answer": "Apostrophes show: 1) Possession: 'cat's toy,' 'dogs' park' 2) Contractions: 'it's' (it is), 'don't' (do not). Do NOT use apostrophes in regular plurals: 'cats' (not 'cat's'), 'books' (not 'book's'). Exception: Plural possessive uses apostrophe: 'boys' books.'"
+              ,
+              "marks": 2,
+              "explanation": "Apostrophes have specific uses; don't use in simple plurals."
+            },
+            {
+              "question_id": 10,
+              "question": "Identify three common grammar mistakes and briefly explain how to avoid each.",
+              "correct_answer": "1) Subject-verb disagreement: Match verb to subject number. 2) Tense inconsistency: Maintain same tense throughout. 3) Misplaced modifiers: Place descriptive words near what they modify. 4) Run-on sentences: Use periods, semicolons, or coordinators between independent clauses. 5) Double negatives: Use one negative form, not two."
+              ,
+              "marks": 2,
+              "explanation": "Summarize key grammar rules for avoidance."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

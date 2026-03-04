@@ -1,0 +1,98 @@
+.lessonview-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* Answer Box */
+.answer-box {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 20px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+.answer-title {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #1f2937;
+}
+
+/* Improved Textarea */
+.answer-input {
+  width: 100%;
+  height: 180px;
+  padding: 1rem;
+  border: 2px solid #d1d5db;
+  border-radius: 14px;
+  font-size: 1.1rem;
+  resize: none;
+  background: #fafafa;
+  transition: 0.25s ease;
+}
+
+.answer-input:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 6px rgba(37, 99, 235, 0.3);
+  outline: none;
+}
+
+/* Attractive Button */
+.answer-submit {
+  margin-top: 1.2rem;
+  padding: 0.9rem 2rem;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 14px;
+  font-size: 1.15rem;
+  cursor: pointer;
+  transition: 0.25s ease;
+  width: 100%;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
+}
+
+.answer-submit:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+.answer-submit:active {
+  transform: scale(0.97);
+}
+
+.answer-submit:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Previous submissions */
+.feedback-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.loading-text {
+  text-align: center;
+  color: #6b7280;
+}
+
+.no-submissions {
+  text-align: center;
+  padding: 3rem;
+  background: #f9fafb;
+  border-radius: 20px;
+  color: #6b7280;
+  font-size: 1.1rem;
+}
+
+.feedback-item {
+  transition: 0.2s ease;
+}
+
+.feedback-item:hover {
+  transform: scale(1.01);
+}

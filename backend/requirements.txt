@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httpx
+pymongo
+python-dotenv
+pandas
+scikit-learn
+sentence-transformers
+faiss-cpu
+python-docx
+pymupdf
+transformers
+torch
+

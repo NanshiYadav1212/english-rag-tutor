@@ -1,0 +1,3964 @@
+{
+  "quizzes": [
+    {
+      "lesson_slug": "basics-of-english-grammar",
+      "lesson_title": "Basics of English Grammar",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which of the following is a complete sentence?",
+              "options": [
+                "Running quickly",
+                "The cat sat",
+                "Very beautiful day",
+                "Without thinking"
+              ],
+              "correct_answer": "The cat sat",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "What is the subject in the sentence 'She runs to school'?",
+              "options": [
+                "runs",
+                "to school",
+                "She",
+                "school"
+              ],
+              "correct_answer": "She",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Which word is a verb?",
+              "options": [
+                "beautiful",
+                "quickly",
+                "run",
+                "table"
+              ],
+              "correct_answer": "run",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "In 'The blue car is fast,' what is the verb?",
+              "options": [
+                "blue",
+                "car",
+                "is",
+                "fast"
+              ],
+              "correct_answer": "is",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Which is the correct word order for English?",
+              "options": [
+                "Verb-Subject-Object",
+                "Subject-Verb-Object",
+                "Object-Verb-Subject",
+                "Subject-Object-Verb"
+              ],
+              "correct_answer": "Subject-Verb-Object",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What punctuation mark ends a question?",
+              "options": [
+                "Period (.)",
+                "Comma (,)",
+                "Question mark (?)",
+                "Colon (:)"
+              ],
+              "correct_answer": "Question mark (?)",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "In 'They eat apples', what is the object?",
+              "options": [
+                "They",
+                "eat",
+                "apples",
+                "They eat"
+              ],
+              "correct_answer": "apples",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Which sentence demonstrates subject-verb agreement?",
+              "options": [
+                "He go to school",
+                "She don't like it",
+                "They runs fast",
+                "It plays music"
+              ],
+              "correct_answer": "It plays music",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What is a clause?",
+              "options": [
+                "A group of words with no verb",
+                "A group of words with subject and verb",
+                "A single word",
+                "A punctuation mark"
+              ],
+              "correct_answer": "A group of words with subject and verb",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Which is an independent clause?",
+              "options": [
+                "Because it was raining",
+                "Although she was tired",
+                "The sun is shining",
+                "After they left"
+              ],
+              "correct_answer": "The sun is shining",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Every complete sentence needs a subject and a verb.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Adjectives describe verbs.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "A phrase always contains a verb.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Punctuation changes the meaning of sentences.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "English follows a Subject-Verb-Object word order.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "A subject always comes after the verb.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Objects receive the action of the verb.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Modifiers should be placed close to what they describe.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "A compound sentence has one independent clause.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Grammar ensures clear communication.",
+              "correct_answer": true,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Every sentence needs a _____ and a verb.",
+              "correct_answer": "subject",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "The _____ is what the subject does.",
+              "correct_answer": "verb",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "In 'She is happy,' 'is' is the _____.",
+              "correct_answer": "verb",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "A _____ phrase shows location or time.",
+              "correct_answer": "prepositional",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "The _____ receives the action of the verb.",
+              "correct_answer": "object",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "An _____ describes a noun.",
+              "correct_answer": "adjective",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "A _____ modifies a verb or adjective.",
+              "correct_answer": "adverb",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Subject-verb _____ means they match in number.",
+              "correct_answer": "agreement",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "A _____ is a group of related words.",
+              "correct_answer": "clause",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "_____ clarifies meaning in sentences.",
+              "correct_answer": "Punctuation",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "She go to the store yesterday.",
+              "correct_answer": "She went to the store yesterday.",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "He don't like pizza.",
+              "correct_answer": "He doesn't like pizza.",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "They is playing football.",
+              "correct_answer": "They are playing football.",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "The book are on the table.",
+              "correct_answer": "The book is on the table.",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "I seen the movie last week.",
+              "correct_answer": "I saw the movie last week.",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "She have a new car.",
+              "correct_answer": "She has a new car.",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Running quickly the park was fun.",
+              "correct_answer": "Running quickly through the park was fun.",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "We goes to school every day.",
+              "correct_answer": "We go to school every day.",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "The students studies hard.",
+              "correct_answer": "The students study hard.",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "He walk to school.",
+              "correct_answer": "He walks to school.",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is a subject in a sentence?",
+              "correct_answer": "A subject is who or what the sentence is about",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Why is word order important in English?",
+              "correct_answer": "Word order determines meaning and affects who does what to whom",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What is the difference between a phrase and a clause?",
+              "correct_answer": "A clause has a subject and verb, a phrase does not",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Give an example of a prepositional phrase.",
+              "correct_answer": "in the house, on the table, under the bed (any valid example)",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "What does agreement mean in grammar?",
+              "correct_answer": "Agreement means verbs and subjects match in number",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What is the main purpose of punctuation?",
+              "correct_answer": "To clarify meaning and show where sentences begin and end",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "What is an object in a sentence?",
+              "correct_answer": "An object receives the action of the verb",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Define a modifier.",
+              "correct_answer": "A word or phrase that describes or limits another word",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What is an independent clause?",
+              "correct_answer": "A clause that expresses a complete thought and can stand alone",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Why is correct grammar important?",
+              "correct_answer": "It ensures clear communication and shows professionalism",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "parts-of-speech",
+      "lesson_title": "Parts of Speech",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "How many parts of speech are there in English?",
+              "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+              ],
+              "correct_answer": "9",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Which part of speech names people, places, or things?",
+              "options": [
+                "Verb",
+                "Noun",
+                "Adjective",
+                "Adverb"
+              ],
+              "correct_answer": "Noun",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What does a pronoun do?",
+              "options": [
+                "Describes nouns",
+                "Replaces nouns",
+                "Modifies verbs",
+                "Connects words"
+              ],
+              "correct_answer": "Replaces nouns",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "In 'She runs quickly', what is 'quickly'?",
+              "options": [
+                "Adjective",
+                "Adverb",
+                "Preposition",
+                "Conjunction"
+              ],
+              "correct_answer": "Adverb",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Which is a preposition?",
+              "options": [
+                "and",
+                "beautiful",
+                "over",
+                "quickly"
+              ],
+              "correct_answer": "over",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What does a conjunction do?",
+              "options": [
+                "Describes",
+                "Connects",
+                "Modifies",
+                "Replaces"
+              ],
+              "correct_answer": "Connects",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Which word is an interjection?",
+              "options": [
+                "run",
+                "happy",
+                "wow",
+                "between"
+              ],
+              "correct_answer": "wow",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "In 'The beautiful flower', what is 'beautiful'?",
+              "options": [
+                "Noun",
+                "Verb",
+                "Adjective",
+                "Adverb"
+              ],
+              "correct_answer": "Adjective",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What is the definite article?",
+              "options": [
+                "a",
+                "an",
+                "the",
+                "one"
+              ],
+              "correct_answer": "the",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Which word is a linking verb?",
+              "options": [
+                "run",
+                "jump",
+                "is",
+                "quickly"
+              ],
+              "correct_answer": "is",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Pronouns replace nouns to avoid repetition.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Adjectives modify verbs.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Adverbs often end in -ly.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Prepositions show relationships between words.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "There are only 5 parts of speech.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Conjunctions connect words or phrases.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Interjections are essential to every sentence.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Articles modify nouns.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "All verbs show action.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "'Very' is an adverb.",
+              "correct_answer": true,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A _____ names a person, place, or thing.",
+              "correct_answer": "noun",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "A _____ replaces a noun.",
+              "correct_answer": "pronoun",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "A _____ shows action or state of being.",
+              "correct_answer": "verb",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "An _____ describes a noun.",
+              "correct_answer": "adjective",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "An _____ modifies a verb or adjective.",
+              "correct_answer": "adverb",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "A _____ shows position or time.",
+              "correct_answer": "preposition",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "A _____ connects words or phrases.",
+              "correct_answer": "conjunction",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "An _____ expresses emotion.",
+              "correct_answer": "interjection",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "The _____ 'the' is a definite article.",
+              "correct_answer": "definite",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "_____ modify nouns or pronouns.",
+              "correct_answer": "Adjectives",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "He are a teacher.",
+              "correct_answer": "He is a teacher.",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "She don't like swimming.",
+              "correct_answer": "She doesn't like swimming.",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "The girls is happy.",
+              "correct_answer": "The girls are happy.",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "I walks to school every day.",
+              "correct_answer": "I walk to school every day.",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "They has finished their homework.",
+              "correct_answer": "They have finished their homework.",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "It run very fast.",
+              "correct_answer": "It runs very fast.",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "We is going to the park.",
+              "correct_answer": "We are going to the park.",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "You doesn't know the answer.",
+              "correct_answer": "You don't know the answer.",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "She have a beautiful house.",
+              "correct_answer": "She has a beautiful house.",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "They goes to school.",
+              "correct_answer": "They go to school.",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is a noun?",
+              "correct_answer": "A word that names a person, place, thing, or idea",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Give three examples of pronouns.",
+              "correct_answer": "he, she, it, they, we, I, you (any three valid examples)",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What is the difference between adjectives and adverbs?",
+              "correct_answer": "Adjectives describe nouns, adverbs describe verbs or adjectives",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "What is a linking verb?",
+              "correct_answer": "A verb that connects subject to description (like 'is', 'am', 'are')",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Give an example of a preposition.",
+              "correct_answer": "in, on, under, between, at, to, from, by (any valid example)",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What does a conjunction do?",
+              "correct_answer": "Connects words, phrases, or clauses",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Name three interjections.",
+              "correct_answer": "oh, wow, hey, ouch, great (any three valid examples)",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "What is an adjective?",
+              "correct_answer": "A word that describes or modifies a noun or pronoun",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What is an adverb?",
+              "correct_answer": "A word that modifies a verb, adjective, or another adverb",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "What are articles?",
+              "correct_answer": "Words that modify nouns (a, an, the)",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "tenses",
+      "lesson_title": "Tenses",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which sentence is in simple present tense?",
+              "options": [
+                "I ate rice",
+                "I eat rice",
+                "I am eating rice",
+                "I have eaten rice"
+              ],
+              "correct_answer": "I eat rice",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Which sentence is in past simple tense?",
+              "options": [
+                "I eat",
+                "I am eating",
+                "I ate",
+                "I will eat"
+              ],
+              "correct_answer": "I ate",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Which is future simple tense?",
+              "options": [
+                "She runs fast",
+                "She ran fast",
+                "She is running",
+                "She will run"
+              ],
+              "correct_answer": "She will run",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "What is the present continuous form of 'write'?",
+              "options": [
+                "I write",
+                "I am writing",
+                "I wrote",
+                "I will write"
+              ],
+              "correct_answer": "I am writing",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Which uses the present perfect tense?",
+              "options": [
+                "I go",
+                "I went",
+                "I have gone",
+                "I am going"
+              ],
+              "correct_answer": "I have gone",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What tense is used for repeated actions?",
+              "options": [
+                "Past perfect",
+                "Simple present",
+                "Future continuous",
+                "Present perfect"
+              ],
+              "correct_answer": "Simple present",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Which sentence shows past continuous?",
+              "options": [
+                "I was working",
+                "I work",
+                "I worked",
+                "I am working"
+              ],
+              "correct_answer": "I was working",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "What tense expresses an action that will happen?",
+              "options": [
+                "Past simple",
+                "Present perfect",
+                "Future simple",
+                "Past perfect"
+              ],
+              "correct_answer": "Future simple",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Which is the present perfect continuous form?",
+              "options": [
+                "I write",
+                "I have been writing",
+                "I was writing",
+                "I will write"
+              ],
+              "correct_answer": "I have been writing",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "What tense shows two past actions with one before the other?",
+              "options": [
+                "Past simple",
+                "Past continuous",
+                "Past perfect",
+                "Present perfect"
+              ],
+              "correct_answer": "Past perfect",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Simple past uses regular -ed endings.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Present continuous uses 'will be' + verb.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Present perfect shows actions from past to present.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Future simple is formed with 'will' + base form.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Past continuous is formed with 'was/were' + -ing.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "All verbs in past simple end in -ed.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Present continuous is for actions happening now.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "There are 12 tenses in English.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Future perfect is formed with 'will have' + past participle.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Simple present uses 'is' as the main verb.",
+              "correct_answer": false,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "I _____ to school every day. (present)",
+              "correct_answer": "go",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "She _____ a movie last night. (past)",
+              "correct_answer": "watched",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "They _____ arrive tomorrow. (future)",
+              "correct_answer": "will",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "He _____ working on the project. (present continuous)",
+              "correct_answer": "is",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "I _____ finished my homework. (present perfect)",
+              "correct_answer": "have",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "They _____ playing when it started raining. (past continuous)",
+              "correct_answer": "were",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "By 2025, she _____ lived here for 10 years. (future perfect)",
+              "correct_answer": "will have",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "He _____ gone before we arrived. (past perfect)",
+              "correct_answer": "had",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Simple past is used for _____ actions.",
+              "correct_answer": "completed",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Present continuous uses verb + _____.",
+              "correct_answer": "ing",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "I am go to school.",
+              "correct_answer": "I am going to school.",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "She will goes tomorrow.",
+              "correct_answer": "She will go tomorrow.",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "They has finished their work.",
+              "correct_answer": "They have finished their work.",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "He was working when I arrive.",
+              "correct_answer": "He was working when I arrived.",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "She have been studying all day.",
+              "correct_answer": "She has been studying all day.",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "By next month, I will finished the project.",
+              "correct_answer": "By next month, I will have finished the project.",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "We are going now.",
+              "correct_answer": "We are going now.",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "She did goes to the store yesterday.",
+              "correct_answer": "She went to the store yesterday.",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "I has lived here for 5 years.",
+              "correct_answer": "I have lived here for 5 years.",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "They was playing football.",
+              "correct_answer": "They were playing football.",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "When is simple past tense used?",
+              "correct_answer": "For completed actions in the past",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "How is present continuous formed?",
+              "correct_answer": "be + verb with -ing",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What does present perfect connect?",
+              "correct_answer": "The past to the present",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "How is future simple formed?",
+              "correct_answer": "will + base verb",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Explain past continuous tense.",
+              "correct_answer": "An action that was ongoing at a specific moment in the past (was/were + -ing)",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What is the difference between past simple and past perfect?",
+              "correct_answer": "Past perfect shows an action completed before another past action",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Give an example of present perfect.",
+              "correct_answer": "I have finished my work / She has lived here for years",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "How many basic tenses are there?",
+              "correct_answer": "12 tenses (3 time periods \u00d7 4 aspects)",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "When do we use present simple?",
+              "correct_answer": "For habits, facts, and general truths",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "What does future perfect express?",
+              "correct_answer": "An action that will be completed by a specific time in the future",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "subject-verb-agreement",
+      "lesson_title": "Subject\u2013Verb Agreement",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which sentence has correct subject-verb agreement?",
+              "options": [
+                "He go",
+                "She don't",
+                "It plays",
+                "They runs"
+              ],
+              "correct_answer": "It plays",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Choose the correct form:",
+              "options": [
+                "The team are",
+                "The team is",
+                "The teams is",
+                "Teams are"
+              ],
+              "correct_answer": "The team is",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Which is correct?",
+              "options": [
+                "Everyone have",
+                "Everyone has",
+                "Everyones have",
+                "All have"
+              ],
+              "correct_answer": "Everyone has",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Pick the right verb:",
+              "options": [
+                "Neither student know",
+                "Neither students knows",
+                "Neither student knows",
+                "Both students knows"
+              ],
+              "correct_answer": "Neither student knows",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Choose correctly:",
+              "options": [
+                "Either cats or dog are",
+                "Either cats or dog is",
+                "Either cat or dogs are",
+                "Both cats and dog is"
+              ],
+              "correct_answer": "Either cats or dog is",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Select the correct option:",
+              "options": [
+                "The group are",
+                "The group is",
+                "Groups is",
+                "A group are"
+              ],
+              "correct_answer": "The group is",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Which matches?",
+              "options": [
+                "Subjects linked by 'and' takes singular",
+                "Subjects linked by 'or' takes plural",
+                "Plural subjects take singular verbs",
+                "Singular subjects take plural verbs"
+              ],
+              "correct_answer": "Subjects linked by 'and' takes singular",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Correct:",
+              "options": [
+                "Words between subject and verb affects agreement",
+                "Words between don't affect agreement",
+                "Adjectives determine agreement",
+                "Nouns always agree"
+              ],
+              "correct_answer": "Words between don't affect agreement",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Choose:",
+              "options": [
+                "Many students is studying",
+                "Many students are studying",
+                "Many student are studying",
+                "Many student is studying"
+              ],
+              "correct_answer": "Many students are studying",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Select:",
+              "options": [
+                "The dog and cat is",
+                "The dog and cat are",
+                "Dogs and cat are",
+                "Dog and cats is"
+              ],
+              "correct_answer": "The dog and cat are",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Singular subjects take singular verbs",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Plural subjects take singular verbs",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "'Everyone' is singular and takes a singular verb",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Compound subjects with 'and' take plural verbs",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Subjects linked by 'or' take a verb matching the nearest subject",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Words between subject and verb don't affect agreement",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Collective nouns always take singular verbs",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Subject-verb agreement is not important",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "In 'The group are preparing', 'group' is treated as plural",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Indefinite pronouns like 'someone' are plural",
+              "correct_answer": false,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Singular subjects take _____ verbs",
+              "correct_answer": "singular",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Plural subjects take _____ verbs",
+              "correct_answer": "plural",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "The verb must match the subject in _____ and person",
+              "correct_answer": "number",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "'Either...or' takes a verb matching the _____ subject",
+              "correct_answer": "nearest",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "'Both...and' usually takes _____ verbs",
+              "correct_answer": "plural",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Words _____ the subject and verb don't affect agreement",
+              "correct_answer": "between",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Collective nouns can be _____ or plural depending on context",
+              "correct_answer": "singular",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Everyone _____ their own opinion",
+              "correct_answer": "has",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "The team _____ playing their best",
+              "correct_answer": "is",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Subject-verb _____ is a fundamental grammar rule",
+              "correct_answer": "agreement",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "He go to school",
+              "correct_answer": "He goes to school",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "The girls is happy",
+              "correct_answer": "The girls are happy",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Either the cat or dogs is happy",
+              "correct_answer": "Either the cat or dogs are happy",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "The committee have decided",
+              "correct_answer": "The committee has decided",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Everyone have arrived",
+              "correct_answer": "Everyone has arrived",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Neither student know the answer",
+              "correct_answer": "Neither student knows the answer",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "The group are leaving",
+              "correct_answer": "The group is leaving",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "You doesn't understand",
+              "correct_answer": "You don't understand",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "She don't like it",
+              "correct_answer": "She doesn't like it",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Both cats and dogs runs fast",
+              "correct_answer": "Both cats and dogs run fast",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is subject-verb agreement?",
+              "correct_answer": "The verb must match the subject in number (singular or plural)",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Give an example of correct agreement",
+              "correct_answer": "She walks to school / They walk to school",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "How do subjects linked by 'and' work?",
+              "correct_answer": "They typically take a plural verb",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "What rule applies to 'either...or'?",
+              "correct_answer": "The verb agrees with the nearest subject",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Are collective nouns always singular?",
+              "correct_answer": "No, they can be singular or plural depending on meaning",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What happens with indefinite pronouns?",
+              "correct_answer": "They are typically singular (everyone, someone, anybody)",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Does a phrase between subject and verb affect agreement?",
+              "correct_answer": "No, the verb agrees with the actual subject, not words between",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Give an example with 'neither...nor'",
+              "correct_answer": "Neither Tom nor his friends are coming",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "How do you check for subject-verb agreement?",
+              "correct_answer": "Identify the subject, check if it's singular or plural, match the verb",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Why is subject-verb agreement important?",
+              "correct_answer": "It ensures grammatical correctness and clear communication",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "active-passive-voice",
+      "lesson_title": "Active & Passive Voice",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which sentence is in active voice?",
+              "options": [
+                "The cake was baked",
+                "The cake baked",
+                "She baked the cake",
+                "Baking a cake"
+              ],
+              "correct_answer": "She baked the cake",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Change to passive: 'The teacher writes the exam'",
+              "options": [
+                "The exam is written",
+                "The exam is wrote",
+                "The exam was written",
+                "Writing the exam"
+              ],
+              "correct_answer": "The exam is written",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Which is passive?",
+              "options": [
+                "She runs fast",
+                "He threw the ball",
+                "The ball was thrown",
+                "They are working"
+              ],
+              "correct_answer": "The ball was thrown",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "What is the structure of passive?",
+              "options": [
+                "Subject + Verb + Object",
+                "Subject + be + past participle",
+                "be + Object + Verb",
+                "Verb + be + Subject"
+              ],
+              "correct_answer": "Subject + be + past participle",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "When do we use passive voice?",
+              "options": [
+                "Always",
+                "When action is more important than the doer",
+                "Never",
+                "Only in questions"
+              ],
+              "correct_answer": "When action is more important than the doer",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Which passive is correct?",
+              "options": [
+                "The letter was writing",
+                "The letter was written",
+                "The letter be written",
+                "Writing the letter"
+              ],
+              "correct_answer": "The letter was written",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Convert to passive: 'Someone stole my bike'",
+              "options": [
+                "My bike was stolen",
+                "Stolen was my bike",
+                "My bike is stealing",
+                "Stealing my bike"
+              ],
+              "correct_answer": "My bike was stolen",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Which shows passive perfect?",
+              "options": [
+                "He has been working",
+                "He has written",
+                "The book has been read",
+                "Reading the book"
+              ],
+              "correct_answer": "The book has been read",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "When is agent ('by') usually omitted?",
+              "options": [
+                "Always",
+                "When agent is unknown or unimportant",
+                "Never",
+                "In questions only"
+              ],
+              "correct_answer": "When agent is unknown or unimportant",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Which sentence emphasizes the action?",
+              "options": [
+                "The chef prepared the meal",
+                "The meal was prepared",
+                "Preparing the meal",
+                "The meal prepared"
+              ],
+              "correct_answer": "The meal was prepared",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Active voice emphasizes the subject",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Passive voice emphasizes the action",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "All passive sentences must include 'by'",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Passive voice is formed with be + past participle",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Passive voice is always less clear than active",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "The passive of 'writes' is 'is written'",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Passive voice is commonly used in scientific writing",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Active voice is always better than passive",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "In passive voice, the subject performs the action",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "You can recognize passive by the word 'by'",
+              "correct_answer": true,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Passive voice is formed with _____ + past participle",
+              "correct_answer": "be",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "In 'The cake was baked by Maria', the agent is _____",
+              "correct_answer": "Maria",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "The passive of 'eats' is 'is _____'",
+              "correct_answer": "eaten",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "The passive of 'has made' is 'has been _____'",
+              "correct_answer": "made",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "_____ voice emphasizes who performs the action",
+              "correct_answer": "Active",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "The agent in passive sentences is introduced by _____",
+              "correct_answer": "by",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Passive is commonly used in _____ and academic writing",
+              "correct_answer": "scientific",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "In 'My wallet was stolen', the agent is _____",
+              "correct_answer": "unknown",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "The _____ performs the action in active voice",
+              "correct_answer": "subject",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Active: 'She wrote the book.' Passive: 'The book was _____ by her.'",
+              "correct_answer": "written",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "The book is wrote by the author",
+              "correct_answer": "The book is written by the author",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "The dinner was prepare by the chef",
+              "correct_answer": "The dinner was prepared by the chef",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "The exam will took by students",
+              "correct_answer": "The exam will be taken by students",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "The project was completing last week",
+              "correct_answer": "The project was completed last week",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "These shoes are made in Germany",
+              "correct_answer": "These shoes are made in Germany",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "The letter has wrote by him",
+              "correct_answer": "The letter has been written by him",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "The windows are cleaning now",
+              "correct_answer": "The windows are being cleaned now",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "The problem was solving by the team",
+              "correct_answer": "The problem was solved by the team",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "The work is do by them",
+              "correct_answer": "The work is done by them",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "The movie is seeing by many people",
+              "correct_answer": "The movie is being seen by many people",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is active voice?",
+              "correct_answer": "When the subject performs the action",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "What is passive voice?",
+              "correct_answer": "When the subject receives the action",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "When should you use passive voice?",
+              "correct_answer": "When the action or object is more important than the doer",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "How is passive formed?",
+              "correct_answer": "with be + past participle",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Give an example of passive voice",
+              "correct_answer": "The cake was baked by Maria",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What is the agent in passive voice?",
+              "correct_answer": "The person or thing that performs the action (after 'by')",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Why is passive common in scientific writing?",
+              "correct_answer": "Because the focus is on what happened, not who did it",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Can you always convert active to passive?",
+              "correct_answer": "Not always - you need a direct object in active voice",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What tense is 'The report is being written'?",
+              "correct_answer": "Present continuous passive",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Is passive voice always bad?",
+              "correct_answer": "No, it's appropriate in many contexts",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "direct-indirect-speech",
+      "lesson_title": "Direct & Indirect Speech",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which is direct speech?",
+              "options": [
+                "He said he was tired",
+                "He said, 'I am tired'",
+                "'I am tired,' he said",
+                "Both B and C"
+              ],
+              "correct_answer": "Both B and C",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Convert: Direct: 'I am happy.' Indirect:",
+              "options": [
+                "He said I was happy",
+                "He said he is happy",
+                "He said he was happy",
+                "He said I am happy"
+              ],
+              "correct_answer": "He said he was happy",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What changes in indirect speech?",
+              "options": [
+                "Tense",
+                "Pronouns",
+                "Time references",
+                "All of the above"
+              ],
+              "correct_answer": "All of the above",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Indirect: He asked if I was coming. Direct:",
+              "options": [
+                "'Will you come?' he asked",
+                "'Are you coming?' he asked",
+                "'Do you come?' he asked",
+                "'Will I come?' he asked"
+              ],
+              "correct_answer": "'Are you coming?' he asked",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Present simple becomes _____ in indirect speech",
+              "options": [
+                "Past simple",
+                "Present continuous",
+                "Past perfect",
+                "Future simple"
+              ],
+              "correct_answer": "Past simple",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Which uses reported speech correctly?",
+              "options": [
+                "She said that she go",
+                "She said that she goes",
+                "She said that she went",
+                "She said that she will go"
+              ],
+              "correct_answer": "She said that she went",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Indirect: He told me that he had finished. Direct:",
+              "options": [
+                "'I have finished', he told me",
+                "'I finished', he told me",
+                "'I had finished', he told me",
+                "'I will finish', he told me"
+              ],
+              "correct_answer": "'I have finished', he told me",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Time reference: Direct 'today' becomes indirect _____",
+              "options": [
+                "yesterday",
+                "that day",
+                "tomorrow",
+                "the next day"
+              ],
+              "correct_answer": "that day",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "For commands, indirect speech uses _____",
+              "options": [
+                "told + to + infinitive",
+                "said to + infinitive",
+                "Both A and B",
+                "Neither A nor B"
+              ],
+              "correct_answer": "Both A and B",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Which is correct indirect speech?",
+              "options": [
+                "She asked where did I go",
+                "She asked where I go",
+                "She asked where I went",
+                "She asked where I will go"
+              ],
+              "correct_answer": "She asked where I went",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Direct speech uses quotation marks",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Indirect speech changes the tense",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Pronouns change in reported speech",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Time references stay the same in indirect speech",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Reported yes/no questions use 'if' or 'whether'",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "WH-questions keep their question words in indirect speech",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Indirect speech is always shorter than direct speech",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "In reported speech, 'will' becomes 'would'",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "You must use quotation marks in indirect speech",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Questions become statements in indirect speech",
+              "correct_answer": true,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Direct: 'I am happy.' Indirect: He said that he _____ happy",
+              "correct_answer": "was",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Direct: 'I will go.' Indirect: He said he _____ go",
+              "correct_answer": "would",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Direct: 'Did you see it?' Indirect: She asked _____ I had seen it",
+              "correct_answer": "if",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "'That' is often added after the _____ verb in indirect speech",
+              "correct_answer": "reporting",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Direct: 'Where are you?' Indirect: She asked _____ I was",
+              "correct_answer": "where",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "For commands: 'Sit down!' becomes He told me _____",
+              "correct_answer": "to sit down",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Direct: 'I had eaten.' Indirect: He said he _____ eaten",
+              "correct_answer": "had",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Pronouns like 'I' change to _____ in indirect speech",
+              "correct_answer": "he/she/they",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "'Yesterday' becomes _____ in indirect speech",
+              "correct_answer": "the day before",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Direct: 'I am reading.' Indirect: He said he _____ reading",
+              "correct_answer": "was",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "He said that he is tired",
+              "correct_answer": "He said that he was tired",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "She asked where did I go",
+              "correct_answer": "She asked where I went",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "They told me they will come",
+              "correct_answer": "They told me they would come",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "He said 'I go to school' to me",
+              "correct_answer": "He told me that he went to school",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "She asked do I like tea",
+              "correct_answer": "She asked if I liked tea",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "He said that he have finished",
+              "correct_answer": "He said that he had finished",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "They asked what is your name",
+              "correct_answer": "They asked what my name was",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "She told me to goes home",
+              "correct_answer": "She told me to go home",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "He said I am late",
+              "correct_answer": "He said I was late",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "She asked did you see it",
+              "correct_answer": "She asked if I had seen it",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is direct speech?",
+              "correct_answer": "The exact words someone said, enclosed in quotation marks",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "What is indirect/reported speech?",
+              "correct_answer": "Reporting what someone said without using their exact words",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What changes when converting to indirect speech?",
+              "correct_answer": "Tense, pronouns, time references, and sometimes punctuation",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "How do questions change in indirect speech?",
+              "correct_answer": "Yes/no questions use 'if' or 'whether', WH-questions keep question words",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "How do commands change?",
+              "correct_answer": "They become 'told/asked + to + infinitive'",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "How do time references change?",
+              "correct_answer": "today\u2192that day, yesterday\u2192the day before, tomorrow\u2192the next day",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Give an example of direct speech",
+              "correct_answer": "'I am happy,' she said",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Convert that to indirect speech",
+              "correct_answer": "She said that she was happy",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What verb introduces reported speech?",
+              "correct_answer": "said, told, asked, and similar reporting verbs",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Does indirect speech always use 'that'?",
+              "correct_answer": "Not always, but it's often used after the reporting verb",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "sentence-structure",
+      "lesson_title": "Sentence Structure",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "How many types of sentences are there based on structure?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct_answer": "4",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "What is a simple sentence?",
+              "options": [
+                "Short sentence",
+                "One independent clause",
+                "Multiple clauses",
+                "No verbs"
+              ],
+              "correct_answer": "One independent clause",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Which is a compound sentence?",
+              "options": [
+                "The cat and dog ran",
+                "The cat ran, and the dog jumped",
+                "When the cat ran",
+                "The running cat"
+              ],
+              "correct_answer": "The cat ran, and the dog jumped",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "What joins independent clauses in a compound sentence?",
+              "options": [
+                "Because",
+                "Although",
+                "Coordinating conjunction",
+                "Subordinating clause"
+              ],
+              "correct_answer": "Coordinating conjunction",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "What is a complex sentence?",
+              "options": [
+                "A long sentence",
+                "One independent + one dependent clause",
+                "Multiple clauses",
+                "Complicated words"
+              ],
+              "correct_answer": "One independent + one dependent clause",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Which is a dependent clause marker?",
+              "options": [
+                "and",
+                "but",
+                "because",
+                "or"
+              ],
+              "correct_answer": "because",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "What type is: 'Although it was raining, we went outside.'?",
+              "options": [
+                "Simple",
+                "Compound",
+                "Complex",
+                "Complex-compound"
+              ],
+              "correct_answer": "Complex",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "A complex-compound sentence has:",
+              "options": [
+                "1 independent clause",
+                "2 independent clauses",
+                "2+ independent + 1+ dependent",
+                "Only dependent clauses"
+              ],
+              "correct_answer": "2+ independent + 1+ dependent",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Which connects independent clauses?",
+              "options": [
+                "Subordinating conjunction",
+                "Coordinating conjunction",
+                "Preposition",
+                "Article"
+              ],
+              "correct_answer": "Coordinating conjunction",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "What is a dependent clause?",
+              "options": [
+                "A complete thought",
+                "Cannot stand alone",
+                "Has only nouns",
+                "Needs no verb"
+              ],
+              "correct_answer": "Cannot stand alone",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A simple sentence has only one verb.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "A compound sentence joins two independent clauses.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "A dependent clause expresses a complete thought.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Coordinating conjunctions connect equal elements.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Subordinating conjunctions show relationships between clauses.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "A complex sentence has at least one dependent clause.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "All sentences must be complex.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "A semicolon can join independent clauses.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Dependent clauses always come first in sentences.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Sentence variety improves writing.",
+              "correct_answer": true,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A _____ sentence has one independent clause.",
+              "correct_answer": "simple",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "A _____ sentence joins two independent clauses.",
+              "correct_answer": "compound",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "A _____ sentence has one independent and one dependent clause.",
+              "correct_answer": "complex",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "_____ conjunctions connect independent clauses.",
+              "correct_answer": "Coordinating",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "_____ conjunctions introduce dependent clauses.",
+              "correct_answer": "Subordinating",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "A _____ clause cannot stand alone.",
+              "correct_answer": "dependent",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "An _____ clause expresses a complete thought.",
+              "correct_answer": "independent",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "A _____ joins independent clauses without a conjunction.",
+              "correct_answer": "semicolon",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Sentence _____ improves writing quality.",
+              "correct_answer": "variety",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Both _____ and subordinating conjunctions are important.",
+              "correct_answer": "coordinating",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "The cat ran and the dog jumps.",
+              "correct_answer": "The cat ran and the dog jumped.",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "She loves reading. But she don't write.",
+              "correct_answer": "She loves reading, but she doesn't write.",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "He studied hard because he want to pass.",
+              "correct_answer": "He studied hard because he wanted to pass.",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "When she arrives we will begin.",
+              "correct_answer": "When she arrives, we will begin.",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "The book is interesting and it is long.",
+              "correct_answer": "The book is interesting and long.",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Although it rained the game continued.",
+              "correct_answer": "Although it rained, the game continued.",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "She plays piano and violin she sings too.",
+              "correct_answer": "She plays piano and violin, and she sings too.",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "After he left. I went to bed.",
+              "correct_answer": "After he left, I went to bed.",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "The team won because their coach was smart.",
+              "correct_answer": "The team won because their coach was smart.",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "I like coffee but tea is nice.",
+              "correct_answer": "I like coffee, but tea is nice.",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is a simple sentence?",
+              "correct_answer": "A sentence with one independent clause and no dependent clauses",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Define a compound sentence.",
+              "correct_answer": "A sentence with two or more independent clauses joined by a coordinating conjunction",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What is a complex sentence?",
+              "correct_answer": "A sentence with one independent clause and at least one dependent clause",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Name three coordinating conjunctions.",
+              "correct_answer": "and, but, or, nor, for, yet, so (any three)",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Give five subordinating conjunctions.",
+              "correct_answer": "because, although, if, when, while, after, before, since (any five)",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What is an independent clause?",
+              "correct_answer": "A clause that expresses a complete thought and can stand alone",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "What is a dependent clause?",
+              "correct_answer": "A clause that cannot express a complete thought and cannot stand alone",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "How do coordinating conjunctions differ from subordinating?",
+              "correct_answer": "Coordinating joins equal elements, subordinating shows hierarchy/relationship",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What punctuation joins independent clauses without a conjunction?",
+              "correct_answer": "A semicolon",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Why is sentence variety important?",
+              "correct_answer": "It makes writing more interesting and prevents monotony",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "common-grammar-mistakes",
+      "lesson_title": "Common Grammar Mistakes",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which is incorrect?",
+              "options": [
+                "Its a beautiful day",
+                "It's a beautiful day",
+                "It is a beautiful day",
+                "B and C"
+              ],
+              "correct_answer": "Its a beautiful day",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Choose the correct sentence:",
+              "options": [
+                "Their going to the store",
+                "There going to the store",
+                "They're going to the store",
+                "Theyre going to the store"
+              ],
+              "correct_answer": "They're going to the store",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What is wrong with 'She and me went'?",
+              "options": [
+                "Nothing",
+                "'She and I went' is correct",
+                "'Me and her' is better",
+                "'Us went' is correct"
+              ],
+              "correct_answer": "'She and I went' is correct",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Choose correct: 'Between you and _____'",
+              "options": [
+                "me",
+                "I",
+                "myself",
+                "we"
+              ],
+              "correct_answer": "me",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "What's wrong with 'Running down the street, the bus went by'?",
+              "options": [
+                "Nothing",
+                "Dangling modifier",
+                "Wrong tense",
+                "Spelling error"
+              ],
+              "correct_answer": "Dangling modifier",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Which uses apostrophe correctly?",
+              "options": [
+                "The cats are running",
+                "The cat's are running",
+                "The cats' toys",
+                "The cats's toys"
+              ],
+              "correct_answer": "The cats' toys",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Choose the correct comparison:",
+              "options": [
+                "She is more smarter",
+                "She is more smart",
+                "She is smarter",
+                "She is smarterer"
+              ],
+              "correct_answer": "She is smarter",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "What's the issue with 'However I felt, I smiled'?",
+              "options": [
+                "Nothing",
+                "Needs comma after 'However'",
+                "However should be 'how'",
+                "Should use 'and'"
+              ],
+              "correct_answer": "Needs comma after 'However'",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Which is correct?",
+              "options": [
+                "Could of done it",
+                "Could have done it",
+                "Could had done it",
+                "Could do it had"
+              ],
+              "correct_answer": "Could have done it",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "What mistake appears in 'The team play well'?",
+              "options": [
+                "Spelling",
+                "Tense",
+                "Subject-verb disagreement",
+                "Punctuation"
+              ],
+              "correct_answer": "Subject-verb disagreement",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "'Its' and 'it's' are always interchangeable.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "'They're' means 'they are'.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "'Me and him' is grammatically correct.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Dangling modifiers can confuse meaning.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Apostrophes show plural forms.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Double comparatives like 'more smarter' are incorrect.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "'Could of' is a common mistake for 'could have'.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Run-on sentences combine independent clauses without proper punctuation.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Comma splices join two sentences with a comma.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Sentence fragments are always incorrect.",
+              "correct_answer": true,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "'Its' shows _____ while 'it's' means 'it is'.",
+              "correct_answer": "possession",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "'There' refers to a _____, 'their' shows possession.",
+              "correct_answer": "place",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "A _____ modifier confuses meaning by seeming to refer to the wrong subject.",
+              "correct_answer": "dangling",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Apostrophes show _____ or contractions.",
+              "correct_answer": "possession",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "A _____ sentence combines independent clauses without proper punctuation.",
+              "correct_answer": "run-on",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "A _____ splice uses a comma to join two independent clauses.",
+              "correct_answer": "comma",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "A _____ fragment is an incomplete sentence.",
+              "correct_answer": "sentence",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Double _____ like 'more bigger' are incorrect.",
+              "correct_answer": "comparatives",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "'Could have' is often mistakenly written as 'could _____'.",
+              "correct_answer": "of",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Between two people, use _____ not 'between you and I'.",
+              "correct_answer": "me",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Its a beautiful day.",
+              "correct_answer": "It's a beautiful day.",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Their going to their house.",
+              "correct_answer": "They're going to their house.",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "She and me went to the store.",
+              "correct_answer": "She and I went to the store.",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Running down the street, the bus went by.",
+              "correct_answer": "As I ran down the street, the bus went by.",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "She is more smarter than him.",
+              "correct_answer": "She is smarter than him.",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Could of been better.",
+              "correct_answer": "Could have been better.",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "The team play well.",
+              "correct_answer": "The team plays well.",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Between you and I this is a secret.",
+              "correct_answer": "Between you and me, this is a secret.",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "She went to the store she bought milk.",
+              "correct_answer": "She went to the store, and she bought milk.",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Working on the project, all the ideas came to me.",
+              "correct_answer": "While working on the project, I got all the ideas.",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is the difference between 'its' and 'it's'?",
+              "correct_answer": "'Its' shows possession, 'it's' means 'it is'",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Explain the correct use of 'there', 'their', and 'they're'.",
+              "correct_answer": "there=place, their=possession, they're=they are",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What is a dangling modifier?",
+              "correct_answer": "A modifier that seems to describe the wrong subject",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Why shouldn't you say 'could of'?",
+              "correct_answer": "Because the correct phrase is 'could have'",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "What is a run-on sentence?",
+              "correct_answer": "Two independent clauses joined without proper punctuation",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What is a comma splice?",
+              "correct_answer": "Two independent clauses joined only by a comma",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Give an example of a sentence fragment.",
+              "correct_answer": "Running quickly through the park. / Because she was tired.",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "What is wrong with 'double comparatives'?",
+              "correct_answer": "Using 'more' before an adjective that already ends in -er",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Should you use 'between you and me' or 'between you and I'?",
+              "correct_answer": "'Between you and me' because 'me' is an object pronoun",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "How do you fix a run-on sentence?",
+              "correct_answer": "Add punctuation, use a conjunction, or split into separate sentences",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "paragraph-writing",
+      "lesson_title": "Paragraph Writing",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is the main purpose of a topic sentence?",
+              "options": [
+                "To be entertaining",
+                "To introduce main idea",
+                "To end the paragraph",
+                "To add details"
+              ],
+              "correct_answer": "To introduce main idea",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Where should a topic sentence typically appear?",
+              "options": [
+                "At the end",
+                "In the middle",
+                "At the beginning",
+                "Anywhere"
+              ],
+              "correct_answer": "At the beginning",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What is the function of supporting sentences?",
+              "options": [
+                "End the topic",
+                "Develop and support the main idea",
+                "Introduce new topics",
+                "Draw conclusions"
+              ],
+              "correct_answer": "Develop and support the main idea",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "What is a concluding sentence?",
+              "options": [
+                "A new topic",
+                "A summary of the main idea",
+                "A question",
+                "An example"
+              ],
+              "correct_answer": "A summary of the main idea",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "What should supporting sentences contain?",
+              "options": [
+                "Random facts",
+                "Evidence and examples",
+                "New topics",
+                "Opinions"
+              ],
+              "correct_answer": "Evidence and examples",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What is coherence in writing?",
+              "options": [
+                "Pretty sentences",
+                "Logical flow and connection",
+                "Long paragraphs",
+                "Many adjectives"
+              ],
+              "correct_answer": "Logical flow and connection",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "What are transition words used for?",
+              "options": [
+                "Decoration",
+                "Connecting ideas",
+                "Spelling",
+                "Grammar only"
+              ],
+              "correct_answer": "Connecting ideas",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Which is a transition word?",
+              "options": [
+                "Beautiful",
+                "Therefore",
+                "Quickly",
+                "Never"
+              ],
+              "correct_answer": "Therefore",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What makes a paragraph unified?",
+              "options": [
+                "Length",
+                "Interesting words",
+                "All sentences support main idea",
+                "No punctuation"
+              ],
+              "correct_answer": "All sentences support main idea",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "What should NOT be in a paragraph?",
+              "options": [
+                "Topic sentence",
+                "Supporting details",
+                "Unrelated ideas",
+                "Concluding sentence"
+              ],
+              "correct_answer": "Unrelated ideas",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Every paragraph needs a topic sentence.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Topic sentences should always be at the end.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "Coherence means logical organization.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Unity means all sentences relate to one main idea.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Transition words are optional.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Supporting sentences should be vague.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "A concluding sentence restates the main idea.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Paragraphs can be any length.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Examples strengthen supporting sentences.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Topic sentences must be questions.",
+              "correct_answer": false,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A _____ sentence states the main idea of the paragraph.",
+              "correct_answer": "topic",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "_____ sentences develop and support the main idea.",
+              "correct_answer": "Supporting",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "A _____ sentence restates or concludes the paragraph.",
+              "correct_answer": "concluding",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "_____ refers to logical flow and connection.",
+              "correct_answer": "Coherence",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "_____ means all sentences relate to one main idea.",
+              "correct_answer": "Unity",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "_____ words connect ideas between sentences.",
+              "correct_answer": "Transition",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Supporting sentences should include _____ and examples.",
+              "correct_answer": "evidence",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Good paragraphs have _____, unity, and coherence.",
+              "correct_answer": "focus",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Transition words like 'however', 'therefore', and '_____ help flow.",
+              "correct_answer": "moreover",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "A weak paragraph may lack a clear _____ sentence.",
+              "correct_answer": "topic",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "The paragraph have good structure.",
+              "correct_answer": "The paragraph has good structure.",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Supporting sentences should be vague and general.",
+              "correct_answer": "Supporting sentences should be specific and detailed.",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "The topic sentence usually comes in the end.",
+              "correct_answer": "The topic sentence usually comes at the beginning.",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Transition word such as however helps connection.",
+              "correct_answer": "Transition words such as however help connection.",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Coherence is not important in writing.",
+              "correct_answer": "Coherence is important in writing.",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "All sentences should relate to the topic idea.",
+              "correct_answer": "All sentences should relate to the main idea.",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Unity mean all ideas support the main point.",
+              "correct_answer": "Unity means all ideas support the main point.",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "A concluding sentence should introduce a new topic.",
+              "correct_answer": "A concluding sentence should summarize the main idea.",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "Therefore is not a transition word.",
+              "correct_answer": "Therefore is a transition word.",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Paragraphs can discuss any random ideas.",
+              "correct_answer": "Paragraphs should focus on one main idea.",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is a topic sentence?",
+              "correct_answer": "A sentence that states the main idea of the paragraph",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "What do supporting sentences do?",
+              "correct_answer": "They develop and support the main idea with evidence and examples",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "What is the role of a concluding sentence?",
+              "correct_answer": "To summarize or restate the main idea",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Define coherence.",
+              "correct_answer": "Logical organization and clear connection between ideas",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Define unity in a paragraph.",
+              "correct_answer": "All sentences relate to and support one main idea",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Give three examples of transition words.",
+              "correct_answer": "however, therefore, moreover, furthermore, in addition (any three)",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Why are examples important in supporting sentences?",
+              "correct_answer": "They provide concrete evidence to support the main idea",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "What should be included in a well-developed paragraph?",
+              "correct_answer": "Topic sentence, supporting details/examples, and concluding sentence",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "How long should a paragraph be?",
+              "correct_answer": "Usually 5-8 sentences, depending on topic and purpose",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "What makes a paragraph weak?",
+              "correct_answer": "Lack of clear topic sentence, poor support, or unrelated ideas",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "practical-english-for-daily-use",
+      "lesson_title": "Practical English for Daily Use",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "How do you politely ask for something?",
+              "options": [
+                "Give it to me",
+                "Can you give me?",
+                "May I have this?",
+                "I need it"
+              ],
+              "correct_answer": "May I have this?",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "What is the best response to 'How are you?'",
+              "options": [
+                "I am fine, thank you",
+                "Nothing",
+                "How are you?",
+                "Very well"
+              ],
+              "correct_answer": "I am fine, thank you",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "How do you introduce yourself?",
+              "options": [
+                "Who are you?",
+                "My name is...",
+                "You know me?",
+                "I am..."
+              ],
+              "correct_answer": "My name is...",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "When should you say 'thank you'?",
+              "options": [
+                "Never",
+                "When receiving help",
+                "Always",
+                "Sometimes"
+              ],
+              "correct_answer": "When receiving help",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "What do you say when someone says 'thank you'?",
+              "options": [
+                "Thank you too",
+                "You're welcome",
+                "That's okay",
+                "Don't mention it"
+              ],
+              "correct_answer": "You're welcome",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "How do you apologize?",
+              "options": [
+                "I apologize",
+                "I'm sorry",
+                "Both A and B",
+                "Neither"
+              ],
+              "correct_answer": "Both A and B",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "What is a polite greeting?",
+              "options": [
+                "Hey",
+                "Good morning",
+                "What's up?",
+                "Yo"
+              ],
+              "correct_answer": "Good morning",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "How do you ask for permission?",
+              "options": [
+                "Do this for me",
+                "May I do this?",
+                "Can I do?",
+                "I will do"
+              ],
+              "correct_answer": "May I do this?",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "What should you do in a conversation?",
+              "options": [
+                "Interrupt",
+                "Listen carefully",
+                "Ignore others",
+                "Talk only"
+              ],
+              "correct_answer": "Listen carefully",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "How do you express disagreement politely?",
+              "options": [
+                "You're wrong",
+                "I respectfully disagree",
+                "That's stupid",
+                "No way"
+              ],
+              "correct_answer": "I respectfully disagree",
+              "marks": 1
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "It's important to use 'please' and 'thank you'.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "Interrupting during conversation is polite.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "You should greet people when you meet them.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "Listening is more important than talking in conversation.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "You should apologize if you make a mistake.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "Being on time is not important.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "You can be rude if you're busy.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Asking for help is a sign of weakness.",
+              "correct_answer": false,
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "You should ask permission before using someone's things.",
+              "correct_answer": true,
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Respect and courtesy are important in daily life.",
+              "correct_answer": true,
+              "marks": 1
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "When you receive help, say '_____'.",
+              "correct_answer": "thank you",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "'_____ morning' is a polite greeting.",
+              "correct_answer": "Good",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "When someone says 'thank you', respond with '_____'.",
+              "correct_answer": "you're welcome",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "To apologize, say 'I am _____'.",
+              "correct_answer": "sorry",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "When asking for something, use the word '_____'.",
+              "correct_answer": "please",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "To request permission, use '_____'.",
+              "correct_answer": "may",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "In conversation, it's important to _____ to others.",
+              "correct_answer": "listen",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Being _____ is important in any conversation.",
+              "correct_answer": "respectful",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "My name is _____, what is yours?",
+              "correct_answer": "John/[any name]",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "To disagree politely, say 'I _____ disagree'.",
+              "correct_answer": "respectfully",
+              "marks": 1
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Give me that book.",
+              "correct_answer": "May I have that book, please?",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "I don't care what you think.",
+              "correct_answer": "I respectfully have a different opinion.",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "You are wrong.",
+              "correct_answer": "I respectfully disagree with you.",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "I is sorry.",
+              "correct_answer": "I am sorry.",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "Thanks not needed.",
+              "correct_answer": "Thank you, that's not necessary.",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "I wants to ask you something.",
+              "correct_answer": "I want to ask you something.",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "Can I uses your pen?",
+              "correct_answer": "May I use your pen?",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "Good morning, how is you?",
+              "correct_answer": "Good morning, how are you?",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "You're welcome not needed.",
+              "correct_answer": "You're welcome.",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Listen carefully what I say.",
+              "correct_answer": "Listen carefully to what I say.",
+              "marks": 1
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "How would you politely ask for a glass of water?",
+              "correct_answer": "May I have a glass of water, please?",
+              "marks": 1
+            },
+            {
+              "question_id": 2,
+              "question": "What is an appropriate greeting?",
+              "correct_answer": "Good morning / Good afternoon / How are you?",
+              "marks": 1
+            },
+            {
+              "question_id": 3,
+              "question": "How would you introduce yourself?",
+              "correct_answer": "My name is [name] / I'm [name]",
+              "marks": 1
+            },
+            {
+              "question_id": 4,
+              "question": "What should you do if you make a mistake?",
+              "correct_answer": "Apologize and say sorry",
+              "marks": 1
+            },
+            {
+              "question_id": 5,
+              "question": "How do you express disagreement politely?",
+              "correct_answer": "I respectfully disagree / I have a different opinion",
+              "marks": 1
+            },
+            {
+              "question_id": 6,
+              "question": "What's important in a good conversation?",
+              "correct_answer": "Listening, being respectful, and thoughtful responses",
+              "marks": 1
+            },
+            {
+              "question_id": 7,
+              "question": "When should you use 'please'?",
+              "correct_answer": "When asking for something or making a request",
+              "marks": 1
+            },
+            {
+              "question_id": 8,
+              "question": "What does 'you're welcome' mean?",
+              "correct_answer": "A polite response to thank you",
+              "marks": 1
+            },
+            {
+              "question_id": 9,
+              "question": "How would you ask permission to do something?",
+              "correct_answer": "May I do this? / Can I do this?",
+              "marks": 1
+            },
+            {
+              "question_id": 10,
+              "question": "Why is being on time important?",
+              "correct_answer": "It shows respect for others and their time",
+              "marks": 1
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

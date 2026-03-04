@@ -1,0 +1,1 @@
+ProgressPanel.jsx and ProgressPanel.css are to be deleted.

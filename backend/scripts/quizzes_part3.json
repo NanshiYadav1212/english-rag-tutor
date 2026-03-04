@@ -1,0 +1,917 @@
+{
+  "quizzes": [
+    {
+      "lesson_slug": "active-passive-voice",
+      "lesson_title": "Active & Passive Voice",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "In active voice, who performs the action?",
+              "options": ["The object", "The subject", "The verb", "The adjective"],
+              "correct_answer": "The subject",
+              "marks": 1,
+              "explanation": "In active voice, the subject performs the action. Example: 'The cat ate the mouse.'"
+            },
+            {
+              "question_id": 2,
+              "question": "In passive voice, who receives the action?",
+              "options": ["The subject", "The verb", "The object", "The modifier"],
+              "correct_answer": "The subject",
+              "marks": 1,
+              "explanation": "In passive voice, the subject receives the action. Example: 'The mouse was eaten by the cat.'"
+            },
+            {
+              "question_id": 3,
+              "question": "Which sentence is in passive voice?",
+              "options": ["The teacher explained the lesson", "The lesson was explained by the teacher", "The lesson explained the teacher", "The teacher is explaining"],
+              "correct_answer": "The lesson was explained by the teacher",
+              "marks": 1,
+              "explanation": "Passive voice uses 'was/were' + past participle. The subject receives the action."
+            },
+            {
+              "question_id": 4,
+              "question": "Convert to passive: 'The chef prepared a delicious meal.'",
+              "options": ["A delicious meal was prepared by the chef", "A delicious meal prepared by the chef", "The chef was prepared a meal", "A meal prepared the chef"],
+              "correct_answer": "A delicious meal was prepared by the chef",
+              "marks": 1,
+              "explanation": "In passive voice, the object becomes the subject, and 'was' + past participle form the verb."
+            },
+            {
+              "question_id": 5,
+              "question": "When is passive voice most appropriate?",
+              "options": ["Always in narrative", "When the agent is unknown or unimportant", "When describing actions in detail", "Never in formal writing"],
+              "correct_answer": "When the agent is unknown or unimportant",
+              "marks": 1,
+              "explanation": "Passive voice is useful when the doer of the action is irrelevant: 'My wallet was stolen.'"
+            },
+            {
+              "question_id": 6,
+              "question": "Identify the passive voice structure:",
+              "options": ["Subject + Verb + Object", "Subject + be + past participle + by + agent", "Subject + be + verb + ing", "Agent + by + past participle"],
+              "correct_answer": "Subject + be + past participle + by + agent",
+              "marks": 1,
+              "explanation": "Standard passive voice structure includes 'be' and past participle."
+            },
+            {
+              "question_id": 7,
+              "question": "In scientific writing, why is passive voice common?",
+              "options": ["It's easier to write", "It emphasizes the process over the researcher", "It makes sentences longer", "It's required"],
+              "correct_answer": "It emphasizes the process over the researcher",
+              "marks": 1,
+              "explanation": "Scientific writing focuses on procedures and results, not who performed them."
+            },
+            {
+              "question_id": 8,
+              "question": "Which change occurs when converting active to passive?",
+              "options": ["The subject stays the same", "The object becomes the subject", "The verb becomes stronger", "The meaning completely changes"],
+              "correct_answer": "The object becomes the subject",
+              "marks": 1,
+              "explanation": "Active: 'I ate an apple.' Passive: 'An apple was eaten by me.'"
+            },
+            {
+              "question_id": 9,
+              "question": "Why is active voice generally preferred in most writing?",
+              "options": ["It's shorter and clearer", "It sounds more professional", "It's required by law", "Passive is never used"],
+              "correct_answer": "It's shorter and clearer",
+              "marks": 1,
+              "explanation": "Active voice is direct, concise, and immediately clear about who does what."
+            },
+            {
+              "question_id": 10,
+              "question": "Convert to active: 'The report was written by Sarah.'",
+              "options": ["The report wrote Sarah", "Sarah wrote the report", "The report was writing Sarah", "Sarah was the report written"],
+              "correct_answer": "Sarah wrote the report",
+              "marks": 1,
+              "explanation": "In active voice, the agent (Sarah) becomes the subject."
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Passive voice is always incorrect.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Passive voice is correct and appropriate in certain contexts, especially scientific writing."
+            },
+            {
+              "question_id": 2,
+              "question": "Active voice is always more direct than passive voice.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Active voice clearly shows who does what immediately."
+            },
+            {
+              "question_id": 3,
+              "question": "In passive voice, the agent can always be omitted.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'The game was cancelled' doesn't need 'by someone.'"
+            },
+            {
+              "question_id": 4,
+              "question": "Passive voice sentences are always shorter than active voice sentences.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Passive voice can actually be longer, especially with 'by + agent.'"
+            },
+            {
+              "question_id": 5,
+              "question": "Converting active to passive changes the essential meaning.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Active and passive express the same meaning with different emphasis."
+            },
+            {
+              "question_id": 6,
+              "question": "Instructions should be in passive voice for clarity.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Instructions are clearer in active voice: 'Press the button' not 'The button should be pressed.'"
+            },
+            {
+              "question_id": 7,
+              "question": "Passive voice requires an auxiliary verb.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Passive voice uses 'be' (is, are, was, were, etc.) + past participle."
+            },
+            {
+              "question_id": 8,
+              "question": "Scientific papers typically use more passive voice than narrative writing.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Scientific writing emphasizes procedures and results over the researcher."
+            },
+            {
+              "question_id": 9,
+              "question": "Passive voice is appropriate when the agent is unknown.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'My homework was lost' is appropriate when you don't know who lost it."
+            },
+            {
+              "question_id": 10,
+              "question": "The past participle is essential in both active and passive voice.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Past participles are necessary only in passive voice and perfect tenses, not all active forms."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "In _______ voice, the subject performs the action.",
+              "correct_answer": "active",
+              "marks": 1,
+              "explanation": "Active voice is direct: subject does the action."
+            },
+            {
+              "question_id": 2,
+              "question": "In _______ voice, the subject receives the action.",
+              "correct_answer": "passive",
+              "marks": 1,
+              "explanation": "Passive voice: subject receives the action from an agent."
+            },
+            {
+              "question_id": 3,
+              "question": "Passive voice is formed with _______ + past participle.",
+              "correct_answer": "be",
+              "marks": 1,
+              "explanation": "Forms: is, are, was, were, being, been, etc."
+            },
+            {
+              "question_id": 4,
+              "question": "When converting to passive, the object becomes the _______.",
+              "correct_answer": "subject",
+              "marks": 1,
+              "explanation": "Structure change: Object → Subject in passive voice."
+            },
+            {
+              "question_id": 5,
+              "question": "In passive voice, the agent can be introduced with the word _______.",
+              "correct_answer": "by",
+              "marks": 1,
+              "explanation": "'By' introduces who performs the action in passive voice."
+            },
+            {
+              "question_id": 6,
+              "question": "Active voice is generally preferred for _______ and clarity.",
+              "correct_answer": "directness",
+              "marks": 1,
+              "explanation": "Active voice is straightforward and easy to understand."
+            },
+            {
+              "question_id": 7,
+              "question": "Passive voice is common in _______ writing.",
+              "correct_answer": "scientific",
+              "marks": 1,
+              "explanation": "Science focuses on procedures and results, making passive voice appropriate."
+            },
+            {
+              "question_id": 8,
+              "question": "_______ is appropriate when the agent is unknown.",
+              "correct_answer": "Passive voice",
+              "marks": 1,
+              "explanation": "Example: 'The painting was stolen' (thief unknown)."
+            },
+            {
+              "question_id": 9,
+              "question": "Converting active to passive _______ the essential meaning.",
+              "correct_answer": "does not change",
+              "marks": 1,
+              "explanation": "The meaning stays the same; only emphasis differs."
+            },
+            {
+              "question_id": 10,
+              "question": "Instructions should use _______ voice for maximum clarity.",
+              "correct_answer": "active",
+              "marks": 1,
+              "explanation": "'Do this' (active) is clearer than 'This should be done' (passive)."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match active voice examples to their passive equivalents:",
+              "pairs": [
+                {"left": "The baker made the bread", "right": "The bread was made by the baker"},
+                {"left": "She wrote the letter", "right": "The letter was written by her"},
+                {"left": "They built the house", "right": "The house was built by them"},
+                {"left": "I prepared the meal", "right": "The meal was prepared by me"},
+                {"left": "He discovered the truth", "right": "The truth was discovered by him"}
+              ],
+              "marks": 5,
+              "explanation": "Conversion from active to passive requires structural changes."
+            },
+            {
+              "question_id": 2,
+              "question": "Match voice types to their characteristics:",
+              "pairs": [
+                {"left": "Active Voice", "right": "Subject performs the action"},
+                {"left": "Passive Voice", "right": "Subject receives the action"},
+                {"left": "Active Voice", "right": "Direct and clear"},
+                {"left": "Passive Voice", "right": "Emphasizes action or receiver"},
+                {"left": "Active Voice", "right": "Generally shorter"}
+              ],
+              "marks": 5,
+              "explanation": "Key differences between active and passive voice."
+            },
+            {
+              "question_id": 3,
+              "question": "Match passive voice components to their functions:",
+              "pairs": [
+                {"left": "Auxiliary verb (be)", "right": "Forms passive structure (is, are, was, were)"},
+                {"left": "Past participle", "right": "Main verb form in passive"},
+                {"left": "'By' + agent", "right": "Shows who performed the action"},
+                {"left": "Subject in passive", "right": "Receives the action"},
+                {"left": "Passive structure", "right": "Subject + be + past participle + (by agent)"}
+              ],
+              "marks": 5,
+              "explanation": "Components of passive voice sentences."
+            },
+            {
+              "question_id": 4,
+              "question": "Match writing contexts to voice preferences:",
+              "pairs": [
+                {"left": "Narrative fiction", "right": "Mostly active voice"},
+                {"left": "Scientific research", "right": "More passive voice"},
+                {"left": "Instructions/Procedures", "right": "Active voice (direct commands)"},
+                {"left": "Formal announcements", "right": "Can use passive for emphasis"},
+                {"left": "Persuasive writing", "right": "Active voice (more compelling)"}
+              ],
+              "marks": 5,
+              "explanation": "Different genres favor different voice usage."
+            },
+            {
+              "question_id": 5,
+              "question": "Match reasons to use passive voice:",
+              "pairs": [
+                {"left": "Agent is unknown", "right": "'The car was stolen'"},
+                {"left": "Agent is unimportant", "right": "'The meeting was cancelled'"},
+                {"left": "Emphasize the action", "right": "'The novel was adapted into a film'"},
+                {"left": "Formal tone", "right": "'The contract was signed yesterday'"},
+                {"left": "Scientific context", "right": "'The samples were analyzed'"}
+              ],
+              "marks": 5,
+              "explanation": "Appropriate uses for passive voice."
+            },
+            {
+              "question_id": 6,
+              "question": "Match conversion steps to their order in active to passive:",
+              "pairs": [
+                {"left": "Step 1", "right": "Identify the object of active sentence"},
+                {"left": "Step 2", "right": "Make object the subject of passive"},
+                {"left": "Step 3", "right": "Add appropriate form of 'be'"},
+                {"left": "Step 4", "right": "Use past participle as main verb"},
+                {"left": "Step 5", "right": "Add 'by' + original subject (if needed)"}
+              ],
+              "marks": 5,
+              "explanation": "Process for converting active to passive voice."
+            },
+            {
+              "question_id": 7,
+              "question": "Match advantages to each voice type:",
+              "pairs": [
+                {"left": "Active voice advantage", "right": "Clear, direct, identifies agent"},
+                {"left": "Active voice advantage", "right": "Generally more concise"},
+                {"left": "Passive voice advantage", "right": "Useful when agent unknown"},
+                {"left": "Passive voice advantage", "right": "Emphasizes the action or result"},
+                {"left": "Voice choice", "right": "Depends on communicative purpose"}
+              ],
+              "marks": 5,
+              "explanation": "When to use each voice effectively."
+            },
+            {
+              "question_id": 8,
+              "question": "Match tense forms to passive voice usage:",
+              "pairs": [
+                {"left": "Present Passive", "right": "is/are + past participle"},
+                {"left": "Past Passive", "right": "was/were + past participle"},
+                {"left": "Future Passive", "right": "will be + past participle"},
+                {"left": "Present Perfect Passive", "right": "has/have been + past participle"},
+                {"left": "Past Perfect Passive", "right": "had been + past participle"}
+              ],
+              "marks": 5,
+              "explanation": "Passive voice works with all tenses."
+            },
+            {
+              "question_id": 9,
+              "question": "Match sentence types to their typical voice:",
+              "pairs": [
+                {"left": "Commands/Instructions", "right": "Active voice"},
+                {"left": "Scientific procedures", "right": "Passive voice"},
+                {"left": "Crime reports", "right": "Often passive (suspect unknown)"},
+                {"left": "Story narration", "right": "Mostly active voice"},
+                {"left": "Legal documents", "right": "Mixed, with passive for formality"}
+              ],
+              "marks": 5,
+              "explanation": "Genre conventions and voice usage."
+            },
+            {
+              "question_id": 10,
+              "question": "Match problems to their solutions:",
+              "pairs": [
+                {"left": "Too much passive voice", "right": "Convert to active for directness"},
+                {"left": "Agent is irrelevant", "right": "Use passive voice"},
+                {"left": "Unclear who did what", "right": "Switch to active voice"},
+                {"left": "Need formal tone", "right": "Use passive voice selectively"},
+                {"left": "Conveying procedure", "right": "Passive voice works well"}
+              ],
+              "marks": 5,
+              "explanation": "Choosing voice based on communication needs."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Explain the difference between active and passive voice with one example of each.",
+              "correct_answer": "Active: Subject performs action. 'The cat ate the mouse.' Passive: Subject receives action. 'The mouse was eaten by the cat.' Both convey the same event but with different emphasis.",
+              "marks": 2,
+              "explanation": "Active focuses on the doer; passive focuses on the receiver."
+            },
+            {
+              "question_id": 2,
+              "question": "What is the structure of passive voice? Provide the formula.",
+              "correct_answer": "Subject + auxiliary verb (be) + past participle + (by + agent). Example: 'The book was written by the author.' The agent (by the author) is optional.",
+              "marks": 2,
+              "explanation": "Passive voice formula is essential for understanding and creating sentences."
+            },
+            {
+              "question_id": 3,
+              "question": "Convert this active sentence to passive: 'The company hired fifty employees.'",
+              "correct_answer": "Passive: 'Fifty employees were hired by the company.' The object 'employees' becomes the subject, 'hired' becomes 'were hired,' and the subject 'company' follows 'by.'",
+              "marks": 2,
+              "explanation": "Demonstrate conversion skill."
+            },
+            {
+              "question_id": 4,
+              "question": "When is passive voice more appropriate than active voice? Give an example.",
+              "correct_answer": "Passive voice is appropriate when: (1) Agent is unknown. Example: 'My wallet was stolen.' (2) Agent is unimportant. Example: 'The game was cancelled.' (3) Emphasizing the action/receiver. Example: 'The president was elected.'",
+              "marks": 2,
+              "explanation": "Recognize appropriate uses of passive voice."
+            },
+            {
+              "question_id": 5,
+              "question": "Why is active voice generally preferred in most writing?",
+              "correct_answer": "Active voice is preferred because it is: (1) Direct and clear, (2) More concise (fewer words), (3) Immediately shows who does what, (4) Easier to read and understand, (5) More engaging and forceful.",
+              "marks": 2,
+              "explanation": "Understand reasons for preferring active voice."
+            },
+            {
+              "question_id": 6,
+              "question": "Explain why passive voice is common in scientific writing.",
+              "correct_answer": "Scientific writing emphasizes the procedure and results rather than the researcher. Passive voice keeps focus on the experiment/process: 'The samples were analyzed' rather than 'We analyzed the samples.'"
+              ,
+              "marks": 2,
+              "explanation": "Different genres have different voice conventions."
+            },
+            {
+              "question_id": 7,
+              "question": "What changes occur when converting 'She painted the wall' to passive voice?",
+              "correct_answer": "Changes: (1) Object 'wall' becomes subject, (2) Verb 'painted' becomes 'was painted' (auxiliary + past participle), (3) Subject 'she' becomes agent after 'by'. Result: 'The wall was painted by her.'",
+              "marks": 2,
+              "explanation": "Understand structural changes in conversion."
+            },
+            {
+              "question_id": 8,
+              "question": "Give an example of passive voice where the agent is omitted. Why is this acceptable?",
+              "correct_answer": "Example: 'The meeting was postponed.' (Agent omitted). This is acceptable when: (1) Agent is unknown ('My car was damaged'), (2) Agent is unimportant (everyone knows who), (3) For conciseness, (4) When focus is on the action, not the doer.",
+              "marks": 2,
+              "explanation": "Agent omission is a valid use of passive voice."
+            },
+            {
+              "question_id": 9,
+              "question": "Rewrite this instruction in active voice for greater clarity: 'Instructions should be followed carefully by employees.'",
+              "correct_answer": "Rewritten: 'Employees should follow instructions carefully.' OR 'Follow instructions carefully.' (imperative). The active version is clearer and more direct.",
+              "marks": 2,
+              "explanation": "Active voice is better for instructions and directions."
+            },
+            {
+              "question_id": 10,
+              "question": "Explain how active and passive voice differ in emphasis and provide original examples.",
+              "correct_answer": "Active emphasizes the doer/agent: 'John completed the project.' (focuses on John). Passive emphasizes the action/receiver: 'The project was completed.' (focuses on project). Both are correct; choice depends on what you want to emphasize.",
+              "marks": 2,
+              "explanation": "Voice choice reflects communicative intention."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "direct-indirect-speech",
+      "lesson_title": "Direct & Indirect Speech",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is direct speech?",
+              "options": ["Speaking indirectly", "Quoting exactly what someone said", "Summarizing someone's words", "Paraphrasing information"],
+              "correct_answer": "Quoting exactly what someone said",
+              "marks": 1,
+              "explanation": "Direct speech uses quotation marks and preserves exact words."
+            },
+            {
+              "question_id": 2,
+              "question": "What is indirect speech?",
+              "options": ["An exact quote", "Reporting what someone said without exact words", "Using quotation marks", "Changing the subject"],
+              "correct_answer": "Reporting what someone said without exact words",
+              "marks": 1,
+              "explanation": "Indirect speech (reported speech) reports meaning without exact quotation."
+            },
+            {
+              "question_id": 3,
+              "question": "Which is direct speech?",
+              "options": ["She said she was tired", "She said, 'I am tired'", "She was tired", "Tired is what she said"],
+              "correct_answer": "She said, 'I am tired'",
+              "marks": 1,
+              "explanation": "Direct speech requires quotation marks and exact words."
+            },
+            {
+              "question_id": 4,
+              "question": "When converting direct to indirect, what happens to the pronoun 'I'?",
+              "options": ["It stays 'I'", "It becomes 'he' or 'she'", "It disappears", "It becomes 'you'"],
+              "correct_answer": "It becomes 'he' or 'she'",
+              "marks": 1,
+              "explanation": "Pronouns change perspective: 'I am tired' → 'He said he was tired.'"
+            },
+            {
+              "question_id": 5,
+              "question": "What tense change occurs in: 'He said, \"I work here\"' → Indirect?",
+              "options": ["No change", "Work becomes worked", "Work becomes working", "Work becomes will work"],
+              "correct_answer": "Work becomes worked",
+              "marks": 1,
+              "explanation": "Tenses shift backwards: Present Simple → Past Simple."
+            },
+            {
+              "question_id": 6,
+              "question": "Convert to indirect speech: 'Are you coming tomorrow?' he asked.",
+              "options": ["He asked if I am coming tomorrow", "He asked if I was coming tomorrow", "He asked was I coming tomorrow", "He asked me am I coming"],
+              "correct_answer": "He asked if I was coming tomorrow",
+              "marks": 1,
+              "explanation": "Yes/No questions become 'if' clauses in indirect speech, and tense shifts."
+            },
+            {
+              "question_id": 7,
+              "question": "In indirect speech, how do wh-questions change?",
+              "options": ["Add 'if'", "Change to statement word order with question word", "Remove the question word", "Use question mark"],
+              "correct_answer": "Change to statement word order with question word",
+              "marks": 1,
+              "explanation": "'Where do you live?' → 'She asked where I lived.' (statement order)"
+            },
+            {
+              "question_id": 8,
+              "question": "How is a command converted to indirect speech?",
+              "options": ["It stays as a command", "Use 'told' + infinitive", "Use quotation marks", "Add 'please'"],
+              "correct_answer": "Use 'told' + infinitive",
+              "marks": 1,
+              "explanation": "'Open the door!' → 'He told me to open the door.'"
+            },
+            {
+              "question_id": 9,
+              "question": "What happens to time references in indirect speech?",
+              "options": ["They stay the same", "They shift (now→then, tomorrow→next day)", "They are removed", "They are doubled"],
+              "correct_answer": "They shift (now→then, tomorrow→next day)",
+              "marks": 1,
+              "explanation": "Time references change perspective: 'today' becomes 'that day.'"
+            },
+            {
+              "question_id": 10,
+              "question": "Convert: 'I am studying,' said Maria. (Indirect)",
+              "options": ["Maria said I am studying", "Maria said she is studying", "Maria said she was studying", "Maria said she studies"],
+              "correct_answer": "Maria said she was studying",
+              "marks": 1,
+              "explanation": "Both pronoun ('I'→'she') and tense (am→was) change."
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Direct speech requires quotation marks.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Quotation marks mark the boundaries of direct speech."
+            },
+            {
+              "question_id": 2,
+              "question": "Indirect speech requires quotation marks.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Indirect speech doesn't use quotation marks; it's reported speech."
+            },
+            {
+              "question_id": 3,
+              "question": "In indirect speech, tenses always shift backwards.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Tense shifting depends on context. Universal truths may not shift: 'He said Earth is round.'"
+            },
+            {
+              "question_id": 4,
+              "question": "The word 'that' is mandatory in indirect speech.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "'That' is optional: 'He said he was tired' or 'He said that he was tired.'"
+            },
+            {
+              "question_id": 5,
+              "question": "In yes/no questions, indirect speech uses 'if' or 'whether'.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'Do you like it?' → 'She asked if I liked it.'"
+            },
+            {
+              "question_id": 6,
+              "question": "Wh-questions keep the question word in indirect speech.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'What is your name?' → 'He asked what my name was.'"
+            },
+            {
+              "question_id": 7,
+              "question": "Commands use the infinitive form in indirect speech.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'Close the door!' → 'He told me to close the door.'"
+            },
+            {
+              "question_id": 8,
+              "question": "The meaning changes when converting direct to indirect speech.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "The meaning stays the same; only the form and perspective change."
+            },
+            {
+              "question_id": 9,
+              "question": "'Can' becomes 'could' in indirect speech when backshifting.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'I can do it' → 'He said he could do it.'"
+            },
+            {
+              "question_id": 10,
+              "question": "Place references sometimes change in indirect speech.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'Here' might become 'there' depending on context."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Direct speech uses _______ to show exact words.",
+              "correct_answer": "quotation marks",
+              "marks": 1,
+              "explanation": "Quotation marks ('...') enclose direct speech."
+            },
+            {
+              "question_id": 2,
+              "question": "Indirect speech _______ the exact words.",
+              "correct_answer": "does not preserve",
+              "marks": 1,
+              "explanation": "Indirect speech reports the meaning in different words."
+            },
+            {
+              "question_id": 3,
+              "question": "When converting direct to indirect, 'I' often becomes _______.",
+              "correct_answer": "he/she",
+              "marks": 1,
+              "explanation": "Pronouns change to reflect the new speaker's perspective."
+            },
+            {
+              "question_id": 4,
+              "question": "The process of changing tenses when reporting speech is called _______.",
+              "correct_answer": "backshift",
+              "marks": 1,
+              "explanation": "Tenses shift to a past perspective in indirect speech."
+            },
+            {
+              "question_id": 5,
+              "question": "Present Simple 'am' becomes _______ in indirect speech.",
+              "correct_answer": "was",
+              "marks": 1,
+              "explanation": "Tense shifts from present to past."
+            },
+            {
+              "question_id": 6,
+              "question": "In indirect speech, 'now' changes to _______.",
+              "correct_answer": "then",
+              "marks": 1,
+              "explanation": "Time references shift to the new temporal perspective."
+            },
+            {
+              "question_id": 7,
+              "question": "Yes/no questions in indirect speech use _______ or 'whether'.",
+              "correct_answer": "if",
+              "marks": 1,
+              "explanation": "These conjunctions replace the question structure."
+            },
+            {
+              "question_id": 8,
+              "question": "Commands in indirect speech use 'told/asked' + _______.",
+              "correct_answer": "infinitive",
+              "marks": 1,
+              "explanation": "Structure: told/asked + pronoun + to + base verb."
+            },
+            {
+              "question_id": 9,
+              "question": "When reporting a question, wh-question words like 'what' are _______.",
+              "correct_answer": "kept",
+              "marks": 1,
+              "explanation": "The question word remains in the reported form."
+            },
+            {
+              "question_id": 10,
+              "question": "'Must' becomes _______ in backshifted indirect speech.",
+              "correct_answer": "had to",
+              "marks": 1,
+              "explanation": "Modal 'must' changes to 'had to' in past perspective."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match direct speech to indirect speech:",
+              "pairs": [
+                {"left": "'I am happy,' she said", "right": "She said (that) she was happy"},
+                {"left": "'We will go tomorrow,' he said", "right": "He said (that) they would go the next day"},
+                {"left": "'Where do you live?' she asked", "right": "She asked where I lived"},
+                {"left": "'Close the door!' he said", "right": "He told me to close the door"},
+                {"left": "'Are you coming?' she asked", "right": "She asked if I was coming"}
+              ],
+              "marks": 5,
+              "explanation": "Examples of direct to indirect conversion."
+            },
+            {
+              "question_id": 2,
+              "question": "Match tense conversions for backshift:",
+              "pairs": [
+                {"left": "Present Simple", "right": "Past Simple"},
+                {"left": "Present Continuous", "right": "Past Continuous"},
+                {"left": "Present Perfect", "right": "Past Perfect"},
+                {"left": "Will", "right": "Would"},
+                {"left": "Can", "right": "Could"}
+              ],
+              "marks": 5,
+              "explanation": "Tense shifts when converting to indirect speech."
+            },
+            {
+              "question_id": 3,
+              "question": "Match question types to their indirect forms:",
+              "pairs": [
+                {"left": "Yes/No question", "right": "if/whether + statement order"},
+                {"left": "Wh-question", "right": "wh-word + statement order"},
+                {"left": "Direct: 'Do you know?'", "right": "Indirect: 'if I knew'"},
+                {"left": "Direct: 'What is it?'", "right": "Indirect: 'what it was'"},
+                {"left": "Question word", "right": "Remains in indirect speech"}
+              ],
+              "marks": 5,
+              "explanation": "How different question types convert."
+            },
+            {
+              "question_id": 4,
+              "question": "Match command conversions:",
+              "pairs": [
+                {"left": "'Come here!' (command)", "right": "He told me to come there"},
+                {"left": "'Don't be late!' (negative)", "right": "She told me not to be late"},
+                {"left": "'Please help!' (polite)", "right": "He asked me to help"},
+                {"left": "Structure", "right": "told/asked + infinitive"},
+                {"left": "Negative command", "right": "told/asked + not + infinitive"}
+              ],
+              "marks": 5,
+              "explanation": "Commands convert to infinitive structures."
+            },
+            {
+              "question_id": 5,
+              "question": "Match time references to their changes:",
+              "pairs": [
+                {"left": "Now", "right": "Then"},
+                {"left": "Today", "right": "That day"},
+                {"left": "Tomorrow", "right": "The next day"},
+                {"left": "Yesterday", "right": "The day before"},
+                {"left": "This week", "right": "That week"}
+              ],
+              "marks": 5,
+              "explanation": "Time references shift in reported speech."
+            },
+            {
+              "question_id": 6,
+              "question": "Match pronoun changes:",
+              "pairs": [
+                {"left": "I (direct)", "right": "He/She (indirect, when reported)"},
+                {"left": "You (direct speaker's perspective)", "right": "I (indirect, from listener's perspective)"},
+                {"left": "We", "right": "They"},
+                {"left": "Me", "right": "Him/Her"},
+                {"left": "My", "right": "His/Her"}
+              ],
+              "marks": 5,
+              "explanation": "Pronouns change based on new perspective."
+            },
+            {
+              "question_id": 7,
+              "question": "Match modals to their backshifted forms:",
+              "pairs": [
+                {"left": "Can", "right": "Could"},
+                {"left": "May", "right": "Might"},
+                {"left": "Will", "right": "Would"},
+                {"left": "Must", "right": "Had to"},
+                {"left": "Should", "right": "Should (no change)"}
+              ],
+              "marks": 5,
+              "explanation": "Modals change to past forms in indirect speech."
+            },
+            {
+              "question_id": 8,
+              "question": "Match speech situations to their types:",
+              "pairs": [
+                {"left": "Quoted exactly with marks", "right": "Direct speech"},
+                {"left": "Reported without exact words", "right": "Indirect speech"},
+                {"left": "Using 'he said'", "right": "Can be either direct or indirect"},
+                {"left": "No quotation marks", "right": "Indirect speech"},
+                {"left": "Preserving exact wording", "right": "Direct speech"}
+              ],
+              "marks": 5,
+              "explanation": "Characteristics of direct versus indirect speech."
+            },
+            {
+              "question_id": 9,
+              "question": "Match common errors to their corrections:",
+              "pairs": [
+                {"left": "He said he is tired (wrong)", "right": "He said he was tired (correct)"},
+                {"left": "'Do I know?' → 'if I know' (wrong)", "right": "'Do I know?' → 'if I knew' (correct)"},
+                {"left": "He told me go (wrong)", "right": "He told me to go (correct)"},
+                {"left": "She asked me coming (wrong)", "right": "She asked if I was coming (correct)"},
+                {"left": "Using quotation marks in indirect (wrong)", "right": "No marks in indirect speech (correct)"}
+              ],
+              "marks": 5,
+              "explanation": "Common mistakes in reporting speech."
+            },
+            {
+              "question_id": 10,
+              "question": "Match contexts to the speech type used:",
+              "pairs": [
+                {"left": "Narrative: dialogue", "right": "Direct speech"},
+                {"left": "News report: 'The mayor said...'", "right": "Indirect speech"},
+                {"left": "Literary dialogue", "right": "Direct speech with quotes"},
+                {"left": "Summary of a conversation", "right": "Indirect speech"},
+                {"left": "Preserving someone's exact words", "right": "Direct speech"}
+              ],
+              "marks": 5,
+              "explanation": "When to use each type of speech reporting."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Define direct and indirect speech with one example of each.",
+              "correct_answer": "Direct speech: Exact words with quotation marks. 'She said, \"I am tired.\"' Indirect speech: Reports meaning without exact words. 'She said that she was tired.'",
+              "marks": 2,
+              "explanation": "Main difference: quotation marks and exactness."
+            },
+            {
+              "question_id": 2,
+              "question": "Convert this direct speech to indirect: 'I have finished my homework,' said Tom.",
+              "correct_answer": "Indirect: 'Tom said (that) he had finished his homework.' Changes: 'I' → 'he', 'have finished' → 'had finished' (Present Perfect → Past Perfect).",
+              "marks": 2,
+              "explanation": "Show pronoun and tense changes."
+            },
+            {
+              "question_id": 3,
+              "question": "How do yes/no questions change in indirect speech? Provide an example.",
+              "correct_answer": "Yes/No questions become 'if' or 'whether' clauses with statement word order. Example: 'Are you coming?' → 'She asked if I was coming.' OR 'She asked whether I was coming.'",
+              "marks": 2,
+              "explanation": "Question structure transforms in reported form."
+            },
+            {
+              "question_id": 4,
+              "question": "How do wh-questions convert to indirect speech? Give an example.",
+              "correct_answer": "Wh-questions keep the question word but use statement word order. Example: 'Where do you live?' → 'He asked where I lived.' (NOT 'where do I live')",
+              "marks": 2,
+              "explanation": "Question word remains; structure becomes declarative."
+            },
+            {
+              "question_id": 5,
+              "question": "Explain what 'backshift' means with one example.",
+              "correct_answer": "Backshift is the process of shifting tenses backwards when reporting speech. Example: 'I work here' → 'He said he worked there.' Tenses shift: Present → Past, and perspective changes.",
+              "marks": 2,
+              "explanation": "Backshift is essential for understanding reported speech."
+            },
+            {
+              "question_id": 6,
+              "question": "How are commands converted to indirect speech? Provide one example.",
+              "correct_answer": "Commands become 'told/asked' + infinitive. Example: 'Open the door!' → 'He told me to open the door.' Negative: 'Don't be late!' → 'She told me not to be late.'",
+              "marks": 2,
+              "explanation": "Commands use infinitive structure in indirect form."
+            },
+            {
+              "question_id": 7,
+              "question": "What changes occur to pronouns when converting 'I love you,' she said to indirect speech?",
+              "correct_answer": "Conversion: 'She said she loved him.' Changes: 'I' becomes 'she' (new perspective), 'you' becomes 'him' (from listener's view), 'love' becomes 'loved' (past tense).",
+              "marks": 2,
+              "explanation": "Multiple changes occur: pronouns, tense, perspective."
+            },
+            {
+              "question_id": 8,
+              "question": "How do time references change from direct to indirect speech? Give examples.",
+              "correct_answer": "Time references shift to the new temporal perspective. Examples: 'now' → 'then', 'today' → 'that day', 'tomorrow' → 'the next day', 'yesterday' → 'the day before'. Example sentence: 'I'll go tomorrow' → 'He said he would go the next day.'",
+              "marks": 2,
+              "explanation": "Time references depend on when the reporting occurs."
+            },
+            {
+              "question_id": 9,
+              "question": "Explain why the 'that' is optional in indirect speech. Provide examples.",
+              "correct_answer": "'That' introduces the reported clause but is not required grammatically. Optional: 'He said (that) he was tired.' Both are correct: 'He said he was tired.' OR 'He said that he was tired.'",
+              "marks": 2,
+              "explanation": "Understanding optionality helps with sentence variation."
+            },
+            {
+              "question_id": 10,
+              "question": "When does tense NOT shift in indirect speech? Provide an example.",
+              "correct_answer": "Tense doesn't shift for universal truths or general statements. Example: 'He said the Earth is round.' (remains present, not 'was round' because it's always true). Recent events can also maintain tense in informal speech.",
+              "marks": 2,
+              "explanation": "Exceptions to the backshift rule apply in specific contexts."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

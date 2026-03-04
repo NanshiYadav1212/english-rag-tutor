@@ -1,0 +1,1116 @@
+{
+  "quizzes": [
+    {
+      "lesson_slug": "basics-of-english-grammar",
+      "lesson_title": "Basics of English Grammar",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which of the following is the most essential component of a sentence?",
+              "options": [
+                "Adjective",
+                "Subject and Verb",
+                "Punctuation",
+                "Preposition"
+              ],
+              "correct_answer": "Subject and Verb",
+              "marks": 1,
+              "explanation": "Every sentence requires a subject (who/what) and a verb (action/state) to be complete."
+            },
+            {
+              "question_id": 2,
+              "question": "What is the primary purpose of punctuation in English?",
+              "options": [
+                "To make writing look nice",
+                "To clarify meaning and structure",
+                "To replace words",
+                "To make sentences longer"
+              ],
+              "correct_answer": "To clarify meaning and structure",
+              "marks": 1,
+              "explanation": "Punctuation marks help readers understand meaning, show pauses, and indicate sentence boundaries."
+            },
+            {
+              "question_id": 3,
+              "question": "In the sentence 'The cat sat on the mat,' what is 'mat'?",
+              "options": [
+                "Subject",
+                "Verb",
+                "Object of the preposition",
+                "Adjective"
+              ],
+              "correct_answer": "Object of the preposition",
+              "marks": 1,
+              "explanation": "'Mat' is the noun that follows the preposition 'on'. It's the object of that preposition."
+            },
+            {
+              "question_id": 4,
+              "question": "Which principle states that words must have matching number and person?",
+              "options": [
+                "Tense Consistency",
+                "Word Order",
+                "Agreement",
+                "Pronoun Clarity"
+              ],
+              "correct_answer": "Agreement",
+              "marks": 1,
+              "explanation": "Agreement means subjects must match their verbs in number (singular/plural) and person (1st/2nd/3rd)."
+            },
+            {
+              "question_id": 5,
+              "question": "What is the standard word order in English sentences?",
+              "options": [
+                "Verb-Subject-Object",
+                "Object-Subject-Verb",
+                "Subject-Verb-Object",
+                "Subject-Object-Verb"
+              ],
+              "correct_answer": "Subject-Verb-Object",
+              "marks": 1,
+              "explanation": "English typically follows Subject-Verb-Object (SVO) order: 'She eats apples.'"
+            },
+            {
+              "question_id": 6,
+              "question": "Why is proper grammar important in professional writing?",
+              "options": [
+                "To make the text longer",
+                "To build trust and credibility",
+                "To confuse the reader",
+                "To display vocabulary"
+              ],
+              "correct_answer": "To build trust and credibility",
+              "marks": 1,
+              "explanation": "Good grammar in professional writing builds trust, ensures clarity, and establishes authority."
+            },
+            {
+              "question_id": 7,
+              "question": "Which word typically completes the pattern: 'He ___ to the store'?",
+              "options": [
+                "go",
+                "goes",
+                "going",
+                "gone"
+              ],
+              "correct_answer": "goes",
+              "marks": 1,
+              "explanation": "'He' (third person singular) requires 'goes' with the -s ending in present tense."
+            },
+            {
+              "question_id": 8,
+              "question": "What does a subject do in a sentence?",
+              "options": [
+                "Describes quality",
+                "Shows time",
+                "Performs the action or state being described",
+                "Modifies nouns"
+              ],
+              "correct_answer": "Performs the action or state being described",
+              "marks": 1,
+              "explanation": "The subject is who or what the sentence is about; it performs the action or is in the state described."
+            },
+            {
+              "question_id": 9,
+              "question": "Identify the predicate in: 'The students studied hard for the exam.'",
+              "options": [
+                "The students",
+                "studied hard for the exam",
+                "studied",
+                "hard"
+              ],
+              "correct_answer": "studied hard for the exam",
+              "marks": 1,
+              "explanation": "The predicate is the verb and everything that follows it that describes what the subject does or is."
+            },
+            {
+              "question_id": 10,
+              "question": "What is the relationship between modifiers and clarity in grammar?",
+              "options": [
+                "Modifiers always confuse readers",
+                "Clear modifier placement prevents misunderstanding",
+                "Modifiers are not important to clarity",
+                "Modifiers only apply to verbs"
+              ],
+              "correct_answer": "Clear modifier placement prevents misunderstanding",
+              "marks": 1,
+              "explanation": "Proper placement of modifiers ensures readers understand which word is being modified, maintaining clarity."
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Every sentence must contain at least one adjective.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Sentences need a subject and verb, but adjectives are optional. Example: 'Dogs run.'"
+            },
+            {
+              "question_id": 2,
+              "question": "Grammar rules are the same across all English-speaking countries.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "American English and British English differ in some grammar rules, spelling, and usage."
+            },
+            {
+              "question_id": 3,
+              "question": "The predicate of a sentence always contains only the main verb.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "The predicate includes the verb and all words that follow it describing the action or state."
+            },
+            {
+              "question_id": 4,
+              "question": "Grammar ensures messages are understood correctly.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Correct grammar clarifies meaning and reduces misunderstanding in communication."
+            },
+            {
+              "question_id": 5,
+              "question": "Word order affects meaning in English sentences.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Word order is significant in English. 'The cat ate the mouse' means something different from 'The mouse ate the cat.'"
+            },
+            {
+              "question_id": 6,
+              "question": "All punctuation marks serve the same purpose.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Different punctuation marks (periods, commas, semicolons) serve different purposes in clarifying meaning."
+            },
+            {
+              "question_id": 7,
+              "question": "Subject-verb agreement means the subject and verb must match in number.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Singular subjects need singular verbs; plural subjects need plural verbs."
+            },
+            {
+              "question_id": 8,
+              "question": "A sentence can have only one subject.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Sentences can have compound subjects: 'John and Mary are friends.'"
+            },
+            {
+              "question_id": 9,
+              "question": "Grammar is less important in informal communication like texting.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "While informal settings are more flexible, clarity through proper grammar remains important."
+            },
+            {
+              "question_id": 10,
+              "question": "Understanding grammar is necessary for becoming a good writer.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Strong grammar skills form the foundation of effective and professional writing."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "The sentence needs both a _______ and a verb to be complete.",
+              "correct_answer": "subject",
+              "marks": 1,
+              "explanation": "Subject is essential. Examples: 'The dog runs.', 'I am happy.'"
+            },
+            {
+              "question_id": 2,
+              "question": "Correct word order in English is _______, verb, object.",
+              "correct_answer": "subject",
+              "marks": 1,
+              "explanation": "Subject-Verb-Object (SVO) is the standard English sentence pattern."
+            },
+            {
+              "question_id": 3,
+              "question": "The _______ of a sentence contains the verb and related information.",
+              "correct_answer": "predicate",
+              "marks": 1,
+              "explanation": "The predicate includes the main verb and any modifiers or objects that follow it."
+            },
+            {
+              "question_id": 4,
+              "question": "Grammar ensures that _______ is understood correctly.",
+              "correct_answer": "meaning",
+              "marks": 1,
+              "explanation": "The purpose of grammar is to create clear communication."
+            },
+            {
+              "question_id": 5,
+              "question": "_______ helps clarify meaning and mark sentence boundaries.",
+              "correct_answer": "Punctuation",
+              "marks": 1,
+              "explanation": "Punctuation marks organize writing and help readers understand structure."
+            },
+            {
+              "question_id": 6,
+              "question": "In subject-verb _______, singular subjects take singular verbs.",
+              "correct_answer": "agreement",
+              "marks": 1,
+              "explanation": "Agreement is the grammatical rule requiring subjects and verbs to match in number."
+            },
+            {
+              "question_id": 7,
+              "question": "Words that come between the subject and verb don't affect _______.",
+              "correct_answer": "agreement",
+              "marks": 1,
+              "explanation": "The verb should still agree with the main subject, not intermediate words."
+            },
+            {
+              "question_id": 8,
+              "question": "Good grammar builds _______ and authority in formal writing.",
+              "correct_answer": "trust",
+              "marks": 1,
+              "explanation": "Professional communication relies on correct grammar to establish credibility."
+            },
+            {
+              "question_id": 9,
+              "question": "A _______ sentence contains a subject, verb, and object in that order.",
+              "correct_answer": "simple",
+              "marks": 1,
+              "explanation": "Simple sentences have one subject and one verb in basic SVO structure."
+            },
+            {
+              "question_id": 10,
+              "question": "_______ modify or describe other words in a sentence.",
+              "correct_answer": "Modifiers",
+              "marks": 1,
+              "explanation": "Modifiers (adjectives, adverbs, phrases) provide additional information about words."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match the grammatical concept to its description:",
+              "pairs": [
+                {
+                  "left": "Subject",
+                  "right": "Who or what the sentence is about"
+                },
+                {
+                  "left": "Predicate",
+                  "right": "The action or state being described"
+                },
+                {
+                  "left": "Object",
+                  "right": "What receives the action"
+                },
+                {
+                  "left": "Modifier",
+                  "right": "Provides additional description"
+                },
+                {
+                  "left": "Punctuation",
+                  "right": "Clarifies meaning and structure"
+                }
+              ],
+              "marks": 5,
+              "explanation": "These are the key components of grammatical sentences."
+            },
+            {
+              "question_id": 2,
+              "question": "Match each grammar principle to its correct definition:",
+              "pairs": [
+                {
+                  "left": "Agreement",
+                  "right": "Words matching in number and person"
+                },
+                {
+                  "left": "Clarity",
+                  "right": "Message is understood correctly"
+                },
+                {
+                  "left": "Consistency",
+                  "right": "Using the same tense and form throughout"
+                },
+                {
+                  "left": "Coherence",
+                  "right": "Ideas connected logically"
+                },
+                {
+                  "left": "Professionalism",
+                  "right": "Proper grammar expected in formal settings"
+                }
+              ],
+              "marks": 5,
+              "explanation": "These principles are essential to good grammar and communication."
+            },
+            {
+              "question_id": 3,
+              "question": "Match the example to the grammatical feature being demonstrated:",
+              "pairs": [
+                {
+                  "left": "The cats are sleeping.",
+                  "right": "Plural subject-verb agreement"
+                },
+                {
+                  "left": "She walks slowly.",
+                  "right": "Adverb modifying verb"
+                },
+                {
+                  "left": "The blue bicycle",
+                  "right": "Adjective modifying noun"
+                },
+                {
+                  "left": "In the house",
+                  "right": "Prepositional phrase"
+                },
+                {
+                  "left": "They have arrived.",
+                  "right": "Compound subject"
+                }
+              ],
+              "marks": 5,
+              "explanation": "Recognize grammatical features in context."
+            },
+            {
+              "question_id": 4,
+              "question": "Match the sentence part to its role:",
+              "pairs": [
+                {
+                  "left": "The bird",
+                  "right": "Subject"
+                },
+                {
+                  "left": "sings beautifully",
+                  "right": "Predicate"
+                },
+                {
+                  "left": "a song",
+                  "right": "Object"
+                },
+                {
+                  "left": "every morning",
+                  "right": "Adverbial phrase"
+                },
+                {
+                  "left": "in the garden",
+                  "right": "Prepositional phrase"
+                }
+              ],
+              "marks": 5,
+              "explanation": "Understanding sentence components helps analyze structure."
+            },
+            {
+              "question_id": 5,
+              "question": "Match each importance of grammar to its impact:",
+              "pairs": [
+                {
+                  "left": "Clarity",
+                  "right": "Prevents misunderstanding"
+                },
+                {
+                  "left": "Credibility",
+                  "right": "Builds trust with readers"
+                },
+                {
+                  "left": "Consistency",
+                  "right": "Makes writing predictable"
+                },
+                {
+                  "left": "Professionalism",
+                  "right": "Required in formal contexts"
+                },
+                {
+                  "left": "Communication",
+                  "right": "Enables effective message transfer"
+                }
+              ],
+              "marks": 5,
+              "explanation": "Grammar serves multiple purposes in effective communication."
+            },
+            {
+              "question_id": 6,
+              "question": "Match the grammatical error to its type:",
+              "pairs": [
+                {
+                  "left": "He don't like pizza.",
+                  "right": "Subject-verb disagreement"
+                },
+                {
+                  "left": "Running down the hill, the tree was tall.",
+                  "right": "Misplaced modifier"
+                },
+                {
+                  "left": "I went to the store I bought milk.",
+                  "right": "Run-on sentence"
+                },
+                {
+                  "left": "Because it was raining.",
+                  "right": "Fragment"
+                },
+                {
+                  "left": "She spoke to me in person and written an email.",
+                  "right": "Lack of parallel structure"
+                }
+              ],
+              "marks": 5,
+              "explanation": "Identifying error types helps correct them."
+            },
+            {
+              "question_id": 7,
+              "question": "Match the word to its grammatical function in this context:",
+              "pairs": [
+                {
+                  "left": "The students studied hard.",
+                  "right": "Subject"
+                },
+                {
+                  "left": "studied",
+                  "right": "Verb"
+                },
+                {
+                  "left": "hard",
+                  "right": "Adverb"
+                },
+                {
+                  "left": "for the exam",
+                  "right": "Prepositional phrase"
+                },
+                {
+                  "left": "students",
+                  "right": "Noun"
+                }
+              ],
+              "marks": 5,
+              "explanation": "Words function differently depending on sentence position."
+            },
+            {
+              "question_id": 8,
+              "question": "Match the punctuation to its use:",
+              "pairs": [
+                {
+                  "left": "Period (.)",
+                  "right": "End of sentence"
+                },
+                {
+                  "left": "Comma (,)",
+                  "right": "Separate items; join clauses"
+                },
+                {
+                  "left": "Semicolon (;)",
+                  "right": "Join independent clauses"
+                },
+                {
+                  "left": "Colon (:)",
+                  "right": "Introduce list or explanation"
+                },
+                {
+                  "left": "Apostrophe (')",
+                  "right": "Show possession or contraction"
+                }
+              ],
+              "marks": 5,
+              "explanation": "Different punctuation marks serve specific purposes."
+            },
+            {
+              "question_id": 9,
+              "question": "Match the sentence type to its structure:",
+              "pairs": [
+                {
+                  "left": "Simple sentence",
+                  "right": "One independent clause"
+                },
+                {
+                  "left": "Compound sentence",
+                  "right": "Two independent clauses"
+                },
+                {
+                  "left": "Complex sentence",
+                  "right": "One independent + dependent clauses"
+                },
+                {
+                  "left": "Compound-complex",
+                  "right": "Multiple independent + dependent clauses"
+                },
+                {
+                  "left": "Declarative sentence",
+                  "right": "Statement of fact"
+                }
+              ],
+              "marks": 5,
+              "explanation": "Different sentence structures serve different communicative purposes."
+            },
+            {
+              "question_id": 10,
+              "question": "Match the grammatical concept to its application:",
+              "pairs": [
+                {
+                  "left": "Subject-verb agreement",
+                  "right": "He goes, not he go"
+                },
+                {
+                  "left": "Parallel structure",
+                  "right": "Running, jumping, and swimming"
+                },
+                {
+                  "left": "Modifier placement",
+                  "right": "The adjective near the noun it describes"
+                },
+                {
+                  "left": "Pronoun reference",
+                  "right": "It clearly refers to a specific noun"
+                },
+                {
+                  "left": "Tense consistency",
+                  "right": "Use past tense throughout a story"
+                }
+              ],
+              "marks": 5,
+              "explanation": "Each concept has practical applications in correct writing."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Define the term 'subject' in a sentence and provide one example.",
+              "correct_answer": "The subject is who or what the sentence is about. Example: In 'The dog barks,' 'the dog' is the subject.",
+              "marks": 2,
+              "explanation": "Subject is the main topic performing the action or being described."
+            },
+            {
+              "question_id": 2,
+              "question": "What is the difference between the predicate and the object in a sentence?",
+              "correct_answer": "The predicate includes the verb and all related words describing the action. The object receives the action. Example: 'She ate an apple.' Predicate: 'ate an apple.' Object: 'apple.'",
+              "marks": 2,
+              "explanation": "The predicate is broader and includes the object; the object is what receives the action."
+            },
+            {
+              "question_id": 3,
+              "question": "Explain why correct grammar is important in professional communication.",
+              "correct_answer": "Correct grammar ensures clarity, builds credibility, and maintains professionalism. It prevents misunderstanding and establishes the writer's authority and trustworthiness.",
+              "marks": 2,
+              "explanation": "Professional communication relies on grammar to convey competence and respect."
+            },
+            {
+              "question_id": 4,
+              "question": "What does 'agreement' mean in grammar? Give one example of correct agreement.",
+              "correct_answer": "Agreement means the subject and verb match in number and person. Example: 'The cat is sleeping' (singular) or 'The cats are sleeping' (plural).",
+              "marks": 2,
+              "explanation": "Agreement ensures grammatical consistency between related words."
+            },
+            {
+              "question_id": 5,
+              "question": "Describe how word order affects meaning in English. Provide an example.",
+              "correct_answer": "English word order determines meaning. Example: 'The cat caught the mouse' means the cat performed the action. 'The mouse caught the cat' reverses the meaning. Changing word order changes who does what.",
+              "marks": 2,
+              "explanation": "English is a word-order language where position determines grammatical function."
+            },
+            {
+              "question_id": 6,
+              "question": "What role do modifiers play in sentences? Give one example.",
+              "correct_answer": "Modifiers describe or provide additional information about other words. Example: In 'The beautiful garden bloomed,' 'beautiful' modifies 'garden,' describing it.",
+              "marks": 2,
+              "explanation": "Modifiers add detail and specificity to sentences."
+            },
+            {
+              "question_id": 7,
+              "question": "Explain the relationship between punctuation and clarity in writing.",
+              "correct_answer": "Punctuation clarifies meaning by marking sentence boundaries, separating ideas, and showing relationships between clauses. Incorrect punctuation can change meaning or confuse readers.",
+              "marks": 2,
+              "explanation": "Punctuation is essential for conveying intended meaning."
+            },
+            {
+              "question_id": 8,
+              "question": "What is the standard word order pattern in English? Provide an example sentence.",
+              "correct_answer": "The standard pattern is Subject-Verb-Object (SVO). Example: 'The teacher explained the lesson.' (Teacher = subject, explained = verb, lesson = object)",
+              "marks": 2,
+              "explanation": "SVO order is the typical English sentence structure."
+            },
+            {
+              "question_id": 9,
+              "question": "How do you identify the predicate in a sentence? Give an example.",
+              "correct_answer": "The predicate is everything that follows the subject. It contains the verb and describes what the subject does or is. Example: In 'The birds sing beautifully,' the predicate is 'sing beautifully.'",
+              "marks": 2,
+              "explanation": "The predicate provides information about the subject."
+            },
+            {
+              "question_id": 10,
+              "question": "Why is consistency important in grammar? Explain with an example of inconsistency.",
+              "correct_answer": "Consistency maintains clarity and professionalism. Example of inconsistency: 'I went to the store and buy milk.' Inconsistent tenses (went/buy) create confusion. Correct: 'I went to the store and bought milk.'",
+              "marks": 2,
+              "explanation": "Inconsistency disrupts flow and understanding."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "lesson_slug": "parts-of-speech",
+      "lesson_title": "Parts of Speech",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "How many parts of speech are there in English?",
+              "options": ["5", "7", "9", "12"],
+              "correct_answer": "9",
+              "marks": 1,
+              "explanation": "The nine parts of speech are nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, interjections, and articles."
+            },
+            {
+              "question_id": 2,
+              "question": "Which part of speech describes a noun or pronoun?",
+              "options": ["Adverb", "Adjective", "Verb", "Preposition"],
+              "correct_answer": "Adjective",
+              "marks": 1,
+              "explanation": "Adjectives modify (describe) nouns and pronouns by answering questions like 'What kind?' or 'How many?'"
+            },
+            {
+              "question_id": 3,
+              "question": "What part of speech is 'run' in the sentence 'I love to run'?",
+              "options": ["Noun", "Adjective", "Verb", "Adverb"],
+              "correct_answer": "Verb",
+              "marks": 1,
+              "explanation": "In 'to run,' the infinitive form is still classified as a verb, even though it follows 'to.'"
+            },
+            {
+              "question_id": 4,
+              "question": "Which word is a pronoun in this sentence: 'Sarah gave him her book'?",
+              "options": ["Sarah", "gave", "him", "book"],
+              "correct_answer": "him",
+              "marks": 1,
+              "explanation": "'Him' is a personal pronoun replacing a male noun. 'Her' before 'book' is also a pronoun (possessive)."
+            },
+            {
+              "question_id": 5,
+              "question": "Identify the preposition in: 'The cat is under the table.'",
+              "options": ["cat", "is", "under", "table"],
+              "correct_answer": "under",
+              "marks": 1,
+              "explanation": "'Under' shows the relationship (position) between 'cat' and 'table.'"
+            },
+            {
+              "question_id": 6,
+              "question": "Which word is an adverb in 'She speaks very clearly'?",
+              "options": ["She", "speaks", "very", "clearly"],
+              "correct_answer": "clearly",
+              "marks": 1,
+              "explanation": "'Clearly' modifies the verb 'speaks' and answers 'How does she speak?' Though 'very' is also an adverb, 'clearly' is the primary adverb modifying the verb."
+            },
+            {
+              "question_id": 7,
+              "question": "What is the conjunction in 'I wanted to go, but I was tired'?",
+              "options": ["wanted", "to", "but", "was"],
+              "correct_answer": "but",
+              "marks": 1,
+              "explanation": "'But' connects two independent clauses and shows contrast, making it a coordinating conjunction."
+            },
+            {
+              "question_id": 8,
+              "question": "Which is an example of an indefinite article?",
+              "options": ["the", "a", "an", "this"],
+              "correct_answer": "a",
+              "marks": 1,
+              "explanation": "'A' and 'an' are indefinite articles (not specific). 'The' is definite. 'This' is a demonstrative pronoun/adjective."
+            },
+            {
+              "question_id": 9,
+              "question": "What part of speech is 'wow' in 'Wow, what a surprise!'?",
+              "options": ["Noun", "Interjection", "Adverb", "Exclamation"],
+              "correct_answer": "Interjection",
+              "marks": 1,
+              "explanation": "Interjections are exclamations expressing emotion and often stand alone, followed by exclamation marks or commas."
+            },
+            {
+              "question_id": 10,
+              "question": "Identify the noun in 'Swimming is my favorite hobby.'",
+              "options": ["Swimming", "favorite", "hobby", "is"],
+              "correct_answer": "Swimming",
+              "marks": 1,
+              "explanation": "'Swimming' and 'hobby' are both nouns, but 'Swimming' is the subject noun (gerund form of the verb)."
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True / False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A word can belong to only one part of speech.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Words can function as different parts of speech depending on context. 'Run' is a verb in 'I run' but a noun in 'a morning run.'"
+            },
+            {
+              "question_id": 2,
+              "question": "Articles are a part of speech in English.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Articles (a, an, the) are the ninth part of speech."
+            },
+            {
+              "question_id": 3,
+              "question": "Pronouns replace verbs in sentences.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Pronouns replace nouns, not verbs. Example: 'Mary is here' → 'She is here.'"
+            },
+            {
+              "question_id": 4,
+              "question": "Adverbs always end in '-ly'.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Many adverbs end in '-ly,' but not all. Examples of adverbs not ending in '-ly': fast, hard, well, soon, now, yesterday."
+            },
+            {
+              "question_id": 5,
+              "question": "Prepositions show relationships between words.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Prepositions indicate position, direction, time, and other relationships: in, on, under, before, after, etc."
+            },
+            {
+              "question_id": 6,
+              "question": "Conjunctions connect only nouns.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Conjunctions connect words, phrases, or clauses of any type: 'fast and slow,' 'in the house and under the tree,' 'I want to go, but I must study.'"
+            },
+            {
+              "question_id": 7,
+              "question": "Interjections are essential to sentence structure.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Interjections express emotion but aren't necessary for grammatical sentence structure."
+            },
+            {
+              "question_id": 8,
+              "question": "The definite article 'the' is used for specific things.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "'The' refers to something specific: 'I saw the movie' (specific movie). 'A' is indefinite: 'I saw a movie' (any movie)."
+            },
+            {
+              "question_id": 9,
+              "question": "Some verbs can be used as nouns.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "Gerunds (verb + -ing) function as nouns: 'Running is exercise.' 'Singing makes her happy.'"
+            },
+            {
+              "question_id": 10,
+              "question": "Possessive pronouns require apostrophes.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "Possessive pronouns (his, hers, its, theirs, mine, yours) don't use apostrophes. 'It's' (it is) uses an apostrophe, but 'its' (possessive) doesn't."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A _______ is a word that names a person, place, thing, or idea.",
+              "correct_answer": "noun",
+              "marks": 1,
+              "explanation": "Nouns are fundamental parts of speech that identify things we discuss."
+            },
+            {
+              "question_id": 2,
+              "question": "A _______ replaces a noun to avoid repetition.",
+              "correct_answer": "pronoun",
+              "marks": 1,
+              "explanation": "Pronouns like he, she, it, they take the place of nouns."
+            },
+            {
+              "question_id": 3,
+              "question": "A _______ shows action or state of being.",
+              "correct_answer": "verb",
+              "marks": 1,
+              "explanation": "Verbs express what something does or is."
+            },
+            {
+              "question_id": 4,
+              "question": "An _______ describes or modifies a noun.",
+              "correct_answer": "adjective",
+              "marks": 1,
+              "explanation": "Adjectives provide information about qualities or characteristics of nouns."
+            },
+            {
+              "question_id": 5,
+              "question": "An _______ modifies a verb, adjective, or another adverb.",
+              "correct_answer": "adverb",
+              "marks": 1,
+              "explanation": "Adverbs describe how, when, where, or why an action happens."
+            },
+            {
+              "question_id": 6,
+              "question": "A _______ shows the relationship between a noun and other words.",
+              "correct_answer": "preposition",
+              "marks": 1,
+              "explanation": "Prepositions like 'in,' 'on,' 'under' indicate relationships of position, time, or direction."
+            },
+            {
+              "question_id": 7,
+              "question": "A _______ connects words, phrases, or clauses.",
+              "correct_answer": "conjunction",
+              "marks": 1,
+              "explanation": "Conjunctions like 'and,' 'but,' 'or' join elements."
+            },
+            {
+              "question_id": 8,
+              "question": "An _______ expresses emotion and often stands alone.",
+              "correct_answer": "interjection",
+              "marks": 1,
+              "explanation": "Interjections like 'Oh!' and 'Wow!' express feelings or reactions."
+            },
+            {
+              "question_id": 9,
+              "question": "_______ are small words that modify nouns (a, an, the).",
+              "correct_answer": "Articles",
+              "marks": 1,
+              "explanation": "Articles are the most frequently used function words in English."
+            },
+            {
+              "question_id": 10,
+              "question": "There are _______ parts of speech in English.",
+              "correct_answer": "nine",
+              "marks": 1,
+              "explanation": "The complete list: nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, interjections, and articles."
+            }
+          ]
+        },
+        "match_following": {
+          "type": "Match the Following",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Match each part of speech with its definition:",
+              "pairs": [
+                {"left": "Noun", "right": "Names a person, place, thing, or idea"},
+                {"left": "Pronoun", "right": "Replaces a noun"},
+                {"left": "Verb", "right": "Shows action or state of being"},
+                {"left": "Adjective", "right": "Modifies a noun"},
+                {"left": "Adverb", "right": "Modifies a verb or adjective"}
+              ],
+              "marks": 5,
+              "explanation": "These five parts of speech are the most commonly used."
+            },
+            {
+              "question_id": 2,
+              "question": "Match each word with its part of speech:",
+              "pairs": [
+                {"left": "quickly", "right": "Adverb"},
+                {"left": "happy", "right": "Adjective"},
+                {"left": "run", "right": "Verb"},
+                {"left": "table", "right": "Noun"},
+                {"left": "she", "right": "Pronoun"}
+              ],
+              "marks": 5,
+              "explanation": "Correctly identify parts of speech in individual words."
+            },
+            {
+              "question_id": 3,
+              "question": "Match examples to the last four parts of speech:",
+              "pairs": [
+                {"left": "Preposition", "right": "under, beside, between"},
+                {"left": "Conjunction", "right": "and, but, because"},
+                {"left": "Interjection", "right": "Wow!, Oh!, Great!"},
+                {"left": "Article", "right": "a, an, the"},
+                {"left": "Verb", "right": "run, is, have"}
+              ],
+              "marks": 5,
+              "explanation": "Examples help distinguish these often-confused parts of speech."
+            },
+            {
+              "question_id": 4,
+              "question": "Match the sentence part to its part of speech:",
+              "pairs": [
+                {"left": "The girl", "right": "Noun phrase (article + noun)"},
+                {"left": "is running", "right": "Verb phrase"},
+                {"left": "very quickly", "right": "Adverbial phrase (adverb + adverb)"},
+                {"left": "to the park", "right": "Prepositional phrase"},
+                {"left": "but she stopped", "right": "Clause with conjunction"}
+              ],
+              "marks": 5,
+              "explanation": "Parts of speech combine to form phrases and clauses."
+            },
+            {
+              "question_id": 5,
+              "question": "Match each pronoun type with examples:",
+              "pairs": [
+                {"left": "Personal", "right": "I, you, he, she, it"},
+                {"left": "Possessive", "right": "my, his, her, their"},
+                {"left": "Reflexive", "right": "myself, himself, herself"},
+                {"left": "Demonstrative", "right": "this, that, these, those"},
+                {"left": "Interrogative", "right": "who, what, which"}
+              ],
+              "marks": 5,
+              "explanation": "Pronouns have several subtypes based on their function."
+            },
+            {
+              "question_id": 6,
+              "question": "Match the adverb type to its function:",
+              "pairs": [
+                {"left": "Manner", "right": "How something is done (quickly, carefully)"},
+                {"left": "Time", "right": "When something happens (yesterday, tomorrow)"},
+                {"left": "Place", "right": "Where something happens (here, there)"},
+                {"left": "Frequency", "right": "How often (always, sometimes)"},
+                {"left": "Degree", "right": "To what extent (very, quite)"}
+              ],
+              "marks": 5,
+              "explanation": "Different types of adverbs serve different purposes."
+            },
+            {
+              "question_id": 7,
+              "question": "Match the adjective position to its example:",
+              "pairs": [
+                {"left": "Descriptive", "right": "a beautiful garden"},
+                {"left": "Quantitative", "right": "three apples"},
+                {"left": "Demonstrative", "right": "this book"},
+                {"left": "Possessive", "right": "my pencil"},
+                {"left": "Interrogative", "right": "which option"}
+              ],
+              "marks": 5,
+              "explanation": "Adjectives can express different types of information."
+            },
+            {
+              "question_id": 8,
+              "question": "Match the verb type with its characteristic:",
+              "pairs": [
+                {"left": "Action", "right": "Expresses physical or mental activity (run, think)"},
+                {"left": "Linking", "right": "Connects subject to description (is, seems)"},
+                {"left": "Auxiliary", "right": "Helps main verb (have, will, can)"},
+                {"left": "Transitive", "right": "Requires an object (ate, saw)"},
+                {"left": "Intransitive", "right": "Does not require an object (ran, laughed)"}
+              ],
+              "marks": 5,
+              "explanation": "Verbs have classifications based on their function and requirements."
+            },
+            {
+              "question_id": 9,
+              "question": "Match the conjunction type to its example:",
+              "pairs": [
+                {"left": "Coordinating", "right": "and, but, or, yet"},
+                {"left": "Subordinating", "right": "because, although, when, if"},
+                {"left": "Correlative", "right": "either...or, neither...nor"},
+                {"left": "Conjunctive adverb", "right": "however, therefore, moreover"},
+                {"left": "Joining clauses", "right": "Connects equal or dependent elements"}
+              ],
+              "marks": 5,
+              "explanation": "Conjunctions have different types based on what they connect."
+            },
+            {
+              "question_id": 10,
+              "question": "Match word forms to their part of speech classification:",
+              "pairs": [
+                {"left": "run (noun)", "right": "'A morning run' - gerund/noun"},
+                {"left": "run (verb)", "right": "'I run daily' - main verb"},
+                {"left": "running", "right": "Can be gerund (noun) or present participle (verb form)"},
+                {"left": "book (noun)", "right": "'The book is on the shelf'"},
+                {"left": "book (verb)", "right": "'I will book a hotel'"}
+              ],
+              "marks": 5,
+              "explanation": "Some words function as multiple parts of speech depending on context."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What are the nine parts of speech? List them.",
+              "correct_answer": "1. Noun, 2. Pronoun, 3. Verb, 4. Adjective, 5. Adverb, 6. Preposition, 7. Conjunction, 8. Interjection, 9. Article",
+              "marks": 2,
+              "explanation": "These nine categories classify every word in English."
+            },
+            {
+              "question_id": 2,
+              "question": "Give two examples each for nouns and pronouns.",
+              "correct_answer": "Nouns: dog, happiness, Paris, teacher. Pronouns: he, which, myself, this.",
+              "marks": 2,
+              "explanation": "Nouns name things; pronouns replace them."
+            },
+            {
+              "question_id": 3,
+              "question": "Explain the difference between linking verbs and action verbs with examples.",
+              "correct_answer": "Action verbs express physical or mental activity: 'She runs.' Linking verbs connect the subject to a description: 'She is happy.' Linking verbs include: is, are, was, were, seem, appear, become, feel, taste.",
+              "marks": 2,
+              "explanation": "The difference is whether the verb describes an action or a state."
+            },
+            {
+              "question_id": 4,
+              "question": "What is the difference between an adjective and an adverb? Provide one example of each.",
+              "correct_answer": "Adjective: modifies a noun. Example: 'The quick runner.' Adverb: modifies a verb or adjective. Example: 'The runner moved quickly.' (or 'very quick runner').",
+              "marks": 2,
+              "explanation": "Adjectives describe nouns; adverbs describe verbs or adjectives."
+            },
+            {
+              "question_id": 5,
+              "question": "Give three examples of prepositions and explain one of them.",
+              "correct_answer": "Examples: in, on, under, between, after. Explanation: 'In' shows a preposition of place. In 'The book is in the drawer,' 'in' shows the relationship between 'book' and 'drawer.'",
+              "marks": 2,
+              "explanation": "Prepositions show spatial, temporal, or other relationships."
+            },
+            {
+              "question_id": 6,
+              "question": "What is the difference between coordinating and subordinating conjunctions? Give one example of each.",
+              "correct_answer": "Coordinating conjunctions join equal elements: 'and,' 'but,' 'or.' Example: 'I like tea and coffee.' Subordinating conjunctions join a dependent clause to independent: 'because,' 'although,' 'if.' Example: 'Although it rained, we went out.'",
+              "marks": 2,
+              "explanation": "Coordinating conjunctions connect equal elements; subordinating conjunctions create unequal relationships."
+            },
+            {
+              "question_id": 7,
+              "question": "How many articles are there in English, and what is the difference between definite and indefinite articles?",
+              "correct_answer": "Three articles: 'a,' 'an,' and 'the.' Definite article 'the' refers to something specific: 'I saw the cat.' Indefinite articles 'a' and 'an' refer to something not specific: 'I saw a cat.'",
+              "marks": 2,
+              "explanation": "Articles specify whether a noun is definite or indefinite."
+            },
+            {
+              "question_id": 8,
+              "question": "What is an interjection? Provide two examples and explain their function.",
+              "correct_answer": "An interjection is an exclamation expressing emotion. Examples: 'Wow!' and 'Oh no!' Function: They express feelings or reactions and often stand alone or before a sentence.",
+              "marks": 2,
+              "explanation": "Interjections are not essential to sentence structure but add emotional context."
+            },
+            {
+              "question_id": 9,
+              "question": "Can a word be more than one part of speech? Explain with an example.",
+              "correct_answer": "Yes. Example: 'run' is a noun in 'I went for a morning run' but a verb in 'I run every day.' The same word functions differently depending on its role in the sentence.",
+              "marks": 2,
+              "explanation": "A word's part of speech depends on how it functions in context."
+            },
+            {
+              "question_id": 10,
+              "question": "What are the different types of pronouns? Give one example of each type.",
+              "correct_answer": "Personal: he, she, it. Possessive: his, her, its. Reflexive: himself, herself. Demonstrative: this, that. Relative: who, which. Interrogative: what, who, which. Indefinite: anyone, someone.",
+              "marks": 2,
+              "explanation": "Pronouns have different types based on their specific function in sentences."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

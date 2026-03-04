@@ -1,0 +1,400 @@
+{
+  "quizzes": [
+    {
+      "lesson_slug": "basics-of-english-grammar",
+      "lesson_title": "Basics of English Grammar",
+      "quiz_types": {
+        "multiple_choice": {
+          "type": "Multiple Choice",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Which of the following is the most essential component of a sentence?",
+              "options": ["Adjective", "Subject and Verb", "Punctuation", "Preposition"],
+              "correct_answer": "Subject and Verb",
+              "marks": 1,
+              "explanation": "Every sentence requires a subject and verb to be complete."
+            },
+            {
+              "question_id": 2,
+              "question": "What is the primary purpose of punctuation?",
+              "options": ["Make writing pretty", "Clarify meaning and structure", "Replace words", "Make sentences longer"],
+              "correct_answer": "Clarify meaning and structure",
+              "marks": 1,
+              "explanation": "Punctuation helps readers understand meaning and shows sentence boundaries."
+            },
+            {
+              "question_id": 3,
+              "question": "In 'The cat sat on the mat,' what is 'mat'?",
+              "options": ["Subject", "Verb", "Object of the preposition", "Adjective"],
+              "correct_answer": "Object of the preposition",
+              "marks": 1,
+              "explanation": "'Mat' follows the preposition 'on' and is the object of that preposition."
+            },
+            {
+              "question_id": 4,
+              "question": "Which word order pattern does English follow?",
+              "options": ["Verb-Subject-Object", "Subject-Verb-Object", "Object-Subject-Verb", "Adjective-Noun-Verb"],
+              "correct_answer": "Subject-Verb-Object",
+              "marks": 1,
+              "explanation": "English typically follows Subject-Verb-Object word order."
+            },
+            {
+              "question_id": 5,
+              "question": "What does 'agreement' in grammar mean?",
+              "options": ["Using the same word twice", "Words matching in number and tense", "Putting words in order", "Using punctuation correctly"],
+              "correct_answer": "Words matching in number and tense",
+              "marks": 1,
+              "explanation": "Agreement means words must match in number (singular/plural) and tense."
+            },
+            {
+              "question_id": 6,
+              "question": "Which sentence has correct structure?",
+              "options": ["Running quickly to store", "She runs to the store", "Store to runs she", "To runs store quickly"],
+              "correct_answer": "She runs to the store",
+              "marks": 1,
+              "explanation": "This follows proper Subject-Verb-Object structure."
+            },
+            {
+              "question_id": 7,
+              "question": "In 'The blue bicycle', what is 'blue'?",
+              "options": ["Noun", "Verb", "Adjective", "Adverb"],
+              "correct_answer": "Adjective",
+              "marks": 1,
+              "explanation": "'Blue' describes the noun 'bicycle', making it an adjective."
+            },
+            {
+              "question_id": 8,
+              "question": "What is a predicate in a sentence?",
+              "options": ["The subject of the sentence", "What the subject does or is", "A type of punctuation", "The first word"],
+              "correct_answer": "What the subject does or is",
+              "marks": 1,
+              "explanation": "The predicate contains the verb and describes the action or state."
+            },
+            {
+              "question_id": 9,
+              "question": "Which is a complete sentence?",
+              "options": ["Walking in the park", "The park is beautiful", "Because it was cold", "Running quickly"],
+              "correct_answer": "The park is beautiful",
+              "marks": 1,
+              "explanation": "A complete sentence has a subject and verb expressing a complete thought."
+            },
+            {
+              "question_id": 10,
+              "question": "What type of phrase is 'on the table'?",
+              "options": ["Noun phrase", "Verb phrase", "Prepositional phrase", "Adjective phrase"],
+              "correct_answer": "Prepositional phrase",
+              "marks": 1,
+              "explanation": "This phrase begins with the preposition 'on' and shows location."
+            }
+          ]
+        },
+        "true_false": {
+          "type": "True/False",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Every sentence must have both a subject and a verb.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "True. A complete sentence requires a subject and a predicate (verb)."
+            },
+            {
+              "question_id": 2,
+              "question": "Adjectives are used to describe verbs.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "False. Adjectives describe nouns; adverbs describe verbs."
+            },
+            {
+              "question_id": 3,
+              "question": "A prepositional phrase always shows location.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "False. Prepositional phrases can show location, time, direction, or other relationships."
+            },
+            {
+              "question_id": 4,
+              "question": "Word order can change the meaning of a sentence.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "True. 'The dog bit the man' means something different from 'The man bit the dog.'"
+            },
+            {
+              "question_id": 5,
+              "question": "Punctuation is not important in English grammar.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "False. Punctuation clarifies meaning and indicates sentence structure."
+            },
+            {
+              "question_id": 6,
+              "question": "A phrase always contains a verb.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "False. Many phrases don't contain verbs (e.g., 'the red book', 'in the corner')."
+            },
+            {
+              "question_id": 7,
+              "question": "Subject-verb agreement means the verb must match the subject's number.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "True. Singular subjects take singular verbs; plural subjects take plural verbs."
+            },
+            {
+              "question_id": 8,
+              "question": "An object always comes before the verb in English.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "False. In standard English word order, the object comes after the verb."
+            },
+            {
+              "question_id": 9,
+              "question": "Grammar helps ensure your message is understood correctly.",
+              "correct_answer": "True",
+              "marks": 1,
+              "explanation": "True. Proper grammar promotes clarity in communication."
+            },
+            {
+              "question_id": 10,
+              "question": "Punctuation can never change the meaning of a sentence.",
+              "correct_answer": "False",
+              "marks": 1,
+              "explanation": "False. Punctuation can significantly change meaning (e.g., 'Let's eat, Grandma' vs 'Let's eat Grandma')."
+            }
+          ]
+        },
+        "fill_in_blanks": {
+          "type": "Fill in the Blanks",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "A sentence must have a _____ and a verb.",
+              "correct_answer": "subject",
+              "marks": 1,
+              "explanation": "The subject is who or what the sentence is about."
+            },
+            {
+              "question_id": 2,
+              "question": "_____ words describe or modify nouns.",
+              "correct_answer": "Adjectives",
+              "marks": 1,
+              "explanation": "Adjectives describe qualities or characteristics of nouns."
+            },
+            {
+              "question_id": 3,
+              "question": "The _____ is the action word in a sentence.",
+              "correct_answer": "verb",
+              "marks": 1,
+              "explanation": "The verb shows what the subject does or what state it is in."
+            },
+            {
+              "question_id": 4,
+              "question": "In 'He runs quickly,' the word 'quickly' is an _____.",
+              "correct_answer": "adverb",
+              "marks": 1,
+              "explanation": "Adverbs modify verbs and often end in -ly."
+            },
+            {
+              "question_id": 5,
+              "question": "A _____ phrase begins with a preposition like 'in' or 'on'.",
+              "correct_answer": "prepositional",
+              "marks": 1,
+              "explanation": "Prepositional phrases show relationships between nouns and other words."
+            },
+            {
+              "question_id": 6,
+              "question": "The _____ of a sentence tells what the subject does.",
+              "correct_answer": "predicate",
+              "marks": 1,
+              "explanation": "The predicate contains the verb and its related information."
+            },
+            {
+              "question_id": 7,
+              "question": "Subject-verb _____ means the verb matches the subject's number.",
+              "correct_answer": "agreement",
+              "marks": 1,
+              "explanation": "Agreement ensures grammatical correctness in sentences."
+            },
+            {
+              "question_id": 8,
+              "question": "The _____ 'the' is used for specific nouns.",
+              "correct_answer": "article",
+              "marks": 1,
+              "explanation": "'The' is the definite article used for specific, known nouns."
+            },
+            {
+              "question_id": 9,
+              "question": "A _____ is an exclamation expressing emotion like 'Oh!' or 'Wow!'",
+              "correct_answer": "interjection",
+              "marks": 1,
+              "explanation": "Interjections are words that express emotion or surprise."
+            },
+            {
+              "question_id": 10,
+              "question": "The basic structure of English is _____.",
+              "correct_answer": "Subject-Verb-Object",
+              "marks": 1,
+              "explanation": "English typically follows Subject-Verb-Object word order."
+            }
+          ]
+        },
+        "sentence_correction": {
+          "type": "Sentence Correction",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "Identify the error: 'She go to school every day.'",
+              "correct_answer": "go should be 'goes' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "The subject 'She' is third person singular and requires 'goes'."
+            },
+            {
+              "question_id": 2,
+              "question": "Identify the error: 'The book are on the table.'",
+              "correct_answer": "are should be 'is' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "'Book' is singular and requires the singular verb 'is'."
+            },
+            {
+              "question_id": 3,
+              "question": "Identify the error: 'I seen the movie yesterday.'",
+              "correct_answer": "seen should be 'saw' (incorrect past tense)",
+              "marks": 1,
+              "explanation": "'Saw' is the simple past; 'seen' requires an auxiliary verb."
+            },
+            {
+              "question_id": 4,
+              "question": "Identify the error: 'They doesn't like pizza.'",
+              "correct_answer": "doesn't should be 'don't' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "'They' is third person plural and uses 'don't'."
+            },
+            {
+              "question_id": 5,
+              "question": "Identify the error: 'The students studies hard.'",
+              "correct_answer": "studies should be 'study' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "'Students' is plural and requires the plural verb 'study'."
+            },
+            {
+              "question_id": 6,
+              "question": "Identify the error: 'He walk to the store.'",
+              "correct_answer": "walk should be 'walks' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "'He' is third person singular and requires 'walks'."
+            },
+            {
+              "question_id": 7,
+              "question": "Identify the error: 'The cats is sleeping.'",
+              "correct_answer": "is should be 'are' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "'Cats' is plural and requires the plural verb 'are'."
+            },
+            {
+              "question_id": 8,
+              "question": "Identify the error: 'I goes to the gym.'",
+              "correct_answer": "goes should be 'go' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "'I' takes the verb 'go', not 'goes'."
+            },
+            {
+              "question_id": 9,
+              "question": "Identify the error: 'She have a new car.'",
+              "correct_answer": "have should be 'has' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "'She' is third person singular and requires 'has'."
+            },
+            {
+              "question_id": 10,
+              "question": "Identify the error: 'We runs in the morning.'",
+              "correct_answer": "runs should be 'run' (subject-verb agreement)",
+              "marks": 1,
+              "explanation": "'We' is first person plural and requires 'run'."
+            }
+          ]
+        },
+        "short_answer": {
+          "type": "Short Answer",
+          "total_questions": 10,
+          "questions": [
+            {
+              "question_id": 1,
+              "question": "What is the difference between a subject and an object?",
+              "correct_answer": "The subject performs the action; the object receives the action",
+              "marks": 1,
+              "explanation": "In 'She hits the ball,' 'She' is the subject, and 'ball' is the object."
+            },
+            {
+              "question_id": 2,
+              "question": "Explain why word order matters in English.",
+              "correct_answer": "Word order determines meaning; it affects who does what to whom",
+              "marks": 1,
+              "explanation": "'The cat ate the mouse' means something different from 'The mouse ate the cat.'"
+            },
+            {
+              "question_id": 3,
+              "question": "What is a prepositional phrase and give an example.",
+              "correct_answer": "A phrase starting with a preposition showing relationships; example: 'in the house', 'on the table'",
+              "marks": 1,
+              "explanation": "Prepositional phrases typically show location, time, or direction."
+            },
+            {
+              "question_id": 4,
+              "question": "Define grammar and explain its importance.",
+              "correct_answer": "Grammar is the system of rules for language; it ensures clear communication",
+              "marks": 1,
+              "explanation": "Grammar provides structure that helps readers understand your message."
+            },
+            {
+              "question_id": 5,
+              "question": "What is the difference between a clause and a phrase?",
+              "correct_answer": "A clause has a subject and verb; a phrase does not",
+              "marks": 1,
+              "explanation": "'He runs' is a clause; 'in the park' is a phrase."
+            },
+            {
+              "question_id": 6,
+              "question": "Give an example of correct subject-verb agreement.",
+              "correct_answer": "The cat is sleeping / The cats are sleeping",
+              "marks": 1,
+              "explanation": "Singular subject takes singular verb; plural subject takes plural verb."
+            },
+            {
+              "question_id": 7,
+              "question": "What are the main parts of a simple sentence?",
+              "correct_answer": "Subject and predicate (or subject and verb)",
+              "marks": 1,
+              "explanation": "Every complete sentence must have these two parts."
+            },
+            {
+              "question_id": 8,
+              "question": "Explain the importance of punctuation with an example.",
+              "correct_answer": "Punctuation clarifies meaning; example: 'Let's eat Grandma' vs 'Let's eat, Grandma'",
+              "marks": 1,
+              "explanation": "Punctuation can significantly change or clarify the meaning of text."
+            },
+            {
+              "question_id": 9,
+              "question": "What is an independent clause?",
+              "correct_answer": "A clause with a subject and verb that expresses a complete thought and can stand alone",
+              "marks": 1,
+              "explanation": "An independent clause can be a sentence by itself."
+            },
+            {
+              "question_id": 10,
+              "question": "Give an example of how grammar affects professionalism.",
+              "correct_answer": "Proper grammar in business writing shows competence and builds credibility",
+              "marks": 1,
+              "explanation": "Correct grammar is expected in professional communication."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

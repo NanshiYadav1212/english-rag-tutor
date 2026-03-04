@@ -11,9 +11,9 @@ from app.db import db
 router = APIRouter()
 
 # Security config
-SECRET = "CHANGE_ME_SECRET"
-ALGO = "HS256"
-ACCESS_EXPIRE_MINUTES = 60 * 24  # 1 day
+SECRET = os.getenv("SECRET_KEY")
+ALGO = os.getenv("ALGORITHM")
+ACCESS_EXPIRE_MINUTES = int(os.getenv("ACCESS_EXPIRE_MINUTES", 1440))
 pwd_ctx = CryptContext(schemes=["argon2"], deprecated="auto")
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="/api/auth/login")
 

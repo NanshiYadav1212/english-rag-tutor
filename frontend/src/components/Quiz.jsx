@@ -27,9 +27,10 @@ export default function Quiz({ lesson, token, onSubmitSuccess }) {
       setLoading(true);
       try {
         const res = await api(token).get(`/quiz/lesson/${lesson.slug}`);
-        setQuizzes(res.data?.quizzes || {});
-        if (!selectedQuizType && res.data?.quizzes) {
-          const firstType = Object.keys(res.data.quizzes)[0];
+        // setQuizzes(res.data?.quizzes || {});
+        setQuizzes(res.data?.quiz_types || {});
+        if (!selectedQuizType && res.data?.quiz_types) {
+          const firstType = Object.keys(res.data.quiz_types)[0];
           setSelectedQuizType(firstType);
         }
       } catch (err) {
@@ -66,16 +67,26 @@ export default function Quiz({ lesson, token, onSubmitSuccess }) {
 
     setSubmitting(true);
     try {
-      const questionsWithAnswers = currentQuiz.questions.map(q => ({
-        question_id: q.question_id,
-        user_answer: answers[q.question_id]
-      }));
+      // const questionsWithAnswers = currentQuiz.questions.map(q => ({
+      //   question_id: q.question_id,
+      //   user_answer: answers[q.question_id]
+      // }));
 
-      const res = await api(token).post('/quiz/submit', {
-        lesson_slug: lesson.slug,
-        quiz_type: selectedQuizType,
-        questions_with_answers: questionsWithAnswers
-      });
+      // const res = await api(token).post('/quiz/submit', {
+      //   lesson_slug: lesson.slug,
+      //   quiz_type: selectedQuizType,
+      //   questions_with_answers: questionsWithAnswers
+      // });
+      const answersArray = currentQuiz.questions.map(q => ({
+  question_id: q.question_id,
+  answer: answers[q.question_id]
+}));
+
+const res = await api(token).post('/quiz/submit', {
+  lesson_slug: lesson.slug,
+  quiz_type: selectedQuizType,
+  answers: answersArray
+});
 
       setResults(res.data);
       setSubmitted(true);
@@ -164,7 +175,10 @@ export default function Quiz({ lesson, token, onSubmitSuccess }) {
                 ))}
               </div>
             </div>
-            <p className="hint-text">Drag or type matching pairs (e.g., "phrasal verb -> definition")</p>
+            {/* <p className="hint-text">Drag or type matching pairs (e.g., 'phrasal verb -> definition')</p> */}
+            <p className="hint-text">
+  Drag or type matching pairs (e.g., &quot;phrasal verb → definition&quot;)
+</p>
             <textarea
               className="matching-answer"
               placeholder="Enter your matches..."
@@ -256,33 +270,33 @@ export default function Quiz({ lesson, token, onSubmitSuccess }) {
         <div className="quiz-results">
           <div className="results-header">
             <h4>Quiz Results</h4>
-            <div className={`score-display ${results.quiz_score >= 70 ? 'pass' : 'fail'}`}>
-              <div className="score-number">{results.quiz_score}%</div>
-              <div className="score-label">{results.quiz_score >= 70 ? '✓ Great!' : 'Try again'}</div>
+            <div className={`score-display ${results.percentage >= 70 ? 'pass' : 'fail'}`}>
+              <div className="score-number">{results.percentage}%</div>
+              <div className="score-label">{results.percentage >= 70 ? '✓ Great!' : 'Try again'}</div>
             </div>
           </div>
 
           <div className="results-stats">
             <div className="result-stat">
               <span className="stat-label">Score Earned</span>
-              <span className="stat-value">{results.score_earned}/{results.total_marks}</span>
+              <span className="stat-value">{results.score}/{results.total}</span>
             </div>
             <div className="result-stat">
               <span className="stat-label">Correct Answers</span>
-              <span className="stat-value">{results.detailed_results.filter(r => r.correct).length}/{results.detailed_results.length}</span>
+              <span className="stat-value">{results.details.filter(r => r.correct).length}/{results.details.length}</span>
             </div>
           </div>
 
           <div className="results-detail">
-            {results.detailed_results.map((result, idx) => (
-              <div key={idx} className={`result-item ${result.correct ? 'correct' : 'incorrect'}`}>
+            {results.details.map((result, idx) => (
+              <div key={idx} className={`result-item ${result.is_correct ? 'correct' : 'incorrect'}`}>
                 <div className="result-icon">
-                  {result.correct ? <CheckCircle size={20} /> : <XCircle size={20} />}
+                  {result.is_correct ? <CheckCircle size={20} /> : <XCircle size={20} />}
                 </div>
                 <div className="result-content">
                   <p className="result-question">Question {idx + 1}</p>
                   <p className="result-answer">Your answer: <strong>{result.user_answer}</strong></p>
-                  <p className="result-marks">+{result.marks_awarded} marks</p>
+                  <p className="result-marks">+{result.marks} marks</p>
                 </div>
               </div>
             ))}

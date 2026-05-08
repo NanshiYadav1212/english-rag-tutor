@@ -15,7 +15,8 @@ export default function LessonCard({ lesson, isSelected, onSelect, token }) {
       setLoading(true);
       try {
         const res = await api(token).get(`/quiz/attempts/${lesson.slug}`);
-        setAttemptCount(res.data?.attempts || 0);
+        // setAttemptCount(res.data?.attempts || 0);
+        setAttemptCount(res.data?.attempts?.length || 0);
         setLastScore(res.data?.last_score || null);
         setRecentGrades(res.data?.recent_grades || []);
       } catch (err) {

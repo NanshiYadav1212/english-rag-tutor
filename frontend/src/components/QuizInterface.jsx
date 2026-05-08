@@ -49,12 +49,18 @@ export default function QuizInterface({ lessonSlug, token, userEmail, onBack, on
 
     try {
       // Build answers array: [{ question_id: string, answer: any }]
+      // const answersArray = Object.entries(answers).map(([key, value]) => {
+      //   // key is like 'q7' — extract digits to form the id; fallback to raw key
+      //   const digits = key.replace(/\D/g, '');
+      //   const qid = digits.length ? digits : key;
+      //   return { question_id: String(qid), answer: value };
+      // });
       const answersArray = Object.entries(answers).map(([key, value]) => {
-        // key is like 'q7' — extract digits to form the id; fallback to raw key
-        const digits = key.replace(/\D/g, '');
-        const qid = digits.length ? digits : key;
-        return { question_id: String(qid), answer: value };
-      });
+  return {
+    question_id: key.replace("q", ""),
+    answer: value
+  };
+});
 
 
       const response = await api(token).post('/quiz/submit', {
@@ -77,8 +83,8 @@ export default function QuizInterface({ lessonSlug, token, userEmail, onBack, on
     const labels = {
       multiple_choice: 'Multiple Choice',
       true_false: 'True / False',
-      fill_in_blanks: 'Fill in the Blanks',
-      match_following: 'Match the Following',
+      fill_blank: 'Fill in the Blanks',
+      match: 'Match the Following',
       short_answer: 'Short Answer'
     };
     return labels[type] || type;
@@ -91,7 +97,7 @@ export default function QuizInterface({ lessonSlug, token, userEmail, onBack, on
     if (quizType === 'multiple_choice') {
       return (
         <div key={idx} className="question multiple-choice">
-          <h4>{question.question}</h4>
+          <h4>{question.question_text}</h4>
           <div className="options">
             {question.options?.map((option, optIdx) => (
               <label key={optIdx} className="option">
@@ -114,7 +120,7 @@ export default function QuizInterface({ lessonSlug, token, userEmail, onBack, on
     if (quizType === 'true_false') {
       return (
         <div key={idx} className="question true-false">
-          <h4>{question.question}</h4>
+          <h4>{question.question_text}</h4>
           <div className="tf-options">
             <label className="tf-option">
               <input
@@ -143,10 +149,10 @@ export default function QuizInterface({ lessonSlug, token, userEmail, onBack, on
       );
     }
 
-    if (quizType === 'fill_in_blanks') {
+    if (quizType === 'fill_in_blank') {
       return (
         <div key={idx} className="question fill-blank">
-          <h4>{question.question}</h4>
+          <h4>{question.question_text}</h4>
           <input
             type="text"
             className="answer-input"
@@ -159,10 +165,10 @@ export default function QuizInterface({ lessonSlug, token, userEmail, onBack, on
       );
     }
 
-    if (quizType === 'match_following') {
+    if (quizType === 'match') {
       return (
         <div key={idx} className="question match">
-          <h4>{question.question}</h4>
+          <h4>{question.question_text}</h4>
           <div className="matching-pairs">
             {question.pairs?.map((pair, pIdx) => (
               <div key={pIdx} className="match-row">
@@ -193,7 +199,7 @@ export default function QuizInterface({ lessonSlug, token, userEmail, onBack, on
     if (quizType === 'short_answer') {
       return (
         <div key={idx} className="question short-answer">
-          <h4>{question.question}</h4>
+          <h4>{question.question_text}</h4>
           <textarea
             className="answer-textarea"
             value={currentAnswer || ''}
